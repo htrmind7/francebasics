@@ -1,0 +1,57 @@
+.screen {
+  max-width: 560px;
+  margin: 0 auto;
+  padding: 32px 20px 48px;
+}
+
+.app-title {
+  margin: 0 0 4px;
+  font-family: var(--font-fr);
+  font-size: 2rem;
+}
+
+.muted {
+  margin: 0;
+  color: var(--text-muted);
+}
+
+.section-title {
+  margin: 28px 0 10px;
+  font-size: 1rem;
+  color: var(--text-muted);
+}
+
+.pills {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.pill {
+  min-height: 46px;
+  padding: 0 22px;
+  border: 2px solid var(--border);
+  border-radius: 999px;
+  background: var(--card);
+  font-weight: 500;
+  cursor: pointer;
+  transition:
+    border-color 0.2s,
+    color 0.2s,
+    transform 0.12s;
+}
+
+.pill:active {
+  transform: scale(0.96);
+}
+
+.pill-active {
+  border-color: var(--coral);
+  color: var(--coral-ink);
+}
+
+.disclaimer {
+  margin-top: 40px;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}

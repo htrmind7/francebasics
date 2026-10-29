@@ -1,0 +1,19 @@
+{
+  "app": {
+    "name": "FranceBasics",
+    "tagline": "Everyday life in France, explained.",
+    "disclaimer": "General explanations, not legal or official advice. Always check the official site."
+  },
+  "settings": {
+    "title": "Settings",
+    "language": "Language",
+    "appearance": "Appearance",
+    "appearanceLight": "Light",
+    "appearanceDark": "Dark",
+    "appearanceMint": "Mint"
+  },
+  "languages": {
+    "en": "English",
+    "vi": "Tiếng Việt"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "app": {
+    "name": "FranceBasics",
+    "tagline": "Cuộc sống hằng ngày ở Pháp, được giải thích dễ hiểu.",
+    "disclaimer": "Chỉ là giải thích chung, không phải tư vấn pháp lý hay chính thức. Luôn kiểm tra trên trang web chính thức."
+  },
+  "settings": {
+    "title": "Cài đặt",
+    "language": "Ngôn ngữ",
+    "appearance": "Giao diện",
+    "appearanceLight": "Sáng",
+    "appearanceDark": "Tối",
+    "appearanceMint": "Xanh bạc hà"
+  },
+  "languages": {
+    "en": "English",
+    "vi": "Tiếng Việt"
+  }
+}
