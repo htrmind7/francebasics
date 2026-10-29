@@ -1,0 +1,396 @@
+[
+  {
+    "id": "big-picture",
+    "categoryId": "first-days",
+    "title": {
+      "en": "How French admin works: the big picture",
+      "vi": "Hành chính Pháp vận hành thế nào: bức tranh tổng quát"
+    },
+    "icon": "file",
+    "summary": {
+      "en": "Why everything needs a document, an account and a bit of patience.",
+      "vi": "Vì sao việc gì cũng cần giấy tờ, tài khoản và một chút kiên nhẫn."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Paper and proof",
+          "vi": "Giấy tờ và bằng chứng"
+        },
+        "body": {
+          "en": "France runs on documents. You will often be asked for an ID, a proof of address (justificatif de domicile) and a proof of your status, for example as a student. Keep a paper copy and a digital copy of everything.",
+          "vi": "Ở Pháp, việc gì cũng dựa vào giấy tờ. Bạn thường được yêu cầu giấy tùy thân, giấy chứng minh nơi ở (justificatif de domicile) và giấy chứng minh tình trạng của bạn, ví dụ là sinh viên. Hãy giữ một bản giấy và một bản điện tử của mọi thứ."
+        }
+      },
+      {
+        "heading": {
+          "en": "Online accounts",
+          "vi": "Tài khoản trực tuyến"
+        },
+        "body": {
+          "en": "Most procedures are done on official websites with a personal account. Codes are sent to your email or phone, so keep both working and easy to reach.",
+          "vi": "Phần lớn thủ tục được làm trên trang web chính thức bằng tài khoản cá nhân. Mã xác nhận được gửi qua email hoặc điện thoại, nên hãy giữ cả hai luôn dùng được."
+        }
+      },
+      {
+        "heading": {
+          "en": "Patience and politeness",
+          "vi": "Kiên nhẫn và lịch sự"
+        },
+        "body": {
+          "en": "Answers can take time. Start early, keep every message you receive, and begin each conversation with a polite hello. It really helps.",
+          "vi": "Việc phản hồi có thể mất thời gian. Hãy bắt đầu sớm, giữ lại mọi thư từ nhận được và luôn mở đầu bằng lời chào lịch sự. Điều này giúp ích rất nhiều."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Keep copies of every important document, on paper and on your phone.",
+        "vi": "Giữ bản sao mọi giấy tờ quan trọng, cả bản giấy lẫn trên điện thoại."
+      },
+      {
+        "en": "Most procedures start on an official website, not in a queue.",
+        "vi": "Phần lớn thủ tục bắt đầu trên trang web chính thức, không phải ở hàng chờ."
+      },
+      {
+        "en": "Keep your email and phone number active: codes are sent there.",
+        "vi": "Giữ email và số điện thoại luôn hoạt động: mã xác nhận được gửi vào đó."
+      },
+      {
+        "en": "Start early. Deadlines and appointments fill up.",
+        "vi": "Hãy bắt đầu sớm. Thời hạn và lịch hẹn rất nhanh kín."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Throwing away a letter that looks like advertising: it can be official.",
+        "vi": "Vứt một lá thư trông như quảng cáo: có thể đó là thư chính thức."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "Bonjour, j’ai un rendez-vous.",
+        "meaning": {
+          "en": "Hello, I have an appointment.",
+          "vi": "Xin chào, tôi có hẹn."
+        }
+      },
+      {
+        "fr": "Je voudrais prendre rendez-vous.",
+        "meaning": {
+          "en": "I would like to make an appointment.",
+          "vi": "Tôi muốn đặt lịch hẹn."
+        }
+      },
+      {
+        "fr": "Pouvez-vous répéter, s’il vous plaît ?",
+        "meaning": {
+          "en": "Can you repeat, please?",
+          "vi": "Bạn có thể nhắc lại được không?"
+        }
+      }
+    ],
+    "keywords": [
+      "admin",
+      "paperwork",
+      "documents",
+      "justificatif de domicile",
+      "appointment",
+      "prefecture"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "id": "residence-permit",
+    "categoryId": "first-days",
+    "title": {
+      "en": "Your visa and residence permit: how it works",
+      "vi": "Visa và giấy phép cư trú: vận hành thế nào"
+    },
+    "icon": "idcard",
+    "summary": {
+      "en": "What the procedure is about, and where to do it for real.",
+      "vi": "Thủ tục này là gì, và nơi làm thủ tục thật sự."
+    },
+    "kind": "procedure",
+    "sections": [
+      {
+        "heading": {
+          "en": "What it is",
+          "vi": "Thủ tục này là gì"
+        },
+        "body": {
+          "en": "When you stay in France for a long time, your right to stay is tied to your visa or residence permit. Depending on your visa, you may have to confirm it online after arrival, and later renew or change it.",
+          "vi": "Khi ở Pháp dài ngày, quyền cư trú của bạn gắn với visa hoặc giấy phép cư trú. Tùy loại visa, bạn có thể phải xác nhận trực tuyến sau khi đến, rồi gia hạn hoặc đổi sau này."
+        }
+      },
+      {
+        "heading": {
+          "en": "Where to do it",
+          "vi": "Làm ở đâu"
+        },
+        "body": {
+          "en": "These procedures are done through official government websites. Read the instructions given with your visa, then follow the official site step by step. This app only explains the idea, it never replaces those instructions.",
+          "vi": "Các thủ tục này được làm qua trang web chính thức của chính phủ. Hãy đọc hướng dẫn đi kèm visa, rồi làm từng bước theo trang chính thức. Ứng dụng này chỉ giải thích ý chính, không thay thế các hướng dẫn đó."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Your visa type decides what you must do: read it and the official instructions.",
+        "vi": "Loại visa quyết định bạn phải làm gì: hãy đọc visa và hướng dẫn chính thức."
+      },
+      {
+        "en": "Procedures are done on official government websites.",
+        "vi": "Thủ tục được làm trên trang web chính thức của chính phủ."
+      },
+      {
+        "en": "Look-alike websites exist and may charge extra fees. Check the address.",
+        "vi": "Có những trang giả mạo và có thể thu thêm phí. Hãy kiểm tra địa chỉ trang web."
+      },
+      {
+        "en": "Keep proof of every step, such as confirmation emails and receipts.",
+        "vi": "Giữ bằng chứng của mọi bước, như email xác nhận và biên nhận."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Waiting until the last moment to start.",
+        "vi": "Chờ đến phút cuối mới bắt đầu."
+      },
+      {
+        "en": "Trusting a forum or a video instead of the official site: rules change.",
+        "vi": "Tin vào diễn đàn hoặc video thay vì trang chính thức: quy định thay đổi."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "J’ai un rendez-vous à la préfecture.",
+        "meaning": {
+          "en": "I have an appointment at the préfecture.",
+          "vi": "Tôi có hẹn ở sở hành chính (préfecture)."
+        }
+      },
+      {
+        "fr": "Voici mon passeport et mon visa.",
+        "meaning": {
+          "en": "Here is my passport and my visa.",
+          "vi": "Đây là hộ chiếu và visa của tôi."
+        }
+      }
+    ],
+    "keywords": [
+      "visa",
+      "residence permit",
+      "titre de sejour",
+      "prefecture",
+      "renew",
+      "anef",
+      "student visa"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "ANEF: official portal for foreign nationals",
+          "vi": "ANEF: cổng chính thức cho người nước ngoài"
+        },
+        "url": "https://administration-etrangers-en-france.interieur.gouv.fr/"
+      },
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      },
+      {
+        "label": {
+          "en": "Campus France: studying in France",
+          "vi": "Campus France: du học tại Pháp"
+        },
+        "url": "https://www.campusfrance.org/en"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "id": "sim-and-phone",
+    "categoryId": "first-days",
+    "title": {
+      "en": "Getting a French phone number",
+      "vi": "Có số điện thoại Pháp"
+    },
+    "icon": "phone",
+    "summary": {
+      "en": "Prepaid or plan, and why you need a French number early.",
+      "vi": "Trả trước hay gói cước, và vì sao nên có số Pháp sớm."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Two ways to get a number",
+          "vi": "Hai cách có số điện thoại"
+        },
+        "body": {
+          "en": "You can buy a prepaid SIM, or take a monthly plan (forfait). Many plans have no long commitment, and eSIM is common on recent phones. Compare the offers before you choose.",
+          "vi": "Bạn có thể mua SIM trả trước hoặc đăng ký gói tháng (forfait). Nhiều gói không ràng buộc dài hạn, và eSIM khá phổ biến trên điện thoại đời mới. Hãy so sánh các ưu đãi trước khi chọn."
+        }
+      },
+      {
+        "heading": {
+          "en": "Why it matters",
+          "vi": "Vì sao quan trọng"
+        },
+        "body": {
+          "en": "Banks, health insurance and many websites send a code by SMS. A French number makes these steps much easier.",
+          "vi": "Ngân hàng, bảo hiểm y tế và nhiều trang web gửi mã qua SMS. Có số Pháp làm các bước này dễ hơn nhiều."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "A French number is useful for banks and official accounts.",
+        "vi": "Số Pháp hữu ích cho ngân hàng và tài khoản chính thức."
+      },
+      {
+        "en": "Many plans have no long commitment: check before you sign.",
+        "vi": "Nhiều gói không ràng buộc dài hạn: hãy kiểm tra trước khi ký."
+      },
+      {
+        "en": "Check what is included when you use your phone abroad.",
+        "vi": "Kiểm tra những gì được bao gồm khi dùng điện thoại ở nước ngoài."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Keeping only your foreign number: codes sent by SMS may not reach you.",
+        "vi": "Chỉ giữ số nước ngoài: mã gửi qua SMS có thể không đến được."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "Je voudrais une carte SIM.",
+        "meaning": {
+          "en": "I would like a SIM card.",
+          "vi": "Tôi muốn một SIM."
+        }
+      },
+      {
+        "fr": "Est-ce qu’il y a un engagement ?",
+        "meaning": {
+          "en": "Is there a commitment period?",
+          "vi": "Có ràng buộc thời hạn không?"
+        }
+      }
+    ],
+    "keywords": ["sim", "phone", "mobile", "forfait", "esim", "sms"],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "id": "post-and-parcels",
+    "categoryId": "first-days",
+    "title": {
+      "en": "Post, letters and parcels",
+      "vi": "Thư từ và bưu kiện"
+    },
+    "icon": "mail",
+    "summary": {
+      "en": "Your mailbox, missed-delivery slips and registered letters.",
+      "vi": "Hộp thư, giấy báo vắng mặt và thư bảo đảm."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Your mailbox",
+          "vi": "Hộp thư của bạn"
+        },
+        "body": {
+          "en": "Put your name on your mailbox, otherwise the postman may not deliver your mail. Check it regularly: official letters arrive on paper.",
+          "vi": "Hãy dán tên bạn lên hộp thư, nếu không người đưa thư có thể không giao thư. Kiểm tra thường xuyên: thư chính thức đến bằng giấy."
+        }
+      },
+      {
+        "heading": {
+          "en": "Missed deliveries",
+          "vi": "Khi vắng mặt lúc giao"
+        },
+        "body": {
+          "en": "If nobody is home, you get a slip (avis de passage). It tells you where to collect your parcel or letter. Bring an ID. Registered letters (lettre recommandée) are often important: collect them.",
+          "vi": "Nếu không có ai ở nhà, bạn nhận một giấy báo (avis de passage) cho biết nơi lấy bưu kiện hoặc thư. Hãy mang giấy tùy thân. Thư bảo đảm (lettre recommandée) thường quan trọng: hãy đi nhận."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Write your name on your mailbox.",
+        "vi": "Ghi tên bạn lên hộp thư."
+      },
+      {
+        "en": "A delivery slip in your mailbox means something is waiting for you somewhere.",
+        "vi": "Giấy báo trong hộp thư nghĩa là có thư hoặc bưu kiện đang chờ bạn ở đâu đó."
+      },
+      {
+        "en": "Bring an ID to collect a parcel or registered letter.",
+        "vi": "Mang giấy tùy thân khi nhận bưu kiện hoặc thư bảo đảm."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Ignoring a registered-letter slip: it can come from an administration.",
+        "vi": "Bỏ qua giấy báo thư bảo đảm: có thể thư đến từ cơ quan hành chính."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "Je viens chercher un colis.",
+        "meaning": {
+          "en": "I have come to collect a parcel.",
+          "vi": "Tôi đến lấy một bưu kiện."
+        }
+      },
+      {
+        "fr": "Voici mon avis de passage.",
+        "meaning": {
+          "en": "Here is my delivery slip.",
+          "vi": "Đây là giấy báo của tôi."
+        }
+      }
+    ],
+    "keywords": [
+      "post",
+      "mail",
+      "la poste",
+      "parcel",
+      "colis",
+      "avis de passage",
+      "recommande"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "La Poste",
+          "vi": "La Poste"
+        },
+        "url": "https://www.laposte.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  }
+]

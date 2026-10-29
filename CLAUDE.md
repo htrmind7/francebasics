@@ -10,6 +10,10 @@ Vite, React, TypeScript (strict, ~6.0 for typescript-eslint compatibility), vite
 
 GitHub Pages, public repo, base path `/francebasics/` (vite.config.ts, manifest start_url and scope).
 
+## Content
+
+Guides: content/guides/*.json (one file per topic). Texts are `{ en, vi? }`, English is mandatory. Official links are root pages of French government sites (never deep links that may break).
+
 ## Rules
 
 - Code and identifiers in English; UI texts only in src/i18n/en.json and vi.json (same keys, checked by a test).

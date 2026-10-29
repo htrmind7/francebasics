@@ -1,0 +1,426 @@
+[
+  {
+    "id": "greetings-and-la-bise",
+    "categoryId": "social-codes",
+    "title": {
+      "en": "Saying hello: handshakes and la bise",
+      "vi": "Chào hỏi: bắt tay và la bise"
+    },
+    "icon": "hand",
+    "summary": {
+      "en": "How people greet each other, and what to do when you are unsure.",
+      "vi": "Người ta chào nhau thế nào, và nên làm gì khi bạn chưa chắc."
+    },
+    "kind": "culture",
+    "sections": [
+      {
+        "heading": {
+          "en": "Two common greetings",
+          "vi": "Hai cách chào phổ biến"
+        },
+        "body": {
+          "en": "At a first or formal meeting, people usually shake hands. Among friends, family and many colleagues, people do la bise: a light cheek kiss, often one on each cheek. The number of kisses depends on the region.",
+          "vi": "Trong lần gặp đầu hoặc gặp trang trọng, người ta thường bắt tay. Giữa bạn bè, gia đình và nhiều đồng nghiệp, người ta chào bằng la bise: hôn nhẹ lên má, thường mỗi bên má một lần. Số lần hôn tùy vùng."
+        }
+      },
+      {
+        "heading": {
+          "en": "In shops and public places",
+          "vi": "Ở cửa hàng và nơi công cộng"
+        },
+        "body": {
+          "en": "Say “Bonjour” when you enter a shop, a waiting room or a lift, and “Au revoir” when you leave. It is not about knowing the person: it is basic politeness.",
+          "vi": "Hãy nói “Bonjour” khi vào cửa hàng, phòng chờ hoặc thang máy, và “Au revoir” khi ra về. Không cần quen người đó: đây là phép lịch sự cơ bản."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Say “Bonjour” when you enter a shop, and “Au revoir” when you leave.",
+        "vi": "Nói “Bonjour” khi vào cửa hàng và “Au revoir” khi ra về."
+      },
+      {
+        "en": "If someone leans in for la bise, follow their lead.",
+        "vi": "Nếu ai đó nghiêng người để chào la bise, hãy làm theo họ."
+      },
+      {
+        "en": "When unsure, a smile and a handshake are always safe.",
+        "vi": "Khi chưa chắc, nụ cười và cái bắt tay luôn an toàn."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Entering a shop without saying hello is considered rude.",
+        "vi": "Vào cửa hàng mà không chào bị coi là bất lịch sự."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "Bonjour, enchanté(e).",
+        "meaning": {
+          "en": "Hello, nice to meet you.",
+          "vi": "Xin chào, rất vui được gặp bạn."
+        }
+      },
+      {
+        "fr": "Au revoir, bonne journée !",
+        "meaning": {
+          "en": "Goodbye, have a nice day!",
+          "vi": "Tạm biệt, chúc một ngày tốt lành!"
+        }
+      }
+    ],
+    "keywords": ["bise", "kiss", "hello", "handshake", "politeness", "bonjour"],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "id": "tu-vs-vous",
+    "categoryId": "social-codes",
+    "title": {
+      "en": "“Tu” or “vous”?",
+      "vi": "“Tu” hay “vous”?"
+    },
+    "icon": "chat",
+    "summary": {
+      "en": "Two ways to say “you”, and how to choose.",
+      "vi": "Hai cách nói “bạn”, và cách chọn."
+    },
+    "kind": "culture",
+    "sections": [
+      {
+        "heading": {
+          "en": "Two words for “you”",
+          "vi": "Hai từ cho “bạn”"
+        },
+        "body": {
+          "en": "Vous is formal: use it with strangers, older people, teachers, in shops and offices. Tu is informal: friends, family, children, and most students among themselves.",
+          "vi": "Vous là cách nói trang trọng: dùng với người lạ, người lớn tuổi, giáo viên, ở cửa hàng và văn phòng. Tu là cách nói thân mật: bạn bè, gia đình, trẻ em và phần lớn sinh viên với nhau."
+        }
+      },
+      {
+        "heading": {
+          "en": "When to switch",
+          "vi": "Khi nào đổi cách nói"
+        },
+        "body": {
+          "en": "Start with vous if unsure. Often the other person will say “on peut se tutoyer ?”. The switch is usually proposed by the older person or the one with more authority. Using vous never offends.",
+          "vi": "Nếu chưa chắc, hãy bắt đầu bằng vous. Thường người kia sẽ nói “on peut se tutoyer ?”. Việc đổi thường do người lớn tuổi hơn hoặc người có vị thế cao hơn đề nghị. Dùng vous không bao giờ gây phật lòng."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Use vous with strangers, professors and staff.",
+        "vi": "Dùng vous với người lạ, giảng viên và nhân viên."
+      },
+      {
+        "en": "Use tu with friends and most fellow students.",
+        "vi": "Dùng tu với bạn bè và phần lớn bạn học."
+      },
+      {
+        "en": "When unsure, vous is the safe choice.",
+        "vi": "Khi chưa chắc, vous là lựa chọn an toàn."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Using tu with a teacher or a stranger before they suggest it.",
+        "vi": "Dùng tu với giáo viên hoặc người lạ trước khi họ đề nghị."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "On peut se tutoyer ?",
+        "meaning": {
+          "en": "Can we use “tu”?",
+          "vi": "Mình xưng “tu” được không?"
+        }
+      },
+      {
+        "fr": "Vous pouvez répéter ?",
+        "meaning": {
+          "en": "Can you repeat?",
+          "vi": "Bạn có thể nhắc lại không?"
+        }
+      }
+    ],
+    "keywords": ["tu", "vous", "formal", "informal", "tutoyer", "politeness"],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "id": "meals-and-invitations",
+    "categoryId": "social-codes",
+    "title": {
+      "en": "Meals, invitations and restaurants",
+      "vi": "Bữa ăn, lời mời và nhà hàng"
+    },
+    "icon": "utensils",
+    "summary": {
+      "en": "What to expect at a French table, and how to behave as a guest.",
+      "vi": "Điều cần biết ở bàn ăn kiểu Pháp, và cách cư xử khi là khách."
+    },
+    "kind": "culture",
+    "sections": [
+      {
+        "heading": {
+          "en": "At home",
+          "vi": "Ở nhà"
+        },
+        "body": {
+          "en": "Meals are slow and social. If you are invited for dinner, arrive a few minutes after the time, not an hour late. Bring something small: a dessert, flowers or a bottle. Wait for the host to start, and say “Bon appétit”.",
+          "vi": "Bữa ăn thường diễn ra chậm rãi và mang tính giao lưu. Nếu được mời ăn tối, hãy đến trễ vài phút so với giờ hẹn, đừng trễ cả giờ. Mang theo món nhỏ: tráng miệng, hoa hoặc chai rượu. Chờ chủ nhà bắt đầu, và nói “Bon appétit”."
+        }
+      },
+      {
+        "heading": {
+          "en": "At the restaurant",
+          "vi": "Ở nhà hàng"
+        },
+        "body": {
+          "en": "The waiter will not bring the bill unless you ask: say “L’addition, s’il vous plaît”. Service is included in the price. Leaving a little extra is a thank-you, not an obligation.",
+          "vi": "Người phục vụ sẽ không mang hóa đơn nếu bạn không yêu cầu: hãy nói “L’addition, s’il vous plaît”. Phí phục vụ đã tính trong giá. Để thêm một ít tiền là lời cảm ơn, không bắt buộc."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Arrive a few minutes late, not an hour, for dinner at someone’s home.",
+        "vi": "Đến muộn vài phút, không phải cả giờ, khi ăn tối ở nhà người khác."
+      },
+      {
+        "en": "Bring a small gift when you are invited.",
+        "vi": "Mang một món quà nhỏ khi được mời."
+      },
+      {
+        "en": "Ask for the bill: it is not brought automatically.",
+        "vi": "Hãy yêu cầu hóa đơn: nhà hàng không tự mang ra."
+      },
+      {
+        "en": "Tipping is optional because service is included.",
+        "vi": "Tiền boa là tùy ý vì phí phục vụ đã tính sẵn."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Starting to eat before the host does.",
+        "vi": "Bắt đầu ăn trước khi chủ nhà bắt đầu."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "Bon appétit !",
+        "meaning": {
+          "en": "Enjoy your meal!",
+          "vi": "Chúc ngon miệng!"
+        }
+      },
+      {
+        "fr": "L’addition, s’il vous plaît.",
+        "meaning": {
+          "en": "The bill, please.",
+          "vi": "Cho tôi xin hóa đơn."
+        }
+      },
+      {
+        "fr": "C’était délicieux, merci !",
+        "meaning": {
+          "en": "It was delicious, thank you!",
+          "vi": "Rất ngon, cảm ơn!"
+        }
+      }
+    ],
+    "keywords": [
+      "meal",
+      "dinner",
+      "invitation",
+      "restaurant",
+      "tip",
+      "tipping",
+      "bill",
+      "addition",
+      "bon appetit"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "id": "shops-and-bakery",
+    "categoryId": "social-codes",
+    "title": {
+      "en": "Shops, markets and the bakery",
+      "vi": "Cửa hàng, chợ và tiệm bánh mì"
+    },
+    "icon": "bag",
+    "summary": {
+      "en": "Small habits that make shopping easier.",
+      "vi": "Những thói quen nhỏ giúp mua sắm dễ hơn."
+    },
+    "kind": "culture",
+    "sections": [
+      {
+        "heading": {
+          "en": "Opening hours",
+          "vi": "Giờ mở cửa"
+        },
+        "body": {
+          "en": "Many small shops close for lunch, and many close on Sunday or on one day of the week, especially outside big cities. Check the hours posted on the door, or online, before you go.",
+          "vi": "Nhiều cửa hàng nhỏ đóng cửa giờ ăn trưa, và nhiều nơi nghỉ Chủ nhật hoặc một ngày trong tuần, nhất là ngoài các thành phố lớn. Hãy xem giờ dán trên cửa hoặc tìm trên mạng trước khi đi."
+        }
+      },
+      {
+        "heading": {
+          "en": "How to shop",
+          "vi": "Cách mua sắm"
+        },
+        "body": {
+          "en": "Greet the seller first, then ask. In a bakery (boulangerie), ask for what you want and pay at the counter. At markets, ask before touching the produce. In supermarkets, bring your own bag: plastic bags are rarely free.",
+          "vi": "Hãy chào người bán trước, rồi mới hỏi. Ở tiệm bánh mì (boulangerie), nói món bạn muốn rồi trả tiền tại quầy. Ở chợ, hãy hỏi trước khi sờ vào hàng. Ở siêu thị, hãy mang túi riêng: túi nhựa hiếm khi miễn phí."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Say bonjour before you ask for anything.",
+        "vi": "Chào bonjour trước khi hỏi bất cứ điều gì."
+      },
+      {
+        "en": "Check the opening hours: lunch breaks and Sundays are common.",
+        "vi": "Kiểm tra giờ mở cửa: nghỉ trưa và Chủ nhật là chuyện thường."
+      },
+      {
+        "en": "Bring your own shopping bag.",
+        "vi": "Mang theo túi mua sắm của bạn."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Arriving on Sunday afternoon and finding everything closed.",
+        "vi": "Đến vào chiều Chủ nhật và thấy mọi nơi đều đóng cửa."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "Bonjour, je voudrais une baguette, s’il vous plaît.",
+        "meaning": {
+          "en": "Hello, I would like a baguette, please.",
+          "vi": "Xin chào, cho tôi một ổ baguette."
+        }
+      },
+      {
+        "fr": "Je regarde seulement, merci.",
+        "meaning": {
+          "en": "I am just looking, thank you.",
+          "vi": "Tôi chỉ xem thôi, cảm ơn."
+        }
+      },
+      {
+        "fr": "C’est combien ?",
+        "meaning": {
+          "en": "How much is it?",
+          "vi": "Cái này bao nhiêu tiền?"
+        }
+      }
+    ],
+    "keywords": [
+      "shop",
+      "bakery",
+      "boulangerie",
+      "market",
+      "supermarket",
+      "opening hours",
+      "sunday"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "id": "neighbours-and-noise",
+    "categoryId": "social-codes",
+    "title": {
+      "en": "Neighbours, noise and rubbish",
+      "vi": "Hàng xóm, tiếng ồn và rác"
+    },
+    "icon": "volume",
+    "summary": {
+      "en": "Living side by side without conflicts.",
+      "vi": "Sống cạnh nhau mà không xảy ra xích mích."
+    },
+    "kind": "culture",
+    "sections": [
+      {
+        "heading": {
+          "en": "Noise",
+          "vi": "Tiếng ồn"
+        },
+        "body": {
+          "en": "Noise in the evening and at night is not accepted in buildings, and repeated noise can lead to complaints or even a fine. If you plan a party, tell your neighbours in advance. Rules can differ between buildings and towns.",
+          "vi": "Tiếng ồn buổi tối và ban đêm không được chấp nhận trong các tòa nhà, và ồn ào lặp lại có thể bị khiếu nại hoặc thậm chí bị phạt. Nếu định tổ chức tiệc, hãy báo trước cho hàng xóm. Quy định có thể khác nhau giữa các tòa nhà và các thành phố."
+        }
+      },
+      {
+        "heading": {
+          "en": "Hello and rubbish",
+          "vi": "Chào hỏi và rác"
+        },
+        "body": {
+          "en": "Say bonjour to people you meet in the stairs. Sort your rubbish into the right bins: recycling and glass often have their own bins. Ask your landlord or your town hall how it works where you live.",
+          "vi": "Hãy chào bonjour những người bạn gặp ở cầu thang. Phân loại rác vào đúng thùng: rác tái chế và thủy tinh thường có thùng riêng. Hỏi chủ nhà hoặc tòa thị chính nơi bạn ở để biết cách thực hiện."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Keep it quiet in the evening and at night.",
+        "vi": "Giữ yên tĩnh vào buổi tối và ban đêm."
+      },
+      {
+        "en": "Warn your neighbours before a party.",
+        "vi": "Báo trước cho hàng xóm khi có tiệc."
+      },
+      {
+        "en": "Sort your rubbish: ask how it works in your town.",
+        "vi": "Phân loại rác: hãy hỏi cách làm ở thành phố bạn."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Putting all your rubbish in one bin when sorting is required.",
+        "vi": "Bỏ tất cả rác vào một thùng khi phải phân loại."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "Bonjour, je suis votre nouveau voisin.",
+        "meaning": {
+          "en": "Hello, I am your new neighbour.",
+          "vi": "Xin chào, tôi là hàng xóm mới của bạn."
+        }
+      },
+      {
+        "fr": "Excusez-moi pour le bruit.",
+        "meaning": {
+          "en": "Sorry for the noise.",
+          "vi": "Xin lỗi vì tiếng ồn."
+        }
+      }
+    ],
+    "keywords": [
+      "neighbours",
+      "noise",
+      "party",
+      "rubbish",
+      "recycling",
+      "tri",
+      "tapage"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  }
+]

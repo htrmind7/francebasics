@@ -5,14 +5,21 @@ import { StrictMode } from 'react'
 import { createRoot } from 'react-dom/client'
 import App from './App.tsx'
 import { applyAppearance, loadAppearance } from './app/appearance.ts'
+import { applyTextSize, loadTextSize } from './app/textsize.ts'
+import { primeVoices } from './audio/speech.ts'
+import { I18nProvider } from './i18n/context.tsx'
 import './styles/tokens.css'
 import './styles/global.css'
 import './styles/app.css'
 
 applyAppearance(loadAppearance())
+applyTextSize(loadTextSize())
+primeVoices()
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
-    <App />
+    <I18nProvider>
+      <App />
+    </I18nProvider>
   </StrictMode>,
 )

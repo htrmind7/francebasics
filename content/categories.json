@@ -1,38 +1,72 @@
 [
   {
     "id": "first-days",
-    "title": { "en": "First days", "vi": "Những ngày đầu" },
+    "title": {
+      "en": "First days",
+      "vi": "Những ngày đầu"
+    },
     "icon": "suitcase",
-    "order": 10
+    "order": 10,
+    "tone": "coral"
   },
   {
     "id": "money",
-    "title": { "en": "Money and banking", "vi": "Tiền bạc và ngân hàng" },
-    "icon": "coins",
-    "order": 20
+    "title": {
+      "en": "Money and banking",
+      "vi": "Tiền bạc và ngân hàng"
+    },
+    "icon": "euro",
+    "order": 20,
+    "tone": "gold"
   },
   {
     "id": "housing",
-    "title": { "en": "Housing", "vi": "Nhà ở" },
+    "title": {
+      "en": "Housing",
+      "vi": "Nhà ở"
+    },
     "icon": "home",
-    "order": 30
+    "order": 30,
+    "tone": "teal"
   },
   {
     "id": "health",
-    "title": { "en": "Health", "vi": "Sức khỏe" },
+    "title": {
+      "en": "Health",
+      "vi": "Sức khỏe"
+    },
     "icon": "cross",
-    "order": 40
+    "order": 40,
+    "tone": "coral"
   },
   {
     "id": "getting-around",
-    "title": { "en": "Getting around", "vi": "Đi lại" },
+    "title": {
+      "en": "Getting around",
+      "vi": "Đi lại"
+    },
     "icon": "train",
-    "order": 50
+    "order": 50,
+    "tone": "blue"
+  },
+  {
+    "id": "study-life",
+    "title": {
+      "en": "Study life",
+      "vi": "Đời sống sinh viên"
+    },
+    "icon": "cap",
+    "tone": "green",
+    "order": 55
   },
   {
     "id": "social-codes",
-    "title": { "en": "Social codes", "vi": "Quy tắc ứng xử" },
-    "icon": "handshake",
-    "order": 60
+    "title": {
+      "en": "Social codes",
+      "vi": "Quy tắc ứng xử"
+    },
+    "icon": "hand",
+    "order": 60,
+    "tone": "purple"
   }
 ]

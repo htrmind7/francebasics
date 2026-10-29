@@ -1,81 +1,90 @@
-import { useEffect, useState } from 'react'
+import { useState } from 'react'
 import {
-  APPEARANCES,
-  applyAppearance,
-  loadAppearance,
-  saveAppearance,
-  type Appearance,
-} from './app/appearance.ts'
-import {
-  getMessages,
-  LANGUAGES,
-  loadLanguage,
-  saveLanguage,
-  type Language,
-} from './i18n/i18n.ts'
+  emptyProgress,
+  loadProgress,
+  saveProgress,
+  toggleStep,
+} from './app/progress.ts'
+import { useRoute, type Route } from './app/router.ts'
+import type { ScreenProps } from './app/types.ts'
+import { loadPublishedContent } from './content/content.ts'
+import { useI18n } from './i18n/context.tsx'
+import { CategoryScreen } from './screens/CategoryScreen.tsx'
+import { ChecklistScreen } from './screens/ChecklistScreen.tsx'
+import { GuideScreen } from './screens/GuideScreen.tsx'
+import { HomeScreen } from './screens/HomeScreen.tsx'
+import { SearchScreen } from './screens/SearchScreen.tsx'
+import { SettingsScreen } from './screens/SettingsScreen.tsx'
+import { Icon } from './ui/Icon.tsx'
+
+const content = loadPublishedContent()
+
+const NAV = [
+  { name: 'home', href: '#/', icon: 'home' },
+  { name: 'search', href: '#/search', icon: 'search' },
+  { name: 'checklist', href: '#/checklist', icon: 'list' },
+  { name: 'settings', href: '#/settings', icon: 'gear' },
+] as const
+
+/** Which tab is highlighted: guides and topics belong to Home. */
+function activeTab(route: Route): (typeof NAV)[number]['name'] {
+  return route.name === 'category' || route.name === 'guide'
+    ? 'home'
+    : route.name
+}
 
 export default function App() {
-  const [language, setLanguage] = useState<Language>(loadLanguage)
-  const [appearance, setAppearance] = useState<Appearance>(loadAppearance)
-  const t = getMessages(language)
+  const { t } = useI18n()
+  const route = useRoute()
+  const [progress, setProgress] = useState(loadProgress)
 
-  useEffect(() => {
-    document.documentElement.lang = language
-  }, [language])
-
-  const labels: Record<Appearance, string> = {
-    light: t.settings.appearanceLight,
-    dark: t.settings.appearanceDark,
-    mint: t.settings.appearanceMint,
+  function update(next: typeof progress) {
+    saveProgress(next)
+    setProgress(next)
   }
 
-  function chooseLanguage(next: Language) {
-    saveLanguage(next)
-    setLanguage(next)
+  const props: ScreenProps = {
+    content,
+    progress,
+    onToggleStep: (checklistId, stepId) =>
+      update(toggleStep(progress, checklistId, stepId)),
+    onResetProgress: () => update(emptyProgress()),
+    onImportProgress: update,
   }
 
-  function chooseAppearance(next: Appearance) {
-    saveAppearance(next)
-    applyAppearance(next)
-    setAppearance(next)
+  const labels = {
+    home: t.nav.home,
+    search: t.nav.search,
+    checklist: t.nav.checklist,
+    settings: t.nav.settings,
   }
+  const current = activeTab(route)
 
   return (
-    <main className="screen">
-      <h1 className="app-title">{t.app.name}</h1>
-      <p className="muted">{t.app.tagline}</p>
-
-      <h2 className="section-title">{t.settings.language}</h2>
-      <div className="pills">
-        {LANGUAGES.map((option) => (
-          <button
-            key={option}
-            type="button"
-            className={`pill ${language === option ? 'pill-active' : ''}`}
-            aria-pressed={language === option}
-            onClick={() => chooseLanguage(option)}
+    <>
+      <main>
+        {route.name === 'home' && <HomeScreen {...props} />}
+        {route.name === 'category' && (
+          <CategoryScreen {...props} id={route.id} />
+        )}
+        {route.name === 'guide' && <GuideScreen {...props} id={route.id} />}
+        {route.name === 'search' && <SearchScreen {...props} />}
+        {route.name === 'checklist' && <ChecklistScreen {...props} />}
+        {route.name === 'settings' && <SettingsScreen {...props} />}
+      </main>
+      <nav className="tabbar" aria-label="Main">
+        {NAV.map((item) => (
+          <a
+            key={item.name}
+            href={item.href}
+            className={current === item.name ? 'tab tab-active' : 'tab'}
+            aria-current={current === item.name ? 'page' : undefined}
           >
-            {t.languages[option]}
-          </button>
+            <Icon name={item.icon} size={22} />
+            <span>{labels[item.name]}</span>
+          </a>
         ))}
-      </div>
-
-      <h2 className="section-title">{t.settings.appearance}</h2>
-      <div className="pills">
-        {APPEARANCES.map((option) => (
-          <button
-            key={option}
-            type="button"
-            className={`pill ${appearance === option ? 'pill-active' : ''}`}
-            aria-pressed={appearance === option}
-            onClick={() => chooseAppearance(option)}
-          >
-            {labels[option]}
-          </button>
-        ))}
-      </div>
-
-      <p className="disclaimer">{t.app.disclaimer}</p>
-    </main>
+      </nav>
+    </>
   )
 }

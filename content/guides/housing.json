@@ -1,0 +1,402 @@
+[
+  {
+    "id": "finding-a-place",
+    "categoryId": "housing",
+    "title": {
+      "en": "Finding a place to live",
+      "vi": "Tìm chỗ ở"
+    },
+    "icon": "home",
+    "summary": {
+      "en": "The main ways to find housing, and how to avoid scams.",
+      "vi": "Các cách tìm nhà chính, và cách tránh bị lừa."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Where to look",
+          "vi": "Tìm ở đâu"
+        },
+        "body": {
+          "en": "Options include university residences, private rentals, shared flats (colocation) and rooms with a host. Places can be furnished (meublé) or empty (vide). Start looking early: good places go quickly.",
+          "vi": "Các lựa chọn gồm ký túc xá đại học, thuê nhà tư nhân, ở ghép (colocation) và thuê phòng ở nhà chủ. Nhà có thể có sẵn đồ (meublé) hoặc trống (vide). Hãy bắt đầu tìm sớm: chỗ tốt hết rất nhanh."
+        }
+      },
+      {
+        "heading": {
+          "en": "The guarantor",
+          "vi": "Người bảo lãnh"
+        },
+        "body": {
+          "en": "Landlords often ask for a guarantor (garant), someone who promises to pay if you cannot. Guarantee schemes exist for students and young people; check the official site to see if you are eligible.",
+          "vi": "Chủ nhà thường yêu cầu người bảo lãnh (garant), tức người cam kết trả tiền nếu bạn không trả được. Có các chương trình bảo lãnh cho sinh viên và người trẻ; hãy kiểm tra trên trang chính thức xem bạn có đủ điều kiện không."
+        }
+      },
+      {
+        "heading": {
+          "en": "Avoid scams",
+          "vi": "Tránh bị lừa"
+        },
+        "body": {
+          "en": "Never send money before you have visited, or seen a real contract. A price that is too good to be true usually is. Be careful with owners who are abroad and ask for urgent payment.",
+          "vi": "Đừng bao giờ chuyển tiền trước khi đã xem nhà hoặc thấy hợp đồng thật. Giá quá rẻ thường là lừa đảo. Hãy cẩn thận với chủ nhà ở nước ngoài và đòi thanh toán gấp."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Start early and visit before you pay anything.",
+        "vi": "Bắt đầu sớm và xem nhà trước khi trả bất cứ khoản nào."
+      },
+      {
+        "en": "Know the difference between furnished and unfurnished.",
+        "vi": "Biết sự khác nhau giữa nhà có đồ và nhà trống."
+      },
+      {
+        "en": "A guarantor is often needed: check the guarantee schemes.",
+        "vi": "Thường cần người bảo lãnh: hãy xem các chương trình bảo lãnh."
+      },
+      {
+        "en": "Never pay by gift card or urgent transfer to someone you have not met.",
+        "vi": "Đừng bao giờ trả bằng thẻ quà tặng hoặc chuyển khoản gấp cho người chưa gặp."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Paying a deposit for a place you have only seen in photos.",
+        "vi": "Đặt cọc cho chỗ ở mà bạn chỉ mới thấy qua ảnh."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "Est-ce que le logement est meublé ?",
+        "meaning": {
+          "en": "Is the place furnished?",
+          "vi": "Nhà có sẵn đồ không?"
+        }
+      },
+      {
+        "fr": "Les charges sont-elles comprises ?",
+        "meaning": {
+          "en": "Are the utilities included?",
+          "vi": "Các chi phí điện nước có bao gồm không?"
+        }
+      }
+    ],
+    "keywords": [
+      "housing",
+      "rent",
+      "apartment",
+      "colocation",
+      "crous",
+      "scam",
+      "guarantor",
+      "garant",
+      "visale"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Visale: guarantee scheme for some tenants (check eligibility)",
+          "vi": "Visale: bảo lãnh cho một số người thuê nhà (kiểm tra điều kiện)"
+        },
+        "url": "https://www.visale.fr/"
+      },
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "id": "rental-lease-basics",
+    "categoryId": "housing",
+    "title": {
+      "en": "Your lease, step by step",
+      "vi": "Hợp đồng thuê nhà, từng bước"
+    },
+    "icon": "key",
+    "summary": {
+      "en": "The words you will meet when you rent: bail, état des lieux, caution.",
+      "vi": "Những từ bạn sẽ gặp khi thuê nhà: bail, état des lieux, caution."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "The lease (bail)",
+          "vi": "Hợp đồng thuê (bail)"
+        },
+        "body": {
+          "en": "The lease is the contract between you and the landlord. Read it fully. It says the rent, whether utilities (charges) are included, how long you stay and how to end it.",
+          "vi": "Hợp đồng thuê là thỏa thuận giữa bạn và chủ nhà. Hãy đọc kỹ toàn bộ. Hợp đồng ghi tiền thuê, các chi phí (charges) có bao gồm hay không, thời gian thuê và cách chấm dứt."
+        }
+      },
+      {
+        "heading": {
+          "en": "Check-in inspection",
+          "vi": "Biên bản nhận nhà"
+        },
+        "body": {
+          "en": "When you arrive, you and the landlord do an état des lieux: a written check of the state of every room. Note every defect and take photos. It protects you when you leave.",
+          "vi": "Khi đến nhà, bạn và chủ nhà lập một état des lieux: biên bản ghi tình trạng từng phòng. Ghi mọi hư hỏng và chụp ảnh. Việc này bảo vệ bạn khi trả nhà."
+        }
+      },
+      {
+        "heading": {
+          "en": "Deposit and leaving",
+          "vi": "Tiền cọc và khi trả nhà"
+        },
+        "body": {
+          "en": "The deposit (dépôt de garantie) is returned after you leave, minus justified costs. To leave, you must give notice (préavis) in writing, following the rules in your lease. Ask for a rent receipt (quittance de loyer) when you need proof.",
+          "vi": "Tiền cọc (dépôt de garantie) được hoàn lại sau khi bạn rời đi, trừ các khoản hợp lý. Để rời đi, bạn phải báo trước (préavis) bằng văn bản, theo quy định trong hợp đồng. Hãy xin biên lai tiền nhà (quittance de loyer) khi cần bằng chứng."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Read the whole lease before signing.",
+        "vi": "Đọc toàn bộ hợp đồng trước khi ký."
+      },
+      {
+        "en": "Do the inspection carefully and take photos of every defect.",
+        "vi": "Lập biên bản cẩn thận và chụp ảnh mọi hư hỏng."
+      },
+      {
+        "en": "Leaving requires a written notice, with a delay set by your lease.",
+        "vi": "Rời đi cần báo trước bằng văn bản, với thời hạn ghi trong hợp đồng."
+      },
+      {
+        "en": "Keep every receipt and every email with your landlord.",
+        "vi": "Giữ mọi biên lai và email trao đổi với chủ nhà."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Skipping the inspection or doing it in a hurry.",
+        "vi": "Bỏ qua hoặc làm biên bản nhận nhà qua loa."
+      },
+      {
+        "en": "Leaving without giving written notice.",
+        "vi": "Rời đi mà không báo trước bằng văn bản."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "Je voudrais faire l’état des lieux.",
+        "meaning": {
+          "en": "I would like to do the inspection.",
+          "vi": "Tôi muốn lập biên bản nhận nhà."
+        }
+      },
+      {
+        "fr": "Pouvez-vous me donner une quittance de loyer ?",
+        "meaning": {
+          "en": "Can you give me a rent receipt?",
+          "vi": "Bạn có thể cho tôi biên lai tiền nhà không?"
+        }
+      }
+    ],
+    "keywords": [
+      "lease",
+      "bail",
+      "etat des lieux",
+      "deposit",
+      "caution",
+      "notice",
+      "preavis",
+      "landlord"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "id": "housing-aid-apl",
+    "categoryId": "housing",
+    "title": {
+      "en": "Housing aid (CAF)",
+      "vi": "Trợ cấp nhà ở (CAF)"
+    },
+    "icon": "euro",
+    "summary": {
+      "en": "A public aid that may help with rent, and where to check if it applies to you.",
+      "vi": "Khoản trợ cấp nhà nước có thể giúp trả tiền thuê, và nơi kiểm tra bạn có đủ điều kiện không."
+    },
+    "kind": "procedure",
+    "sections": [
+      {
+        "heading": {
+          "en": "The idea",
+          "vi": "Ý chính"
+        },
+        "body": {
+          "en": "The CAF, a public body, can pay part of the rent of some tenants, including some students and foreign residents. Whether you qualify depends on your situation, your housing and your resources.",
+          "vi": "CAF, một cơ quan nhà nước, có thể trả một phần tiền thuê nhà cho một số người thuê, kể cả một số sinh viên và người nước ngoài cư trú. Bạn có đủ điều kiện hay không tùy tình huống, chỗ ở và nguồn thu nhập của bạn."
+        }
+      },
+      {
+        "heading": {
+          "en": "How it works",
+          "vi": "Cách thực hiện"
+        },
+        "body": {
+          "en": "You create an account and apply online on the CAF website, then send the documents it asks for. Do it as soon as your lease starts. This app cannot tell you if you are eligible or how much you would receive.",
+          "vi": "Bạn tạo tài khoản và nộp hồ sơ trực tuyến trên trang CAF, rồi gửi các giấy tờ được yêu cầu. Hãy làm ngay khi hợp đồng thuê bắt đầu. Ứng dụng này không thể cho biết bạn có đủ điều kiện hay nhận được bao nhiêu."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Aid is requested on the official CAF site, with a personal account.",
+        "vi": "Trợ cấp được yêu cầu trên trang CAF chính thức, bằng tài khoản cá nhân."
+      },
+      {
+        "en": "Eligibility depends on your situation: check it, do not guess.",
+        "vi": "Điều kiện tùy tình huống của bạn: hãy kiểm tra, đừng đoán."
+      },
+      {
+        "en": "Apply early, as soon as you have your lease.",
+        "vi": "Nộp sớm, ngay khi có hợp đồng thuê nhà."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Assuming you are not eligible without checking.",
+        "vi": "Cho rằng mình không đủ điều kiện mà không kiểm tra."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "Je voudrais faire une demande d’aide au logement.",
+        "meaning": {
+          "en": "I would like to apply for housing aid.",
+          "vi": "Tôi muốn nộp đơn xin trợ cấp nhà ở."
+        }
+      }
+    ],
+    "keywords": ["apl", "caf", "housing aid", "rent help", "aide au logement"],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "CAF: official website",
+          "vi": "CAF: trang web chính thức"
+        },
+        "url": "https://www.caf.fr/"
+      },
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "id": "home-insurance",
+    "categoryId": "housing",
+    "title": {
+      "en": "Home insurance",
+      "vi": "Bảo hiểm nhà ở"
+    },
+    "icon": "shield",
+    "summary": {
+      "en": "Why landlords ask for it and what it covers.",
+      "vi": "Vì sao chủ nhà yêu cầu và bảo hiểm này bảo vệ điều gì."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Why you need it",
+          "vi": "Vì sao cần"
+        },
+        "body": {
+          "en": "Landlords usually ask tenants for home insurance (assurance habitation) and a certificate (attestation) when the lease starts. It covers damage such as fire or water leaks, and damage you may cause to others.",
+          "vi": "Chủ nhà thường yêu cầu người thuê có bảo hiểm nhà ở (assurance habitation) và giấy xác nhận (attestation) khi bắt đầu thuê. Bảo hiểm này chi trả các thiệt hại như cháy hoặc rò rỉ nước, và thiệt hại bạn có thể gây ra cho người khác."
+        }
+      },
+      {
+        "heading": {
+          "en": "How to get it",
+          "vi": "Cách mua"
+        },
+        "body": {
+          "en": "Banks, insurers and online services sell it. Compare offers, and ask your landlord or housing provider if a package already exists.",
+          "vi": "Ngân hàng, công ty bảo hiểm và dịch vụ trực tuyến đều bán. Hãy so sánh các ưu đãi, và hỏi chủ nhà hoặc đơn vị cho thuê xem đã có gói sẵn chưa."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Landlords usually ask for a certificate when the lease starts.",
+        "vi": "Chủ nhà thường yêu cầu giấy xác nhận khi bắt đầu thuê."
+      },
+      {
+        "en": "It covers damage to the home and to others.",
+        "vi": "Bảo hiểm chi trả thiệt hại cho căn nhà và cho người khác."
+      },
+      {
+        "en": "Compare several offers before you choose.",
+        "vi": "So sánh nhiều ưu đãi trước khi chọn."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Waiting until there is a problem: insurance must exist before the damage.",
+        "vi": "Chờ đến khi có sự cố: bảo hiểm phải có trước khi xảy ra thiệt hại."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "Je cherche une assurance habitation.",
+        "meaning": {
+          "en": "I am looking for home insurance.",
+          "vi": "Tôi đang tìm bảo hiểm nhà ở."
+        }
+      },
+      {
+        "fr": "Pouvez-vous me donner une attestation ?",
+        "meaning": {
+          "en": "Can you give me a certificate?",
+          "vi": "Bạn có thể cấp cho tôi giấy xác nhận không?"
+        }
+      }
+    ],
+    "keywords": [
+      "insurance",
+      "assurance habitation",
+      "attestation",
+      "fire",
+      "water damage"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  }
+]

@@ -1,7 +1,6 @@
 import { describe, expect, it } from 'vitest'
-import categories from '../../content/categories.json'
-import checklists from '../../content/checklists.json'
-import guides from '../../content/guides.json'
+import { hasIcon } from '../ui/Icon.tsx'
+import { loadAllContent } from './content.ts'
 import {
   ContentError,
   isStale,
@@ -43,7 +42,15 @@ function content(guideList: unknown[], checklistList: unknown[] = []) {
 
 describe('content files', () => {
   it('are valid', () => {
-    expect(() => parseContent({ categories, guides, checklists })).not.toThrow()
+    expect(() => loadAllContent()).not.toThrow()
+  })
+})
+
+describe('content icons', () => {
+  it('only use icons that exist', () => {
+    const { categories, guides } = loadAllContent()
+    const used = [...categories, ...guides].map((item) => item.icon)
+    expect(used.filter((name) => !hasIcon(name))).toEqual([])
   })
 })
 

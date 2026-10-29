@@ -1,0 +1,280 @@
+[
+  {
+    "id": "open-bank-account",
+    "categoryId": "money",
+    "title": {
+      "en": "Opening a bank account",
+      "vi": "Mở tài khoản ngân hàng"
+    },
+    "icon": "bank",
+    "summary": {
+      "en": "Why you need one, the kinds of banks, and what to ask before you go.",
+      "vi": "Vì sao cần có, các loại ngân hàng, và nên hỏi gì trước khi đến."
+    },
+    "kind": "procedure",
+    "sections": [
+      {
+        "heading": {
+          "en": "Why you need one",
+          "vi": "Vì sao cần"
+        },
+        "body": {
+          "en": "Rent, a salary, public aid and phone plans are usually paid to or from a French bank account. Having one early makes daily life much simpler.",
+          "vi": "Tiền thuê nhà, lương, trợ cấp và gói điện thoại thường được trả vào hoặc trừ từ tài khoản ngân hàng Pháp. Có tài khoản sớm giúp cuộc sống hằng ngày dễ hơn nhiều."
+        }
+      },
+      {
+        "heading": {
+          "en": "Branch bank or online bank",
+          "vi": "Ngân hàng truyền thống hay trực tuyến"
+        },
+        "body": {
+          "en": "Traditional banks have branches and often ask for an appointment. Online banks work from an app. Many banks have special offers for students.",
+          "vi": "Ngân hàng truyền thống có chi nhánh và thường yêu cầu đặt lịch hẹn. Ngân hàng trực tuyến hoạt động qua ứng dụng. Nhiều ngân hàng có ưu đãi riêng cho sinh viên."
+        }
+      },
+      {
+        "heading": {
+          "en": "What to ask",
+          "vi": "Nên hỏi gì"
+        },
+        "body": {
+          "en": "Banks ask for proof of who you are, where you live and your status. Ask each bank for its exact list, and ask about fees before you sign.",
+          "vi": "Ngân hàng yêu cầu bằng chứng về danh tính, nơi ở và tình trạng của bạn. Hãy hỏi từng ngân hàng danh sách chính xác, và hỏi về các khoản phí trước khi ký."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Ask the bank for the exact documents it needs, and the fees.",
+        "vi": "Hỏi ngân hàng chính xác giấy tờ cần thiết và các khoản phí."
+      },
+      {
+        "en": "Online banks are fast, branches give you a person to talk to.",
+        "vi": "Ngân hàng trực tuyến nhanh, chi nhánh thì có người để trao đổi."
+      },
+      {
+        "en": "Ask about student offers.",
+        "vi": "Hỏi về ưu đãi cho sinh viên."
+      },
+      {
+        "en": "Keep your RIB handy: you will need it often.",
+        "vi": "Giữ RIB bên mình: bạn sẽ cần nó thường xuyên."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Going to a branch without an appointment when one is required.",
+        "vi": "Đến chi nhánh mà không đặt lịch hẹn khi bắt buộc phải có."
+      },
+      {
+        "en": "Signing without reading the fees.",
+        "vi": "Ký mà không đọc các khoản phí."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "Je voudrais ouvrir un compte.",
+        "meaning": {
+          "en": "I would like to open an account.",
+          "vi": "Tôi muốn mở một tài khoản."
+        }
+      },
+      {
+        "fr": "Quels documents faut-il apporter ?",
+        "meaning": {
+          "en": "Which documents should I bring?",
+          "vi": "Cần mang theo những giấy tờ nào?"
+        }
+      },
+      {
+        "fr": "Y a-t-il des frais ?",
+        "meaning": {
+          "en": "Are there any fees?",
+          "vi": "Có mất phí không?"
+        }
+      }
+    ],
+    "keywords": ["bank", "account", "compte", "rib", "iban", "student offer"],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "id": "rib-and-payments",
+    "categoryId": "money",
+    "title": {
+      "en": "RIB, cards and everyday payments",
+      "vi": "RIB, thẻ và thanh toán hằng ngày"
+    },
+    "icon": "card",
+    "summary": {
+      "en": "The words you hear most often about money.",
+      "vi": "Những từ bạn nghe nhiều nhất khi nói về tiền."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "RIB and IBAN",
+          "vi": "RIB và IBAN"
+        },
+        "body": {
+          "en": "Your RIB (relevé d’identité bancaire) is a document showing your bank details, including your IBAN. Your landlord, employer and phone company will ask for it.",
+          "vi": "RIB (relevé d’identité bancaire) là giấy ghi thông tin tài khoản ngân hàng của bạn, gồm cả IBAN. Chủ nhà, chủ lao động và nhà mạng điện thoại sẽ yêu cầu nó."
+        }
+      },
+      {
+        "heading": {
+          "en": "Paying",
+          "vi": "Thanh toán"
+        },
+        "body": {
+          "en": "Bank cards are used almost everywhere, including contactless. A transfer (virement) moves money between accounts. A direct debit (prélèvement) lets a company take a regular payment, for example your rent or phone plan. Cheques are rare today.",
+          "vi": "Thẻ ngân hàng được dùng gần như mọi nơi, kể cả thanh toán không chạm. Chuyển khoản (virement) chuyển tiền giữa các tài khoản. Ghi nợ trực tiếp (prélèvement) cho phép công ty thu tiền định kỳ, ví dụ tiền nhà hoặc gói điện thoại. Séc ngày nay rất hiếm."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Your RIB contains the IBAN that others need to pay you.",
+        "vi": "RIB chứa số IBAN để người khác chuyển tiền cho bạn."
+      },
+      {
+        "en": "Contactless card payment is common.",
+        "vi": "Thanh toán thẻ không chạm rất phổ biến."
+      },
+      {
+        "en": "A prélèvement is an automatic payment: check your balance before the date.",
+        "vi": "Prélèvement là khoản trừ tự động: hãy kiểm tra số dư trước ngày trừ."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Sharing your card code or a bank code received by SMS: nobody should ever ask you for it.",
+        "vi": "Chia sẻ mã thẻ hoặc mã ngân hàng nhận qua SMS: không ai được phép hỏi bạn những mã đó."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "Je peux payer par carte ?",
+        "meaning": {
+          "en": "Can I pay by card?",
+          "vi": "Tôi trả bằng thẻ được không?"
+        }
+      },
+      {
+        "fr": "Voici mon RIB.",
+        "meaning": {
+          "en": "Here is my bank details document.",
+          "vi": "Đây là RIB của tôi."
+        }
+      }
+    ],
+    "keywords": [
+      "rib",
+      "iban",
+      "card",
+      "virement",
+      "prelevement",
+      "contactless",
+      "payment",
+      "cheque"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "id": "taxes-basics",
+    "categoryId": "money",
+    "title": {
+      "en": "Taxes: the idea in short",
+      "vi": "Thuế: ý chính ngắn gọn"
+    },
+    "icon": "file",
+    "summary": {
+      "en": "What the yearly declaration is, and where to check your own situation.",
+      "vi": "Khai báo thuế hằng năm là gì, và kiểm tra tình huống của bạn ở đâu."
+    },
+    "kind": "procedure",
+    "sections": [
+      {
+        "heading": {
+          "en": "The idea",
+          "vi": "Ý chính"
+        },
+        "body": {
+          "en": "In France, income is declared once a year on the official tax website, even by many people who end up paying nothing. Some documents, such as the tax notice (avis d’imposition), are often asked for by landlords and public offices.",
+          "vi": "Ở Pháp, thu nhập được khai một lần mỗi năm trên trang thuế chính thức, kể cả nhiều người cuối cùng không phải đóng gì. Một số giấy tờ như thông báo thuế (avis d’imposition) thường được chủ nhà và cơ quan nhà nước yêu cầu."
+        }
+      },
+      {
+        "heading": {
+          "en": "Check your own case",
+          "vi": "Kiểm tra tình huống của bạn"
+        },
+        "body": {
+          "en": "Whether you must declare, and how, depends on your situation, for example your stay and your income. Check it on the official site or ask the tax office. Do not rely on this app for that.",
+          "vi": "Bạn có phải khai hay không, và khai thế nào, tùy tình huống của bạn, ví dụ thời gian cư trú và thu nhập. Hãy kiểm tra trên trang chính thức hoặc hỏi cơ quan thuế. Đừng dựa vào ứng dụng này cho việc đó."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "The yearly declaration is done online on the official tax website.",
+        "vi": "Việc khai báo hằng năm được làm trực tuyến trên trang thuế chính thức."
+      },
+      {
+        "en": "Whether you must declare depends on your situation: check the official site.",
+        "vi": "Có phải khai hay không tùy tình huống của bạn: hãy kiểm tra trang chính thức."
+      },
+      {
+        "en": "Keep your tax notice: it is often asked for later.",
+        "vi": "Giữ thông báo thuế: sau này thường được yêu cầu."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Ignoring the tax website because you think you earn too little.",
+        "vi": "Bỏ qua trang thuế vì nghĩ rằng thu nhập quá thấp."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "Où puis-je vérifier ma situation fiscale ?",
+        "meaning": {
+          "en": "Where can I check my tax situation?",
+          "vi": "Tôi có thể kiểm tra tình hình thuế của mình ở đâu?"
+        }
+      }
+    ],
+    "keywords": ["tax", "impots", "declaration", "income", "avis d imposition"],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Impots.gouv.fr: official tax website",
+          "vi": "Impots.gouv.fr: trang thuế chính thức"
+        },
+        "url": "https://www.impots.gouv.fr/"
+      },
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  }
+]

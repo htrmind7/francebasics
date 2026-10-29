@@ -85,6 +85,7 @@ Pure logic (search, checklist progress, content loading) is tested.
 
 ## 8. Milestones
 
+- Status: M0 to M5 done (23 guides, 2 checklists, EN + VI). M6 is user testing.
 - M0 Setup: repo, Vite/React/TS, lint, tests, CI, Pages deploy.
 - M1 Content schemas, loader, validation test (official link required).
 - M2 Home, category and guide screens, icons.

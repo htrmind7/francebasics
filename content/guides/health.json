@@ -1,0 +1,343 @@
+[
+  {
+    "id": "health-insurance",
+    "categoryId": "health",
+    "title": {
+      "en": "Health insurance (Sécurité sociale)",
+      "vi": "Bảo hiểm y tế (Sécurité sociale)"
+    },
+    "icon": "heart",
+    "summary": {
+      "en": "How French health cover works, and where to register.",
+      "vi": "Bảo hiểm y tế ở Pháp hoạt động thế nào, và đăng ký ở đâu."
+    },
+    "kind": "procedure",
+    "sections": [
+      {
+        "heading": {
+          "en": "The idea",
+          "vi": "Ý chính"
+        },
+        "body": {
+          "en": "France has a public health insurance, often called la Sécu or Assurance Maladie. It pays back part of your medical costs. People living in France usually need to register to benefit from it.",
+          "vi": "Pháp có bảo hiểm y tế công, thường gọi là la Sécu hoặc Assurance Maladie. Bảo hiểm này hoàn lại một phần chi phí y tế. Người sống ở Pháp thường cần đăng ký để được hưởng."
+        }
+      },
+      {
+        "heading": {
+          "en": "Card and account",
+          "vi": "Thẻ và tài khoản"
+        },
+        "body": {
+          "en": "Once registered you get a number and a carte Vitale, the card you show to doctors. You can also open an online account (ameli) to follow your reimbursements. Many people also take a complementary insurance (mutuelle) for the part that is not covered.",
+          "vi": "Sau khi đăng ký, bạn nhận một mã số và thẻ carte Vitale, thẻ bạn trình cho bác sĩ. Bạn cũng có thể mở tài khoản trực tuyến (ameli) để theo dõi các khoản hoàn tiền. Nhiều người còn mua thêm bảo hiểm bổ sung (mutuelle) cho phần chưa được chi trả."
+        }
+      },
+      {
+        "heading": {
+          "en": "Your own case",
+          "vi": "Trường hợp của bạn"
+        },
+        "body": {
+          "en": "How and when to register depends on your status, for example student or worker. Follow the official site and ask your school or employer.",
+          "vi": "Cách đăng ký và thời điểm tùy tình trạng của bạn, ví dụ sinh viên hay người đi làm. Hãy theo trang chính thức và hỏi trường hoặc chủ lao động."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Public insurance pays back part of the costs, not everything.",
+        "vi": "Bảo hiểm công hoàn lại một phần chi phí, không phải tất cả."
+      },
+      {
+        "en": "The carte Vitale is the card you show to doctors and pharmacies.",
+        "vi": "Carte Vitale là thẻ bạn trình cho bác sĩ và hiệu thuốc."
+      },
+      {
+        "en": "A mutuelle is a complementary insurance for the remaining part.",
+        "vi": "Mutuelle là bảo hiểm bổ sung cho phần còn lại."
+      },
+      {
+        "en": "Register as soon as you can: check the official site for your status.",
+        "vi": "Hãy đăng ký sớm nhất có thể: kiểm tra trang chính thức theo tình trạng của bạn."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Waiting until you are ill to start the registration.",
+        "vi": "Chờ đến khi bị bệnh mới bắt đầu đăng ký."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "Je voudrais m’inscrire à la Sécurité sociale.",
+        "meaning": {
+          "en": "I would like to register with the Sécurité sociale.",
+          "vi": "Tôi muốn đăng ký bảo hiểm y tế Sécurité sociale."
+        }
+      },
+      {
+        "fr": "Voici ma carte Vitale.",
+        "meaning": {
+          "en": "Here is my carte Vitale.",
+          "vi": "Đây là thẻ Vitale của tôi."
+        }
+      }
+    ],
+    "keywords": [
+      "health insurance",
+      "secu",
+      "securite sociale",
+      "carte vitale",
+      "ameli",
+      "mutuelle",
+      "reimbursement"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Ameli: official health insurance website",
+          "vi": "Ameli: trang bảo hiểm y tế chính thức"
+        },
+        "url": "https://www.ameli.fr/"
+      },
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "id": "seeing-a-doctor",
+    "categoryId": "health",
+    "title": {
+      "en": "Seeing a doctor",
+      "vi": "Đi khám bác sĩ"
+    },
+    "icon": "cross",
+    "summary": {
+      "en": "How appointments, prescriptions and pharmacies work.",
+      "vi": "Cách đặt lịch, kê đơn và mua thuốc ở hiệu thuốc."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Your regular doctor",
+          "vi": "Bác sĩ thường xuyên của bạn"
+        },
+        "body": {
+          "en": "Many people choose a médecin traitant, a doctor who follows them over time and refers them to specialists. Appointments are booked by phone or on online booking services. Walking in without an appointment is not usual.",
+          "vi": "Nhiều người chọn một médecin traitant, bác sĩ theo dõi họ lâu dài và giới thiệu đến chuyên khoa. Lịch hẹn được đặt qua điện thoại hoặc dịch vụ đặt lịch trực tuyến. Đến thẳng mà không hẹn trước thường không phổ biến."
+        }
+      },
+      {
+        "heading": {
+          "en": "At the visit",
+          "vi": "Khi đi khám"
+        },
+        "body": {
+          "en": "Bring your carte Vitale if you have one. You often pay the doctor, and the insurance pays part back afterwards. The doctor may give a prescription (ordonnance) to take to the pharmacy.",
+          "vi": "Mang theo thẻ Vitale nếu có. Bạn thường trả tiền cho bác sĩ, rồi bảo hiểm hoàn lại một phần sau đó. Bác sĩ có thể kê đơn (ordonnance) để mang đến hiệu thuốc."
+        }
+      },
+      {
+        "heading": {
+          "en": "The pharmacy",
+          "vi": "Hiệu thuốc"
+        },
+        "body": {
+          "en": "Pharmacists, in shops with a green cross, give advice for small problems and explain how to take your medicine. At night and on Sundays, a duty pharmacy (pharmacie de garde) stays open: the address is posted on pharmacy doors.",
+          "vi": "Dược sĩ, trong các cửa hàng có chữ thập xanh, tư vấn các vấn đề nhỏ và giải thích cách dùng thuốc. Ban đêm và Chủ nhật có hiệu thuốc trực (pharmacie de garde) mở cửa: địa chỉ được dán trên cửa các hiệu thuốc."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Book an appointment: walk-ins are not the norm.",
+        "vi": "Hãy đặt lịch hẹn: đến thẳng không phải thông lệ."
+      },
+      {
+        "en": "Take your carte Vitale and your ordonnance to the pharmacy.",
+        "vi": "Mang thẻ Vitale và đơn thuốc đến hiệu thuốc."
+      },
+      {
+        "en": "Pharmacists are a good first stop for small problems.",
+        "vi": "Dược sĩ là nơi đầu tiên đáng hỏi cho các vấn đề nhỏ."
+      },
+      {
+        "en": "For an emergency, call 15 or 112, do not wait for an appointment.",
+        "vi": "Khi khẩn cấp, hãy gọi 15 hoặc 112, đừng chờ lịch hẹn."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Going to the emergency room for something that can wait for a normal appointment.",
+        "vi": "Đến phòng cấp cứu vì việc có thể chờ lịch khám thông thường."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "Je voudrais prendre rendez-vous.",
+        "meaning": {
+          "en": "I would like to make an appointment.",
+          "vi": "Tôi muốn đặt lịch hẹn."
+        }
+      },
+      {
+        "fr": "J’ai mal à la tête.",
+        "meaning": {
+          "en": "I have a headache.",
+          "vi": "Tôi bị đau đầu."
+        }
+      },
+      {
+        "fr": "J’ai besoin d’une ordonnance.",
+        "meaning": {
+          "en": "I need a prescription.",
+          "vi": "Tôi cần một đơn thuốc."
+        }
+      }
+    ],
+    "keywords": [
+      "doctor",
+      "medecin",
+      "pharmacy",
+      "pharmacie",
+      "prescription",
+      "ordonnance",
+      "appointment",
+      "sick",
+      "ill"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Ameli: official health insurance website",
+          "vi": "Ameli: trang bảo hiểm y tế chính thức"
+        },
+        "url": "https://www.ameli.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "id": "emergencies",
+    "categoryId": "health",
+    "title": {
+      "en": "Emergencies: who to call",
+      "vi": "Khẩn cấp: gọi cho ai"
+    },
+    "icon": "alert",
+    "summary": {
+      "en": "The numbers to know and what to say on the phone.",
+      "vi": "Các số điện thoại cần biết và cách nói khi gọi."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "The numbers",
+          "vi": "Các số điện thoại"
+        },
+        "body": {
+          "en": "112 is the European emergency number and works from any phone. 15 is the medical emergency service (SAMU), 17 is the police and 18 is the fire brigade, which also helps in accidents. All are free to call.",
+          "vi": "112 là số khẩn cấp của châu Âu và gọi được từ mọi điện thoại. 15 là cấp cứu y tế (SAMU), 17 là cảnh sát và 18 là cứu hỏa, cũng hỗ trợ khi có tai nạn. Tất cả đều gọi miễn phí."
+        }
+      },
+      {
+        "heading": {
+          "en": "What to say",
+          "vi": "Cần nói gì"
+        },
+        "body": {
+          "en": "Stay calm. Give the address first, then say what happened and how many people are hurt. Answer the questions and do not hang up until you are told to.",
+          "vi": "Hãy bình tĩnh. Nói địa chỉ trước, rồi nói chuyện gì đã xảy ra và có bao nhiêu người bị thương. Trả lời các câu hỏi và đừng cúp máy cho đến khi được bảo."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "112 works everywhere in Europe and from any phone.",
+        "vi": "112 dùng được khắp châu Âu và từ mọi điện thoại."
+      },
+      {
+        "en": "15 for a medical emergency, 17 for the police, 18 for the fire brigade.",
+        "vi": "15 cho cấp cứu y tế, 17 cho cảnh sát, 18 cho cứu hỏa."
+      },
+      {
+        "en": "Give your address first.",
+        "vi": "Nói địa chỉ trước tiên."
+      },
+      {
+        "en": "Do not hang up until the operator says so.",
+        "vi": "Đừng cúp máy cho đến khi tổng đài viên cho phép."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Not knowing your own address: save it in your phone.",
+        "vi": "Không biết địa chỉ của mình: hãy lưu nó trong điện thoại."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "Au secours !",
+        "meaning": {
+          "en": "Help!",
+          "vi": "Cứu với!"
+        }
+      },
+      {
+        "fr": "J’ai besoin d’aide.",
+        "meaning": {
+          "en": "I need help.",
+          "vi": "Tôi cần giúp đỡ."
+        }
+      },
+      {
+        "fr": "Il y a un accident.",
+        "meaning": {
+          "en": "There has been an accident.",
+          "vi": "Có một vụ tai nạn."
+        }
+      },
+      {
+        "fr": "Mon adresse est…",
+        "meaning": {
+          "en": "My address is…",
+          "vi": "Địa chỉ của tôi là…"
+        }
+      }
+    ],
+    "keywords": [
+      "emergency",
+      "112",
+      "15",
+      "17",
+      "18",
+      "samu",
+      "police",
+      "fire",
+      "ambulance",
+      "urgence"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  }
+]

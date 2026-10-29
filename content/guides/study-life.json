@@ -1,0 +1,195 @@
+[
+  {
+    "id": "university-basics",
+    "categoryId": "study-life",
+    "title": {
+      "en": "Studying in France: the words you will hear",
+      "vi": "Học tập ở Pháp: những từ bạn sẽ nghe"
+    },
+    "icon": "cap",
+    "summary": {
+      "en": "Lectures, tutorials, exams and the school’s online tools.",
+      "vi": "Bài giảng, buổi thực hành, thi cử và các công cụ trực tuyến của trường."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Types of classes",
+          "vi": "Các loại tiết học"
+        },
+        "body": {
+          "en": "A lecture is called a cours magistral (CM). A tutorial in a smaller group is a TD (travaux dirigés), and a practical session is a TP. Attendance is often required in tutorials and in many schools.",
+          "vi": "Bài giảng gọi là cours magistral (CM). Buổi học nhóm nhỏ gọi là TD (travaux dirigés), và buổi thực hành gọi là TP. Việc có mặt thường là bắt buộc ở TD và ở nhiều trường."
+        }
+      },
+      {
+        "heading": {
+          "en": "Exams and grades",
+          "vi": "Thi cử và điểm số"
+        },
+        "body": {
+          "en": "Grades often come from continuous assessment (contrôle continu) and from the main exams of the semester (partiels). Work is expected to be original: copying without citing is taken seriously.",
+          "vi": "Điểm thường đến từ đánh giá liên tục (contrôle continu) và các kỳ thi chính của học kỳ (partiels). Bài làm phải là của bạn: sao chép mà không dẫn nguồn bị xử lý nghiêm."
+        }
+      },
+      {
+        "heading": {
+          "en": "Online tools",
+          "vi": "Công cụ trực tuyến"
+        },
+        "body": {
+          "en": "Your school gives you a student email and an online workspace (ENT). Check them often: timetables, grades and messages from teachers are published there. Your student card also often gives you discounts and access to buildings.",
+          "vi": "Trường cấp cho bạn email sinh viên và không gian trực tuyến (ENT). Hãy kiểm tra thường xuyên: thời khóa biểu, điểm và tin nhắn từ giáo viên được đăng ở đó. Thẻ sinh viên cũng thường cho bạn ưu đãi và quyền vào các tòa nhà."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "CM is a lecture, TD a tutorial, TP a practical session.",
+        "vi": "CM là bài giảng, TD là buổi học nhóm, TP là buổi thực hành."
+      },
+      {
+        "en": "Check your student email and online workspace often.",
+        "vi": "Kiểm tra email sinh viên và không gian trực tuyến thường xuyên."
+      },
+      {
+        "en": "Attendance is often required.",
+        "vi": "Việc có mặt thường là bắt buộc."
+      },
+      {
+        "en": "Cite your sources: copying is taken seriously.",
+        "vi": "Dẫn nguồn: việc sao chép bị xử lý nghiêm."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Missing school emails: that is where deadlines and changes are announced.",
+        "vi": "Bỏ lỡ email của trường: thời hạn và thay đổi được thông báo ở đó."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "Je n’ai pas compris, pouvez-vous réexpliquer ?",
+        "meaning": {
+          "en": "I did not understand, can you explain again?",
+          "vi": "Tôi chưa hiểu, thầy/cô có thể giải thích lại không?"
+        }
+      },
+      {
+        "fr": "Quand est la date limite ?",
+        "meaning": {
+          "en": "When is the deadline?",
+          "vi": "Hạn nộp là khi nào?"
+        }
+      }
+    ],
+    "keywords": [
+      "university",
+      "school",
+      "student",
+      "lecture",
+      "td",
+      "tp",
+      "exam",
+      "partiels",
+      "ent",
+      "student card"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Campus France: studying in France",
+          "vi": "Campus France: du học tại Pháp"
+        },
+        "url": "https://www.campusfrance.org/en"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "id": "cvec",
+    "categoryId": "study-life",
+    "title": {
+      "en": "The student contribution (CVEC)",
+      "vi": "Đóng góp sinh viên (CVEC)"
+    },
+    "icon": "idcard",
+    "summary": {
+      "en": "A certificate many students need before they enrol.",
+      "vi": "Giấy chứng nhận nhiều sinh viên cần có trước khi đăng ký học."
+    },
+    "kind": "procedure",
+    "sections": [
+      {
+        "heading": {
+          "en": "The idea",
+          "vi": "Ý chính"
+        },
+        "body": {
+          "en": "The CVEC is a contribution linked to student life on campus. Many students enrolling in higher education in France need to complete this step and obtain a certificate, which they then give to their school.",
+          "vi": "CVEC là khoản đóng góp gắn với đời sống sinh viên trong khuôn viên trường. Nhiều sinh viên đăng ký học đại học ở Pháp cần hoàn thành bước này và lấy một giấy chứng nhận để nộp cho trường."
+        }
+      },
+      {
+        "heading": {
+          "en": "Check your own case",
+          "vi": "Kiểm tra trường hợp của bạn"
+        },
+        "body": {
+          "en": "Whether it applies to you, how much it is and whether you can be exempted are explained only on the official website. Do it before your enrolment is finalised.",
+          "vi": "Việc bạn có thuộc diện này không, số tiền là bao nhiêu và có được miễn hay không chỉ được giải thích trên trang web chính thức. Hãy làm trước khi hoàn tất đăng ký học."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Many students must get a CVEC certificate before enrolling.",
+        "vi": "Nhiều sinh viên phải có giấy chứng nhận CVEC trước khi đăng ký học."
+      },
+      {
+        "en": "The certificate is given to your school.",
+        "vi": "Giấy chứng nhận được nộp cho trường."
+      },
+      {
+        "en": "Check on the official site if it applies to you.",
+        "vi": "Kiểm tra trên trang chính thức xem bạn có thuộc diện này không."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Leaving it to the last day before enrolment.",
+        "vi": "Để đến ngày cuối trước khi đăng ký học mới làm."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "J’ai besoin d’une attestation CVEC.",
+        "meaning": {
+          "en": "I need a CVEC certificate.",
+          "vi": "Tôi cần giấy chứng nhận CVEC."
+        }
+      }
+    ],
+    "keywords": ["cvec", "student", "enrolment", "certificate", "contribution"],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "CVEC: official website",
+          "vi": "CVEC: trang web chính thức"
+        },
+        "url": "https://cvec.etudiant.gouv.fr/"
+      },
+      {
+        "label": {
+          "en": "Mes services étudiants",
+          "vi": "Mes services étudiants"
+        },
+        "url": "https://www.messervices.etudiant.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  }
+]

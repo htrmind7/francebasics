@@ -4,13 +4,74 @@
     "tagline": "Cuộc sống hằng ngày ở Pháp, được giải thích dễ hiểu.",
     "disclaimer": "Chỉ là giải thích chung, không phải tư vấn pháp lý hay chính thức. Luôn kiểm tra trên trang web chính thức."
   },
+  "nav": {
+    "home": "Trang chủ",
+    "search": "Tìm kiếm",
+    "checklist": "Việc cần làm",
+    "settings": "Cài đặt"
+  },
+  "home": {
+    "searchPlaceholder": "Tìm trong các bài hướng dẫn…",
+    "emergency": "Khi khẩn cấp",
+    "emergencyHint": "Số điện thoại cần gọi và cách nói",
+    "firstWeeks": "Những tuần đầu của bạn",
+    "firstWeeksProgress": "Đã xong {done} / {total}",
+    "browse": "Xem theo chủ đề",
+    "guideCountOne": "{n} bài",
+    "guideCount": "{n} bài",
+    "empty": "Chưa có bài nào. Hãy quay lại sớm nhé!"
+  },
+  "category": {
+    "back": "Tất cả chủ đề",
+    "notFound": "Chủ đề này không tồn tại."
+  },
+  "guide": {
+    "back": "Quay lại",
+    "kindExplainer": "Giải thích",
+    "kindCulture": "Văn hóa",
+    "kindProcedure": "Thủ tục",
+    "keyPoints": "Điểm chính",
+    "mistakes": "Lỗi thường gặp",
+    "phrases": "Câu hữu ích",
+    "listen": "Nghe",
+    "official": "Nguồn chính thức",
+    "officialHint": "Quy định, số tiền và thời hạn chính xác nằm trên trang web chính thức, không phải ở đây.",
+    "lastChecked": "Kiểm tra lần cuối {date}",
+    "outdated": "Có thể đã cũ",
+    "notFound": "Bài này không tồn tại."
+  },
+  "search": {
+    "title": "Tìm kiếm",
+    "placeholder": "Thử: bank, doctor, bus…",
+    "noResults": "Không tìm thấy bài nào cho “{query}”.",
+    "results": "{n} kết quả"
+  },
+  "checklist": {
+    "title": "Việc cần làm",
+    "progress": "Đã xong {done} / {total}",
+    "allDone": "Xong hết rồi. Giỏi lắm!",
+    "empty": "Chưa có danh sách nào."
+  },
   "settings": {
     "title": "Cài đặt",
     "language": "Ngôn ngữ",
     "appearance": "Giao diện",
     "appearanceLight": "Sáng",
     "appearanceDark": "Tối",
-    "appearanceMint": "Xanh bạc hà"
+    "appearanceMint": "Xanh bạc hà",
+    "textSize": "Cỡ chữ",
+    "textNormal": "Thường",
+    "textLarge": "Lớn",
+    "progress": "Tiến độ của bạn",
+    "progressHint": "Các mục đã đánh dấu chỉ được lưu trên thiết bị này. Hãy xuất ra để giữ một bản sao.",
+    "export": "Xuất tiến độ",
+    "import": "Nhập tiến độ",
+    "importConfirm": "Nhập tiến độ sẽ thay thế tiến độ hiện tại. Tiếp tục?",
+    "importOk": "Đã nhập tiến độ.",
+    "importError": "Không thể nhập tệp này: {reason}",
+    "reset": "Xóa tiến độ",
+    "resetConfirm": "Xóa toàn bộ tiến độ? Không thể hoàn tác.",
+    "version": "Phiên bản {version}"
   },
   "languages": {
     "en": "English",

@@ -4,13 +4,74 @@
     "tagline": "Everyday life in France, explained.",
     "disclaimer": "General explanations, not legal or official advice. Always check the official site."
   },
+  "nav": {
+    "home": "Home",
+    "search": "Search",
+    "checklist": "Checklist",
+    "settings": "Settings"
+  },
+  "home": {
+    "searchPlaceholder": "Search the guides…",
+    "emergency": "In an emergency",
+    "emergencyHint": "Numbers to call and what to say",
+    "firstWeeks": "Your first weeks",
+    "firstWeeksProgress": "{done} of {total} done",
+    "browse": "Browse by topic",
+    "guideCountOne": "{n} guide",
+    "guideCount": "{n} guides",
+    "empty": "No guides yet. Come back soon!"
+  },
+  "category": {
+    "back": "All topics",
+    "notFound": "This topic does not exist."
+  },
+  "guide": {
+    "back": "Back",
+    "kindExplainer": "Explainer",
+    "kindCulture": "Culture",
+    "kindProcedure": "Procedure",
+    "keyPoints": "Key points",
+    "mistakes": "Common mistakes",
+    "phrases": "Useful phrases",
+    "listen": "Listen",
+    "official": "Official source",
+    "officialHint": "Exact rules, amounts and deadlines are on the official website, not here.",
+    "lastChecked": "Last checked {date}",
+    "outdated": "May be outdated",
+    "notFound": "This guide does not exist."
+  },
+  "search": {
+    "title": "Search",
+    "placeholder": "Try bank, doctor or bus…",
+    "noResults": "No guide found for “{query}”.",
+    "results": "{n} results"
+  },
+  "checklist": {
+    "title": "Checklist",
+    "progress": "{done} of {total} done",
+    "allDone": "All done. Well played!",
+    "empty": "No checklist yet."
+  },
   "settings": {
     "title": "Settings",
     "language": "Language",
     "appearance": "Appearance",
     "appearanceLight": "Light",
     "appearanceDark": "Dark",
-    "appearanceMint": "Mint"
+    "appearanceMint": "Mint",
+    "textSize": "Text size",
+    "textNormal": "Normal",
+    "textLarge": "Large",
+    "progress": "Your progress",
+    "progressHint": "Your checklist ticks are saved on this device only. Export them to keep a copy.",
+    "export": "Export progress",
+    "import": "Import progress",
+    "importConfirm": "Importing replaces your current progress. Continue?",
+    "importOk": "Progress imported.",
+    "importError": "This file cannot be imported: {reason}",
+    "reset": "Reset progress",
+    "resetConfirm": "Reset all your progress? This cannot be undone.",
+    "version": "Version {version}"
   },
   "languages": {
     "en": "English",

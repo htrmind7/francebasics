@@ -21,6 +21,7 @@
   --teal-ink: #4ecdc4;
   --gold-ink: #ffd93d;
   --blue-ink: #7db6fb;
+  --purple-ink: #b9a5fb;
   --green-ink: #4ade80;
 
   --on-accent: #0f1419;
@@ -58,6 +59,7 @@ html[data-appearance='light'] {
   --teal-ink: #0f766e;
   --gold-ink: #92600a;
   --blue-ink: #1d4ed8;
+  --purple-ink: #6d46c9;
   --green-ink: #15803d;
 
   --on-accent: #ffffff;
@@ -91,6 +93,7 @@ html[data-appearance='mint'] {
   --teal-ink: #0b6b60;
   --gold-ink: #7d5200;
   --blue-ink: #1d4ed8;
+  --purple-ink: #6d46c9;
   --green-ink: #0f6b3a;
 
   --on-accent: #ffffff;

@@ -1,7 +1,76 @@
 [
   {
-    "id": "first-days",
-    "title": { "en": "Your first days", "vi": "Những ngày đầu của bạn" },
-    "steps": [{ "id": "say-hello", "guideId": "greetings-and-la-bise" }]
+    "id": "first-weeks",
+    "title": {
+      "en": "Your first weeks",
+      "vi": "Những tuần đầu của bạn"
+    },
+    "steps": [
+      {
+        "id": "visa",
+        "guideId": "residence-permit"
+      },
+      {
+        "id": "phone",
+        "guideId": "sim-and-phone"
+      },
+      {
+        "id": "bank",
+        "guideId": "open-bank-account"
+      },
+      {
+        "id": "health",
+        "guideId": "health-insurance"
+      },
+      {
+        "id": "cvec",
+        "guideId": "cvec"
+      },
+      {
+        "id": "housing-aid",
+        "guideId": "housing-aid-apl"
+      },
+      {
+        "id": "insurance",
+        "guideId": "home-insurance"
+      },
+      {
+        "id": "transport",
+        "guideId": "public-transport"
+      },
+      {
+        "id": "emergency",
+        "guideId": "emergencies"
+      }
+    ]
+  },
+  {
+    "id": "social-basics",
+    "title": {
+      "en": "Social basics",
+      "vi": "Quy tắc ứng xử cơ bản"
+    },
+    "steps": [
+      {
+        "id": "hello",
+        "guideId": "greetings-and-la-bise"
+      },
+      {
+        "id": "tu-vous",
+        "guideId": "tu-vs-vous"
+      },
+      {
+        "id": "meals",
+        "guideId": "meals-and-invitations"
+      },
+      {
+        "id": "shops",
+        "guideId": "shops-and-bakery"
+      },
+      {
+        "id": "neighbours",
+        "guideId": "neighbours-and-noise"
+      }
+    ]
   }
 ]

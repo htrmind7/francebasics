@@ -1,0 +1,203 @@
+[
+  {
+    "id": "public-transport",
+    "categoryId": "getting-around",
+    "title": {
+      "en": "Buses, trams and metro",
+      "vi": "Xe buýt, tàu điện và metro"
+    },
+    "icon": "bus",
+    "summary": {
+      "en": "How tickets work and why you must validate them.",
+      "vi": "Cách dùng vé và vì sao phải xác nhận vé."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Tickets",
+          "vi": "Vé"
+        },
+        "body": {
+          "en": "Each city has its own transport network, with its own tickets, passes and app. Look for a student or monthly pass: it is often cheaper than single tickets. Ask at the network’s office or on its website.",
+          "vi": "Mỗi thành phố có mạng lưới giao thông riêng, với vé, thẻ tháng và ứng dụng riêng. Hãy tìm thẻ sinh viên hoặc thẻ tháng: thường rẻ hơn mua vé lẻ. Hỏi tại văn phòng của mạng lưới hoặc trên trang web của họ."
+        }
+      },
+      {
+        "heading": {
+          "en": "Validate your ticket",
+          "vi": "Xác nhận vé"
+        },
+        "body": {
+          "en": "In many networks you must validate (valider) your ticket or card on a machine each time you board. Inspectors (contrôleurs) check tickets, and travelling without a valid ticket can lead to a fine.",
+          "vi": "Ở nhiều mạng lưới, bạn phải xác nhận (valider) vé hoặc thẻ trên máy mỗi lần lên xe. Nhân viên kiểm soát (contrôleurs) kiểm tra vé, và đi mà không có vé hợp lệ có thể bị phạt."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Each city has its own network, tickets and app.",
+        "vi": "Mỗi thành phố có mạng lưới, vé và ứng dụng riêng."
+      },
+      {
+        "en": "Validate your ticket every time you board.",
+        "vi": "Xác nhận vé mỗi lần lên xe."
+      },
+      {
+        "en": "A pass for students or monthly users is often a better deal.",
+        "vi": "Thẻ cho sinh viên hoặc thẻ tháng thường có lợi hơn."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Having a ticket but not validating it: it can still count as not valid.",
+        "vi": "Có vé mà không xác nhận: vẫn có thể bị coi là không hợp lệ."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "Un ticket, s’il vous plaît.",
+        "meaning": {
+          "en": "One ticket, please.",
+          "vi": "Cho tôi một vé."
+        }
+      },
+      {
+        "fr": "Où est l’arrêt de bus ?",
+        "meaning": {
+          "en": "Where is the bus stop?",
+          "vi": "Trạm xe buýt ở đâu?"
+        }
+      },
+      {
+        "fr": "Cet arrêt dessert la gare ?",
+        "meaning": {
+          "en": "Does this stop serve the station?",
+          "vi": "Trạm này có đến ga không?"
+        }
+      }
+    ],
+    "keywords": [
+      "bus",
+      "tram",
+      "metro",
+      "ticket",
+      "pass",
+      "navigo",
+      "validate",
+      "fine",
+      "transport"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "id": "trains-and-strikes",
+    "categoryId": "getting-around",
+    "title": {
+      "en": "Trains, booking and strikes",
+      "vi": "Tàu hỏa, đặt vé và đình công"
+    },
+    "icon": "train",
+    "summary": {
+      "en": "TGV, TER, and what to do when a strike happens.",
+      "vi": "TGV, TER, và việc cần làm khi có đình công."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Which train",
+          "vi": "Chọn tàu"
+        },
+        "body": {
+          "en": "Fast trains (TGV) link big cities and usually need a booking with a seat. Regional trains (TER) cover shorter trips and are more flexible. Booking early is often cheaper, but check the conditions for changes and refunds.",
+          "vi": "Tàu nhanh (TGV) nối các thành phố lớn và thường cần đặt chỗ có ghế. Tàu khu vực (TER) đi các tuyến ngắn và linh hoạt hơn. Đặt sớm thường rẻ hơn, nhưng hãy xem điều kiện đổi và hoàn vé."
+        }
+      },
+      {
+        "heading": {
+          "en": "On the day",
+          "vi": "Vào ngày đi"
+        },
+        "body": {
+          "en": "The platform (voie) is often shown only shortly before departure. Check your train on the board and on the app. Arrive with some margin.",
+          "vi": "Số đường ray (voie) thường chỉ hiện trước giờ khởi hành không lâu. Hãy kiểm tra chuyến tàu trên bảng và trên ứng dụng. Hãy đến sớm một chút."
+        }
+      },
+      {
+        "heading": {
+          "en": "Strikes",
+          "vi": "Đình công"
+        },
+        "body": {
+          "en": "Strikes (grèves) are a normal part of French life and can disrupt trains. They are usually announced in advance. Check the status before you travel and keep a plan B.",
+          "vi": "Đình công (grève) là một phần bình thường của đời sống ở Pháp và có thể làm gián đoạn tàu. Thường được thông báo trước. Hãy kiểm tra tình hình trước khi đi và có phương án dự phòng."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Compare TGV and TER, and book early for long trips.",
+        "vi": "So sánh TGV và TER, và đặt sớm cho chuyến đi xa."
+      },
+      {
+        "en": "The platform is often announced shortly before departure.",
+        "vi": "Đường ray thường được thông báo ngay trước giờ khởi hành."
+      },
+      {
+        "en": "Strikes are announced in advance: check before you travel.",
+        "vi": "Đình công được thông báo trước: hãy kiểm tra trước khi đi."
+      },
+      {
+        "en": "Read the conditions to change or cancel your ticket.",
+        "vi": "Đọc điều kiện đổi hoặc hủy vé."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Arriving at the last minute on a day with a strike.",
+        "vi": "Đến sát giờ vào ngày có đình công."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "À quelle heure part le prochain train ?",
+        "meaning": {
+          "en": "What time does the next train leave?",
+          "vi": "Mấy giờ có chuyến tàu tiếp theo?"
+        }
+      },
+      {
+        "fr": "Sur quelle voie ?",
+        "meaning": {
+          "en": "Which platform?",
+          "vi": "Ở đường ray nào?"
+        }
+      }
+    ],
+    "keywords": [
+      "train",
+      "sncf",
+      "tgv",
+      "ter",
+      "strike",
+      "greve",
+      "station",
+      "gare",
+      "booking"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "SNCF Connect: official train booking site",
+          "vi": "SNCF Connect: trang đặt vé tàu chính thức"
+        },
+        "url": "https://www.sncf-connect.com/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  }
+]
