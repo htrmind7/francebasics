@@ -1,0 +1,38 @@
+[
+  {
+    "id": "first-days",
+    "title": { "en": "First days", "vi": "Những ngày đầu" },
+    "icon": "suitcase",
+    "order": 10
+  },
+  {
+    "id": "money",
+    "title": { "en": "Money and banking", "vi": "Tiền bạc và ngân hàng" },
+    "icon": "coins",
+    "order": 20
+  },
+  {
+    "id": "housing",
+    "title": { "en": "Housing", "vi": "Nhà ở" },
+    "icon": "home",
+    "order": 30
+  },
+  {
+    "id": "health",
+    "title": { "en": "Health", "vi": "Sức khỏe" },
+    "icon": "cross",
+    "order": 40
+  },
+  {
+    "id": "getting-around",
+    "title": { "en": "Getting around", "vi": "Đi lại" },
+    "icon": "train",
+    "order": 50
+  },
+  {
+    "id": "social-codes",
+    "title": { "en": "Social codes", "vi": "Quy tắc ứng xử" },
+    "icon": "handshake",
+    "order": 60
+  }
+]

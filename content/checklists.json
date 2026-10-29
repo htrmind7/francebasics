@@ -1,0 +1,7 @@
+[
+  {
+    "id": "first-days",
+    "title": { "en": "Your first days", "vi": "Những ngày đầu của bạn" },
+    "steps": [{ "id": "say-hello", "guideId": "greetings-and-la-bise" }]
+  }
+]
