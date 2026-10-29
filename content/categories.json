@@ -6,8 +6,9 @@
       "vi": "Những ngày đầu"
     },
     "icon": "suitcase",
+    "tone": "coral",
     "order": 10,
-    "tone": "coral"
+    "image": "gare"
   },
   {
     "id": "money",
@@ -16,8 +17,9 @@
       "vi": "Tiền bạc và ngân hàng"
     },
     "icon": "euro",
+    "tone": "gold",
     "order": 20,
-    "tone": "gold"
+    "image": "euro"
   },
   {
     "id": "housing",
@@ -26,8 +28,9 @@
       "vi": "Nhà ở"
     },
     "icon": "home",
+    "tone": "teal",
     "order": 30,
-    "tone": "teal"
+    "image": "haussmann"
   },
   {
     "id": "health",
@@ -36,8 +39,9 @@
       "vi": "Sức khỏe"
     },
     "icon": "cross",
+    "tone": "coral",
     "order": 40,
-    "tone": "coral"
+    "image": "pharmacy"
   },
   {
     "id": "getting-around",
@@ -46,8 +50,9 @@
       "vi": "Đi lại"
     },
     "icon": "train",
+    "tone": "blue",
     "order": 50,
-    "tone": "blue"
+    "image": "tgvtrain"
   },
   {
     "id": "study-life",
@@ -57,7 +62,19 @@
     },
     "icon": "cap",
     "tone": "green",
-    "order": 55
+    "order": 55,
+    "image": "university"
+  },
+  {
+    "id": "work",
+    "title": {
+      "en": "Work and internships",
+      "vi": "Việc làm và thực tập"
+    },
+    "icon": "briefcase",
+    "tone": "teal",
+    "order": 58,
+    "image": "students2"
   },
   {
     "id": "social-codes",
@@ -66,7 +83,63 @@
       "vi": "Quy tắc ứng xử"
     },
     "icon": "hand",
+    "tone": "purple",
     "order": 60,
-    "tone": "purple"
+    "image": "bakery"
+  },
+  {
+    "id": "culture",
+    "title": {
+      "en": "French culture",
+      "vi": "Văn hóa Pháp"
+    },
+    "icon": "star",
+    "tone": "gold",
+    "order": 70,
+    "image": "louvre"
+  },
+  {
+    "id": "history",
+    "title": {
+      "en": "French history",
+      "vi": "Lịch sử Pháp"
+    },
+    "icon": "castle",
+    "tone": "purple",
+    "order": 80,
+    "image": "versailles"
+  },
+  {
+    "id": "regions",
+    "title": {
+      "en": "Regions and geography",
+      "vi": "Các vùng và địa lý"
+    },
+    "icon": "map",
+    "tone": "green",
+    "order": 90,
+    "image": "lavender"
+  },
+  {
+    "id": "europe",
+    "title": {
+      "en": "France and Europe",
+      "vi": "Pháp và châu Âu"
+    },
+    "icon": "globe",
+    "tone": "blue",
+    "order": 100,
+    "image": "eu-flag"
+  },
+  {
+    "id": "politics",
+    "title": {
+      "en": "Politics and institutions",
+      "vi": "Chính trị và thể chế"
+    },
+    "icon": "ballot",
+    "tone": "coral",
+    "order": 110,
+    "image": "assemblee"
   }
 ]

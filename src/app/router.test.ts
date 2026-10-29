@@ -16,6 +16,7 @@ describe('router', () => {
       { name: 'search' },
       { name: 'checklist' },
       { name: 'settings' },
+      { name: 'credits' },
     ]
     for (const route of routes) {
       expect(parseRoute(routeHref(route))).toEqual(route)

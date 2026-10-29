@@ -1,3 +1,4 @@
+import { existsSync } from 'node:fs'
 import { describe, expect, it } from 'vitest'
 import { hasIcon } from '../ui/Icon.tsx'
 import { loadAllContent } from './content.ts'
@@ -32,11 +33,16 @@ const link = {
   url: 'https://www.service-public.gouv.fr/',
 }
 
-function content(guideList: unknown[], checklistList: unknown[] = []) {
+function content(
+  guideList: unknown[],
+  checklistList: unknown[] = [],
+  imageList: unknown[] = [],
+) {
   return {
     categories: [category],
     guides: guideList,
     checklists: checklistList,
+    images: imageList,
   }
 }
 
@@ -105,6 +111,42 @@ describe('parseContent', () => {
     expect(() =>
       parseContent(content([guide({ lastChecked: '01/01/2026' })])),
     ).toThrow(ContentError)
+  })
+})
+
+describe('images', () => {
+  const image = {
+    id: 'pic',
+    file: 'pic.jpg',
+    alt: { en: 'A picture' },
+    title: 'Pic',
+    author: 'Someone',
+    license: 'CC BY-SA 4.0',
+    source: 'https://commons.wikimedia.org/wiki/File:Pic.jpg',
+  }
+
+  it('rejects an unknown image reference', () => {
+    expect(() => parseContent(content([guide({ image: 'nope' })]))).toThrow(
+      /unknown image/,
+    )
+    expect(() =>
+      parseContent(content([guide({ image: 'pic' })], [], [image])),
+    ).not.toThrow()
+  })
+
+  it('only accepts free licences', () => {
+    const bad = { ...image, license: 'All rights reserved' }
+    expect(() => parseContent(content([guide()], [], [bad]))).toThrow(
+      ContentError,
+    )
+  })
+
+  it('has every bundled image file and credit', () => {
+    const { images } = loadAllContent()
+    for (const entry of images) {
+      expect(existsSync(`public/images/${entry.file}`), entry.file).toBe(true)
+      expect(entry.author.length).toBeGreaterThan(0)
+    }
   })
 })
 

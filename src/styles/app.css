@@ -497,3 +497,99 @@ a {
 .screen-title + .panel {
   margin-top: 16px;
 }
+
+/* Photos */
+.photo {
+  margin: 0 0 16px;
+}
+
+.photo img {
+  display: block;
+  width: 100%;
+  height: auto;
+  aspect-ratio: 16 / 9;
+  object-fit: cover;
+  border-radius: var(--radius);
+  background: var(--surface);
+}
+
+.photo figcaption {
+  margin-top: 6px;
+  font-size: 0.72rem;
+  text-align: right;
+  color: var(--text-muted);
+}
+
+.photo figcaption a {
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.card.tall.with-photo {
+  position: relative;
+  min-height: 150px;
+  justify-content: flex-end;
+  padding: 0;
+  overflow: hidden;
+  color: #fff;
+  border: 0;
+}
+
+.card-photo {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.card.with-photo::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(to top, rgb(0 0 0 / 0.72), rgb(0 0 0 / 0.05) 70%);
+}
+
+.card.with-photo strong,
+.card.with-photo .muted {
+  position: relative;
+  z-index: 1;
+  padding: 0 14px;
+  color: #fff;
+  text-shadow: 0 1px 3px rgb(0 0 0 / 0.5);
+}
+
+.card.with-photo .muted {
+  padding-bottom: 12px;
+  margin-top: -6px;
+  opacity: 0.9;
+}
+
+.credits {
+  margin: 16px 0 0;
+  padding: 0;
+  list-style: none;
+}
+
+.credits li + li {
+  border-top: 1px solid var(--border);
+}
+
+.credits a {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 0;
+}
+
+.credits img {
+  flex: none;
+  width: 96px;
+  height: 54px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.credits span span {
+  display: block;
+}

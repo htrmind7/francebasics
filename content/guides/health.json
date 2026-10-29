@@ -339,5 +339,98 @@
     ],
     "lastChecked": "2026-10-29",
     "status": "validated"
+  },
+  {
+    "image": "library2",
+    "id": "mental-health",
+    "categoryId": "health",
+    "title": {
+      "en": "Looking after your mind",
+      "vi": "Chăm sóc sức khỏe tinh thần"
+    },
+    "icon": "heart",
+    "summary": {
+      "en": "Feeling lonely or stressed is common when you arrive. Help exists.",
+      "vi": "Cảm thấy cô đơn hay căng thẳng khi mới đến là chuyện thường. Có sự giúp đỡ."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "It is normal",
+          "vi": "Điều này là bình thường"
+        },
+        "body": {
+          "en": "Moving to a new country, language and climate is hard. Homesickness, tiredness and stress are common. Talk to friends, your family, or other students, and keep a routine with sleep, meals and some exercise.",
+          "vi": "Chuyển đến một đất nước, ngôn ngữ và khí hậu mới là điều khó khăn. Nhớ nhà, mệt mỏi và căng thẳng là chuyện thường. Hãy trò chuyện với bạn bè, gia đình hoặc sinh viên khác, và giữ nếp sinh hoạt với giấc ngủ, bữa ăn và vận động."
+        }
+      },
+      {
+        "heading": {
+          "en": "Where to get help",
+          "vi": "Tìm sự giúp đỡ ở đâu"
+        },
+        "body": {
+          "en": "Many universities have a student health service and counsellors. A doctor can also refer you to a specialist. If you or someone else is in danger, call 15 or 112. In France, 3114 is the national number for suicide prevention.",
+          "vi": "Nhiều trường đại học có dịch vụ y tế sinh viên và người tư vấn. Bác sĩ cũng có thể giới thiệu bạn đến chuyên khoa. Nếu bạn hoặc ai đó đang gặp nguy hiểm, hãy gọi 15 hoặc 112. Ở Pháp, 3114 là số quốc gia phòng ngừa tự tử."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Feeling homesick or stressed is common.",
+        "vi": "Nhớ nhà hoặc căng thẳng là chuyện thường."
+      },
+      {
+        "en": "Ask your school about student health and counselling services.",
+        "vi": "Hỏi trường về dịch vụ y tế và tư vấn cho sinh viên."
+      },
+      {
+        "en": "In danger, call 15 or 112. For suicide prevention, call 3114.",
+        "vi": "Khi nguy hiểm, gọi 15 hoặc 112. Để phòng ngừa tự tử, gọi 3114."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Keeping everything to yourself. Talking early helps.",
+        "vi": "Giữ mọi chuyện cho riêng mình. Chia sẻ sớm sẽ giúp ích."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "Je ne me sens pas bien.",
+        "meaning": {
+          "en": "I do not feel well.",
+          "vi": "Tôi cảm thấy không ổn."
+        }
+      },
+      {
+        "fr": "J’ai besoin de parler à quelqu’un.",
+        "meaning": {
+          "en": "I need to talk to someone.",
+          "vi": "Tôi cần nói chuyện với ai đó."
+        }
+      }
+    ],
+    "keywords": [
+      "mental health",
+      "stress",
+      "lonely",
+      "homesick",
+      "counselling",
+      "psychologist",
+      "3114"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
   }
 ]

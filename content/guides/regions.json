@@ -1,0 +1,711 @@
+[
+  {
+    "image": "alps",
+    "id": "france-at-a-glance",
+    "categoryId": "regions",
+    "title": {
+      "en": "France at a glance",
+      "vi": "Nước Pháp trong nháy mắt"
+    },
+    "icon": "map",
+    "summary": {
+      "en": "Size, borders, mountains, rivers and seas.",
+      "vi": "Diện tích, biên giới, núi, sông và biển."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Shape and size",
+          "vi": "Hình dạng và diện tích"
+        },
+        "body": {
+          "en": "Mainland France is often called “l’Hexagone” because of its six-sided shape. It is the largest country of the European Union by area, with about 68 million inhabitants. It has coasts on the Channel, the Atlantic and the Mediterranean.",
+          "vi": "Nước Pháp lục địa thường được gọi là “l’Hexagone” (hình lục giác) vì hình dạng sáu cạnh. Đây là nước có diện tích lớn nhất Liên minh châu Âu, với khoảng 68 triệu dân. Pháp có bờ biển trên eo biển Manche, Đại Tây Dương và Địa Trung Hải."
+        }
+      },
+      {
+        "heading": {
+          "en": "Landscapes",
+          "vi": "Cảnh quan"
+        },
+        "body": {
+          "en": "The Alps, with Mont Blanc, form the highest range. The Pyrenees mark the border with Spain, and the Massif Central lies in the middle. The main rivers are the Seine, the Loire, the Rhône and the Garonne, and the Rhine runs along the border with Germany.",
+          "vi": "Dãy Alps, với đỉnh Mont Blanc, là dãy núi cao nhất. Dãy Pyrénées đánh dấu biên giới với Tây Ban Nha, còn Massif Central nằm ở giữa. Các sông chính là Seine, Loire, Rhône và Garonne, và sông Rhin chảy dọc biên giới với Đức."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Mainland France is called the Hexagon.",
+        "vi": "Nước Pháp lục địa được gọi là Hexagone."
+      },
+      {
+        "en": "It has about 68 million inhabitants.",
+        "vi": "Pháp có khoảng 68 triệu dân."
+      },
+      {
+        "en": "The Alps, Pyrenees and four main rivers shape its landscape.",
+        "vi": "Alps, Pyrénées và bốn con sông chính định hình cảnh quan."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": ["geography", "hexagon", "mountains", "rivers", "population"],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "France.fr: official tourism website",
+          "vi": "France.fr: trang du lịch chính thức"
+        },
+        "url": "https://www.france.fr/en"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "mairie",
+    "id": "regions-and-departments",
+    "categoryId": "regions",
+    "title": {
+      "en": "Regions, departments and communes",
+      "vi": "Vùng, tỉnh và xã"
+    },
+    "icon": "map",
+    "summary": {
+      "en": "How France is divided, and what the number on a postal code means.",
+      "vi": "Nước Pháp được chia thế nào, và con số trong mã bưu chính có nghĩa gì."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "The levels",
+          "vi": "Các cấp"
+        },
+        "body": {
+          "en": "France has 18 regions: 13 on the mainland (including Corsica) and 5 overseas. Regions contain departments, around 100 in total, and departments contain communes (towns and villages), each with its town hall (mairie). There are about 35,000 communes.",
+          "vi": "Pháp có 18 vùng: 13 vùng trên đất liền (gồm Corse) và 5 vùng hải ngoại. Mỗi vùng gồm nhiều tỉnh (département), tổng cộng khoảng 100, và mỗi tỉnh gồm nhiều xã (commune: thị trấn và làng), mỗi xã có tòa thị chính (mairie). Có khoảng 35.000 xã."
+        }
+      },
+      {
+        "heading": {
+          "en": "Why numbers matter",
+          "vi": "Vì sao con số quan trọng"
+        },
+        "body": {
+          "en": "Each department has a number. The first two digits of a postal code are the number of the department: for example, Reims is in the Marne, number 51, and its postal codes start with 51. You will see these numbers on forms, vehicle plates and addresses.",
+          "vi": "Mỗi tỉnh có một con số. Hai chữ số đầu của mã bưu chính là số của tỉnh: ví dụ Reims thuộc tỉnh Marne, số 51, và mã bưu chính bắt đầu bằng 51. Bạn sẽ thấy các số này trên biểu mẫu, biển số xe và địa chỉ."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "France has 18 regions, 13 on the mainland.",
+        "vi": "Pháp có 18 vùng, 13 vùng trên đất liền."
+      },
+      {
+        "en": "Departments are numbered, and the number starts the postal code.",
+        "vi": "Các tỉnh được đánh số, và số này bắt đầu mã bưu chính."
+      },
+      {
+        "en": "The commune and its mairie handle local matters.",
+        "vi": "Xã và mairie lo các việc địa phương."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": ["regions", "departments", "communes", "postal code", "mairie"],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "eiffel",
+    "id": "paris-and-ile-de-france",
+    "categoryId": "regions",
+    "title": {
+      "en": "Paris and the Île-de-France",
+      "vi": "Paris và vùng Île-de-France"
+    },
+    "icon": "map",
+    "summary": {
+      "en": "The capital, its districts and how to move around.",
+      "vi": "Thủ đô, các quận và cách di chuyển."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "The capital",
+          "vi": "Thủ đô"
+        },
+        "body": {
+          "en": "Paris sits on the Seine and is divided into 20 districts called arrondissements, numbered in a spiral from the centre. The Eiffel Tower, built for the 1889 World’s Fair, the Louvre, Notre-Dame and Montmartre are major landmarks.",
+          "vi": "Paris nằm bên sông Seine và được chia thành 20 quận gọi là arrondissement, đánh số xoắn ốc từ trung tâm. Tháp Eiffel, xây cho Hội chợ thế giới 1889, Louvre, Notre-Dame và Montmartre là những địa danh lớn."
+        }
+      },
+      {
+        "heading": {
+          "en": "The Île-de-France",
+          "vi": "Vùng Île-de-France"
+        },
+        "body": {
+          "en": "The Paris region is the most populated in France. A dense network of metro, RER trains, tramways and buses connects it. Housing is more expensive than elsewhere, and many students live in the suburbs and commute.",
+          "vi": "Vùng Paris đông dân nhất nước Pháp. Một mạng lưới dày đặc gồm metro, tàu RER, tàu điện và xe buýt nối liền. Nhà ở đắt hơn nơi khác, và nhiều sinh viên sống ở ngoại ô rồi đi lại."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Paris has 20 arrondissements.",
+        "vi": "Paris có 20 quận."
+      },
+      {
+        "en": "The Eiffel Tower dates from 1889.",
+        "vi": "Tháp Eiffel có từ năm 1889."
+      },
+      {
+        "en": "Metro, RER and buses cover the whole region.",
+        "vi": "Metro, RER và xe buýt phủ khắp vùng."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "Quel métro pour aller à… ?",
+        "meaning": {
+          "en": "Which metro goes to…?",
+          "vi": "Tuyến metro nào đi đến…?"
+        }
+      }
+    ],
+    "keywords": [
+      "paris",
+      "eiffel",
+      "arrondissement",
+      "ile de france",
+      "metro",
+      "rer"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "France.fr: official tourism website",
+          "vi": "France.fr: trang du lịch chính thức"
+        },
+        "url": "https://www.france.fr/en"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "reims",
+    "id": "reims-and-champagne",
+    "categoryId": "regions",
+    "title": {
+      "en": "Reims and Champagne",
+      "vi": "Reims và Champagne"
+    },
+    "icon": "map",
+    "summary": {
+      "en": "The city of coronations and sparkling wine.",
+      "vi": "Thành phố của các lễ đăng quang và rượu vang sủi."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "A city of history",
+          "vi": "Một thành phố lịch sử"
+        },
+        "body": {
+          "en": "Reims is in the Grand Est region, in the department of the Marne. Its Gothic cathedral, where many kings of France were crowned, is a UNESCO World Heritage site. The city is about an hour from Paris by high-speed train.",
+          "vi": "Reims nằm trong vùng Grand Est, thuộc tỉnh Marne. Nhà thờ lớn kiểu Gothic, nơi nhiều vị vua Pháp được đăng quang, là Di sản Thế giới của UNESCO. Thành phố cách Paris khoảng một giờ đi tàu cao tốc."
+        }
+      },
+      {
+        "heading": {
+          "en": "Champagne and students",
+          "vi": "Champagne và sinh viên"
+        },
+        "body": {
+          "en": "Only sparkling wine from the Champagne region may be called champagne. The big houses store it in chalk cellars under the city, which can be visited. Reims is also a university city, with many students, including international ones.",
+          "vi": "Chỉ rượu vang sủi từ vùng Champagne mới được gọi là champagne. Các nhà sản xuất lớn ủ rượu trong hầm đá vôi dưới thành phố, có thể tham quan. Reims cũng là thành phố đại học, với nhiều sinh viên, kể cả sinh viên quốc tế."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Reims Cathedral is a UNESCO site where kings were crowned.",
+        "vi": "Nhà thờ lớn Reims là di sản UNESCO nơi các vị vua đăng quang."
+      },
+      {
+        "en": "Only wine from Champagne can be called champagne.",
+        "vi": "Chỉ rượu từ Champagne mới được gọi là champagne."
+      },
+      {
+        "en": "Paris is about an hour away by fast train.",
+        "vi": "Paris cách khoảng một giờ đi tàu nhanh."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "Où est la cathédrale ?",
+        "meaning": {
+          "en": "Where is the cathedral?",
+          "vi": "Nhà thờ lớn ở đâu?"
+        }
+      }
+    ],
+    "keywords": ["reims", "champagne", "cathedral", "marne", "grand est"],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "France.fr: official tourism website",
+          "vi": "France.fr: trang du lịch chính thức"
+        },
+        "url": "https://www.france.fr/en"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "alsace",
+    "id": "alsace-and-east",
+    "categoryId": "regions",
+    "title": {
+      "en": "Alsace, Strasbourg and the east",
+      "vi": "Alsace, Strasbourg và miền Đông"
+    },
+    "icon": "map",
+    "summary": {
+      "en": "A border region where French and German history meet.",
+      "vi": "Vùng biên giới nơi lịch sử Pháp và Đức gặp nhau."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Strasbourg",
+          "vi": "Strasbourg"
+        },
+        "body": {
+          "en": "Strasbourg hosts the European Parliament and the Council of Europe. Its old centre, with half-timbered houses along the canals, is a UNESCO World Heritage site, and its Christmas market is famous.",
+          "vi": "Strasbourg là nơi đặt Nghị viện châu Âu và Hội đồng châu Âu. Khu phố cổ, với những ngôi nhà khung gỗ bên các kênh, là Di sản Thế giới của UNESCO, và chợ Giáng sinh nổi tiếng."
+        }
+      },
+      {
+        "heading": {
+          "en": "A shared history",
+          "vi": "Một lịch sử chung"
+        },
+        "body": {
+          "en": "Alsace and Lorraine changed countries several times between France and Germany from 1871 to 1945. This explains the German-sounding names, the Alsatian dialect, the white wines and some local rules that differ from the rest of France.",
+          "vi": "Alsace và Lorraine nhiều lần đổi nước giữa Pháp và Đức từ 1871 đến 1945. Điều này giải thích những cái tên nghe như tiếng Đức, phương ngữ Alsace, các loại vang trắng và một số quy định địa phương khác phần còn lại của nước Pháp."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Strasbourg hosts the European Parliament.",
+        "vi": "Strasbourg đặt Nghị viện châu Âu."
+      },
+      {
+        "en": "The region changed hands between France and Germany.",
+        "vi": "Vùng này nhiều lần đổi chủ giữa Pháp và Đức."
+      },
+      {
+        "en": "It is known for half-timbered houses and white wines.",
+        "vi": "Nổi tiếng với nhà khung gỗ và vang trắng."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": [
+      "alsace",
+      "strasbourg",
+      "lorraine",
+      "germany",
+      "christmas market"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "France.fr: official tourism website",
+          "vi": "France.fr: trang du lịch chính thức"
+        },
+        "url": "https://www.france.fr/en"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "etretat",
+    "id": "brittany-and-normandy",
+    "categoryId": "regions",
+    "title": {
+      "en": "Brittany and Normandy",
+      "vi": "Bretagne và Normandie"
+    },
+    "icon": "map",
+    "summary": {
+      "en": "Wild coasts, Celtic heritage, cider and history.",
+      "vi": "Bờ biển hoang sơ, di sản Celt, rượu táo và lịch sử."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Brittany",
+          "vi": "Bretagne"
+        },
+        "body": {
+          "en": "Brittany, in the west, has a strong Celtic identity, the Breton language and a rugged coast. It is known for crêpes and galettes, salted butter and its sailors.",
+          "vi": "Bretagne ở miền Tây có bản sắc Celt mạnh, có tiếng Breton và bờ biển gồ ghề. Nơi này nổi tiếng với crêpe và galette, bơ mặn và các thủy thủ."
+        }
+      },
+      {
+        "heading": {
+          "en": "Normandy",
+          "vi": "Normandie"
+        },
+        "body": {
+          "en": "Normandy has the Mont-Saint-Michel, the cliffs of Étretat painted by Monet, camembert and cider. The Allied landing of 6 June 1944 took place on its beaches, and the sites are visited by people from many countries.",
+          "vi": "Normandie có Mont-Saint-Michel, vách đá Étretat được Monet vẽ, phô mai camembert và rượu táo. Cuộc đổ bộ của quân Đồng minh ngày 6 tháng 6 năm 1944 diễn ra trên các bãi biển ở đây, và các địa điểm đón khách từ nhiều nước."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Brittany has Celtic roots and its own language.",
+        "vi": "Bretagne có gốc Celt và ngôn ngữ riêng."
+      },
+      {
+        "en": "Normandy has the Mont-Saint-Michel and the D-Day beaches.",
+        "vi": "Normandie có Mont-Saint-Michel và các bãi biển ngày D-Day."
+      },
+      {
+        "en": "Crêpes, cider and camembert are specialities.",
+        "vi": "Crêpe, rượu táo và camembert là đặc sản."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": [
+      "brittany",
+      "normandy",
+      "mont saint michel",
+      "crepes",
+      "d-day",
+      "etretat"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "France.fr: official tourism website",
+          "vi": "France.fr: trang du lịch chính thức"
+        },
+        "url": "https://www.france.fr/en"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "lavender",
+    "id": "provence-and-riviera",
+    "categoryId": "regions",
+    "title": {
+      "en": "Provence and the Riviera",
+      "vi": "Provence và Riviera"
+    },
+    "icon": "map",
+    "summary": {
+      "en": "Sun, lavender, markets and the Mediterranean.",
+      "vi": "Nắng, oải hương, chợ và Địa Trung Hải."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Provence",
+          "vi": "Provence"
+        },
+        "body": {
+          "en": "Provence has a Mediterranean climate, with hot dry summers. Lavender fields bloom in summer, and villages hold colourful markets. Marseille, one of the oldest cities in France and its second largest, is a major port.",
+          "vi": "Provence có khí hậu Địa Trung Hải, mùa hè nóng và khô. Cánh đồng oải hương nở vào mùa hè, và các làng tổ chức những phiên chợ nhiều màu sắc. Marseille, một trong những thành phố lâu đời nhất và lớn thứ hai nước Pháp, là một hải cảng lớn."
+        }
+      },
+      {
+        "heading": {
+          "en": "The Riviera",
+          "vi": "Riviera"
+        },
+        "body": {
+          "en": "The French Riviera, or Côte d’Azur, includes Nice, Cannes and Antibes. It attracts many visitors in summer, and accommodation is more expensive then. The famous Cannes Film Festival takes place in May.",
+          "vi": "Riviera Pháp, hay Côte d’Azur, gồm Nice, Cannes và Antibes. Nơi này thu hút nhiều du khách vào mùa hè, và chỗ ở đắt hơn lúc đó. Liên hoan phim Cannes nổi tiếng diễn ra vào tháng 5."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Provence has a Mediterranean climate and lavender.",
+        "vi": "Provence có khí hậu Địa Trung Hải và oải hương."
+      },
+      {
+        "en": "Marseille is a major port.",
+        "vi": "Marseille là một hải cảng lớn."
+      },
+      {
+        "en": "The Riviera is busy and expensive in summer.",
+        "vi": "Riviera đông và đắt vào mùa hè."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": [
+      "provence",
+      "riviera",
+      "marseille",
+      "nice",
+      "cannes",
+      "lavender"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "France.fr: official tourism website",
+          "vi": "France.fr: trang du lịch chính thức"
+        },
+        "url": "https://www.france.fr/en"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "toulouse",
+    "id": "southwest-and-occitanie",
+    "categoryId": "regions",
+    "title": {
+      "en": "The south-west and Occitanie",
+      "vi": "Miền Tây Nam và Occitanie"
+    },
+    "icon": "map",
+    "summary": {
+      "en": "Wine, rugby, mountains and medieval cities.",
+      "vi": "Rượu vang, bóng bầu dục, núi và các thành cổ trung cổ."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Bordeaux and the Atlantic",
+          "vi": "Bordeaux và Đại Tây Dương"
+        },
+        "body": {
+          "en": "Bordeaux is a world-famous wine city with elegant 18th-century squares. The Atlantic coast has long sandy beaches, and the Basque Country has its own language and traditions.",
+          "vi": "Bordeaux là thành phố rượu vang nổi tiếng thế giới với các quảng trường thanh lịch thế kỷ 18. Bờ Đại Tây Dương có những bãi cát dài, và xứ Basque có ngôn ngữ và truyền thống riêng."
+        }
+      },
+      {
+        "heading": {
+          "en": "Toulouse, Carcassonne and the Pyrenees",
+          "vi": "Toulouse, Carcassonne và Pyrénées"
+        },
+        "body": {
+          "en": "Toulouse, the “pink city”, is a centre of the aerospace industry. Carcassonne has a medieval fortified city, and the Pyrenees mountains offer hiking and skiing. Rugby is a passion here.",
+          "vi": "Toulouse, “thành phố hồng”, là trung tâm công nghiệp hàng không vũ trụ. Carcassonne có một thành cổ kiên cố thời trung cổ, và dãy Pyrénées có đường đi bộ đường dài và trượt tuyết. Bóng bầu dục là niềm đam mê ở đây."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Bordeaux is a major wine city.",
+        "vi": "Bordeaux là thành phố rượu vang lớn."
+      },
+      {
+        "en": "Toulouse is nicknamed the pink city.",
+        "vi": "Toulouse có biệt danh là thành phố hồng."
+      },
+      {
+        "en": "Carcassonne and the Pyrenees attract many visitors.",
+        "vi": "Carcassonne và Pyrénées thu hút nhiều du khách."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": [
+      "bordeaux",
+      "toulouse",
+      "carcassonne",
+      "pyrenees",
+      "basque",
+      "occitanie",
+      "rugby"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "France.fr: official tourism website",
+          "vi": "France.fr: trang du lịch chính thức"
+        },
+        "url": "https://www.france.fr/en"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "loire",
+    "id": "lyon-alps-loire",
+    "categoryId": "regions",
+    "title": {
+      "en": "Lyon, the Alps and the Loire",
+      "vi": "Lyon, dãy Alps và Loire"
+    },
+    "icon": "map",
+    "summary": {
+      "en": "Gastronomy, mountains and castles.",
+      "vi": "Ẩm thực, núi non và lâu đài."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Lyon and the Alps",
+          "vi": "Lyon và dãy Alps"
+        },
+        "body": {
+          "en": "Lyon, at the meeting of the Rhône and the Saône, is known for its food and for the first film shown by the Lumière brothers. The French Alps, with Mont Blanc, offer hiking in summer and skiing in winter.",
+          "vi": "Lyon, nơi hai sông Rhône và Saône gặp nhau, nổi tiếng với ẩm thực và với bộ phim đầu tiên của anh em nhà Lumière. Dãy Alps của Pháp, với Mont Blanc, có đường đi bộ mùa hè và trượt tuyết mùa đông."
+        }
+      },
+      {
+        "heading": {
+          "en": "The Loire Valley",
+          "vi": "Thung lũng Loire"
+        },
+        "body": {
+          "en": "The Loire Valley is famous for its Renaissance châteaux, such as Chambord, and its wines. It is a UNESCO World Heritage site, and a pleasant region for cycling.",
+          "vi": "Thung lũng Loire nổi tiếng với các lâu đài thời Phục hưng, như Chambord, và các loại rượu vang. Đây là Di sản Thế giới của UNESCO, và là vùng dễ chịu để đạp xe."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Lyon is known for gastronomy and film history.",
+        "vi": "Lyon nổi tiếng về ẩm thực và lịch sử điện ảnh."
+      },
+      {
+        "en": "The Alps offer summer hiking and winter skiing.",
+        "vi": "Dãy Alps có đi bộ mùa hè và trượt tuyết mùa đông."
+      },
+      {
+        "en": "The Loire Valley has Renaissance châteaux.",
+        "vi": "Thung lũng Loire có các lâu đài thời Phục hưng."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": ["lyon", "alps", "loire", "chateau", "ski", "mont blanc"],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "France.fr: official tourism website",
+          "vi": "France.fr: trang du lịch chính thức"
+        },
+        "url": "https://www.france.fr/en"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "corsica",
+    "id": "corsica-and-overseas",
+    "categoryId": "regions",
+    "title": {
+      "en": "Corsica and the overseas territories",
+      "vi": "Corse và các lãnh thổ hải ngoại"
+    },
+    "icon": "map",
+    "summary": {
+      "en": "Islands that are also part of France.",
+      "vi": "Những hòn đảo cũng là một phần của nước Pháp."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Corsica",
+          "vi": "Corse"
+        },
+        "body": {
+          "en": "Corsica is a mountainous island in the Mediterranean, with a strong identity and its own language. Napoleon was born in Ajaccio in 1769.",
+          "vi": "Corse là một hòn đảo nhiều núi ở Địa Trung Hải, có bản sắc mạnh và ngôn ngữ riêng. Napoléon sinh ở Ajaccio năm 1769."
+        }
+      },
+      {
+        "heading": {
+          "en": "The overseas territories",
+          "vi": "Các lãnh thổ hải ngoại"
+        },
+        "body": {
+          "en": "France includes territories far from Europe: Guadeloupe, Martinique, French Guiana, Réunion and Mayotte are overseas departments and regions, and other territories include French Polynesia and New Caledonia. Their residents are French citizens and their climate and landscapes are tropical.",
+          "vi": "Pháp bao gồm các lãnh thổ xa châu Âu: Guadeloupe, Martinique, Guyane thuộc Pháp, Réunion và Mayotte là các tỉnh và vùng hải ngoại, còn các lãnh thổ khác gồm Polynésie thuộc Pháp và Nouvelle-Calédonie. Cư dân là công dân Pháp và khí hậu, cảnh quan nhiệt đới."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Corsica is a Mediterranean island with its own identity.",
+        "vi": "Corse là đảo Địa Trung Hải với bản sắc riêng."
+      },
+      {
+        "en": "Napoleon was born in Ajaccio, Corsica.",
+        "vi": "Napoléon sinh ở Ajaccio, Corse."
+      },
+      {
+        "en": "Overseas territories are part of France.",
+        "vi": "Các lãnh thổ hải ngoại là một phần của nước Pháp."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": [
+      "corsica",
+      "overseas",
+      "reunion",
+      "guadeloupe",
+      "martinique",
+      "dom-tom",
+      "tahiti"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "France.fr: official tourism website",
+          "vi": "France.fr: trang du lịch chính thức"
+        },
+        "url": "https://www.france.fr/en"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  }
+]

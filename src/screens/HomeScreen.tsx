@@ -4,6 +4,7 @@ import { text } from '../content/loader.ts'
 import { format } from '../i18n/format.ts'
 import { useI18n } from '../i18n/context.tsx'
 import { Icon } from '../ui/Icon.tsx'
+import { imageSrc } from '../ui/Photo.tsx'
 import { Disclaimer, IconTile, ProgressBar } from '../ui/ui.tsx'
 
 export function HomeScreen({ content, progress }: ScreenProps) {
@@ -57,13 +58,26 @@ export function HomeScreen({ content, progress }: ScreenProps) {
             const count = content.guides.filter(
               (guide) => guide.categoryId === category.id,
             ).length
+            const photo = content.images.find(
+              (image) => image.id === category.image,
+            )
             return (
               <a
                 key={category.id}
-                className="card tall"
+                className={`card tall tone-${category.tone} ${photo ? 'with-photo' : ''}`}
                 href={`#/c/${category.id}`}
               >
-                <IconTile icon={category.icon} tone={category.tone} />
+                {photo ? (
+                  <img
+                    className="card-photo"
+                    src={imageSrc(photo)}
+                    alt=""
+                    loading="lazy"
+                    decoding="async"
+                  />
+                ) : (
+                  <IconTile icon={category.icon} tone={category.tone} />
+                )}
                 <strong>{text(category.title, language)}</strong>
                 <span className="muted small">
                   {format(

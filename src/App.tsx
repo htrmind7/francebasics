@@ -10,6 +10,7 @@ import type { ScreenProps } from './app/types.ts'
 import { loadPublishedContent } from './content/content.ts'
 import { useI18n } from './i18n/context.tsx'
 import { CategoryScreen } from './screens/CategoryScreen.tsx'
+import { CreditsScreen } from './screens/CreditsScreen.tsx'
 import { ChecklistScreen } from './screens/ChecklistScreen.tsx'
 import { GuideScreen } from './screens/GuideScreen.tsx'
 import { HomeScreen } from './screens/HomeScreen.tsx'
@@ -28,9 +29,8 @@ const NAV = [
 
 /** Which tab is highlighted: guides and topics belong to Home. */
 function activeTab(route: Route): (typeof NAV)[number]['name'] {
-  return route.name === 'category' || route.name === 'guide'
-    ? 'home'
-    : route.name
+  if (route.name === 'category' || route.name === 'guide') return 'home'
+  return route.name === 'credits' ? 'settings' : route.name
 }
 
 export default function App() {
@@ -71,6 +71,7 @@ export default function App() {
         {route.name === 'search' && <SearchScreen {...props} />}
         {route.name === 'checklist' && <ChecklistScreen {...props} />}
         {route.name === 'settings' && <SettingsScreen {...props} />}
+        {route.name === 'credits' && <CreditsScreen {...props} />}
       </main>
       <nav className="tabbar" aria-label="Main">
         {NAV.map((item) => (

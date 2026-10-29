@@ -7,6 +7,7 @@ export type Route =
   | { name: 'search' }
   | { name: 'checklist' }
   | { name: 'settings' }
+  | { name: 'credits' }
 
 /** Hash routes keep the browser back button working inside the installed app. */
 export function parseRoute(hash: string): Route {
@@ -26,6 +27,8 @@ export function parseRoute(hash: string): Route {
       return { name: 'checklist' }
     case 'settings':
       return { name: 'settings' }
+    case 'credits':
+      return { name: 'credits' }
     default:
       return { name: 'home' }
   }

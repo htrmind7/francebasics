@@ -392,5 +392,162 @@
     ],
     "lastChecked": "2026-10-29",
     "status": "validated"
+  },
+  {
+    "image": "seine",
+    "id": "weather-and-clothing",
+    "categoryId": "first-days",
+    "title": {
+      "en": "Weather and what to wear",
+      "vi": "Thời tiết và nên mặc gì"
+    },
+    "icon": "sun",
+    "summary": {
+      "en": "France has four seasons, and the weather depends a lot on the region.",
+      "vi": "Pháp có bốn mùa, và thời tiết khác nhau nhiều theo vùng."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Four seasons",
+          "vi": "Bốn mùa"
+        },
+        "body": {
+          "en": "Most of France has a temperate climate. Winters are cool or cold and the days are short. Summers can be hot, especially in the south. The north and the west get more rain, the mountains get snow, and the Mediterranean coast is sunnier and drier.",
+          "vi": "Phần lớn nước Pháp có khí hậu ôn hòa. Mùa đông mát hoặc lạnh và ngày ngắn. Mùa hè có thể nóng, nhất là ở miền Nam. Miền Bắc và miền Tây mưa nhiều hơn, vùng núi có tuyết, còn bờ biển Địa Trung Hải nhiều nắng và khô hơn."
+        }
+      },
+      {
+        "heading": {
+          "en": "Dress in layers",
+          "vi": "Mặc nhiều lớp"
+        },
+        "body": {
+          "en": "Layers are the easiest way to cope with changing weather. Bring a waterproof jacket and comfortable shoes for walking: you will walk a lot in cities.",
+          "vi": "Mặc nhiều lớp là cách dễ nhất để thích nghi với thời tiết thay đổi. Hãy có áo khoác chống nước và giày đi bộ thoải mái: bạn sẽ đi bộ nhiều trong thành phố."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Winter is cool or cold, with short days: bring warm layers.",
+        "vi": "Mùa đông mát hoặc lạnh, ngày ngắn: hãy có quần áo ấm nhiều lớp."
+      },
+      {
+        "en": "The south is hotter and sunnier, the north and west are rainier.",
+        "vi": "Miền Nam nóng và nhiều nắng hơn, miền Bắc và miền Tây mưa nhiều hơn."
+      },
+      {
+        "en": "A waterproof jacket and good walking shoes are useful everywhere.",
+        "vi": "Áo khoác chống nước và giày đi bộ tốt hữu ích ở mọi nơi."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "Quel temps fait-il ?",
+        "meaning": {
+          "en": "What is the weather like?",
+          "vi": "Thời tiết thế nào?"
+        }
+      },
+      {
+        "fr": "Il pleut.",
+        "meaning": {
+          "en": "It is raining.",
+          "vi": "Trời đang mưa."
+        }
+      }
+    ],
+    "keywords": ["weather", "climate", "clothes", "rain", "winter", "summer"],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "eiffel",
+    "id": "documents-to-keep",
+    "categoryId": "first-days",
+    "title": {
+      "en": "Which documents to keep safe",
+      "vi": "Nên giữ gìn những giấy tờ nào"
+    },
+    "icon": "idcard",
+    "summary": {
+      "en": "Passport, visa, student papers: keep them safe and keep copies.",
+      "vi": "Hộ chiếu, visa, giấy tờ sinh viên: hãy giữ cẩn thận và có bản sao."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Originals and copies",
+          "vi": "Bản gốc và bản sao"
+        },
+        "body": {
+          "en": "Keep your passport, visa or residence permit and school documents in a safe place at home. When you go out, a photo of them on your phone and a paper copy can help, but some procedures require the original.",
+          "vi": "Hãy cất hộ chiếu, visa hoặc giấy phép cư trú và giấy tờ của trường ở nơi an toàn trong nhà. Khi ra ngoài, ảnh chụp trên điện thoại và bản photo có thể giúp, nhưng một số thủ tục yêu cầu bản gốc."
+        }
+      },
+      {
+        "heading": {
+          "en": "If you lose something",
+          "vi": "Nếu bị mất giấy tờ"
+        },
+        "body": {
+          "en": "Report a loss or a theft quickly: to the police if it is stolen, and to the authority that issued the document. Your embassy can help with a lost passport. Official sites explain the steps.",
+          "vi": "Hãy báo mất hoặc bị trộm nhanh chóng: cho cảnh sát nếu bị trộm, và cho cơ quan đã cấp giấy tờ. Đại sứ quán có thể giúp khi mất hộ chiếu. Các trang chính thức giải thích từng bước."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Keep originals safe and carry copies when you can.",
+        "vi": "Giữ bản gốc an toàn và mang theo bản sao khi có thể."
+      },
+      {
+        "en": "Store photos of your documents in a protected place on your phone.",
+        "vi": "Lưu ảnh giấy tờ ở nơi được bảo vệ trên điện thoại."
+      },
+      {
+        "en": "Report a loss or theft quickly.",
+        "vi": "Báo mất hoặc bị trộm nhanh chóng."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Leaving your only copy of an important document with someone you do not know.",
+        "vi": "Để bản duy nhất của giấy tờ quan trọng cho người mình không quen."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "J’ai perdu mon passeport.",
+        "meaning": {
+          "en": "I have lost my passport.",
+          "vi": "Tôi bị mất hộ chiếu."
+        }
+      },
+      {
+        "fr": "On m’a volé mon sac.",
+        "meaning": {
+          "en": "My bag has been stolen.",
+          "vi": "Tôi bị trộm mất túi."
+        }
+      }
+    ],
+    "keywords": ["documents", "passport", "lost", "stolen", "copies", "id"],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
   }
 ]

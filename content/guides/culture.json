@@ -1,0 +1,752 @@
+[
+  {
+    "image": "flag",
+    "id": "national-symbols",
+    "categoryId": "culture",
+    "title": {
+      "en": "National symbols",
+      "vi": "Các biểu tượng quốc gia"
+    },
+    "icon": "star",
+    "summary": {
+      "en": "The flag, Marianne, the anthem and the motto.",
+      "vi": "Quốc kỳ, Marianne, quốc ca và khẩu hiệu."
+    },
+    "kind": "culture",
+    "sections": [
+      {
+        "heading": {
+          "en": "The symbols",
+          "vi": "Các biểu tượng"
+        },
+        "body": {
+          "en": "The flag is the blue, white and red tricolour. Marianne, a woman in a Phrygian cap, is the symbol of the Republic and appears on town halls. The national anthem is the Marseillaise, written in 1792. The motto is “Liberté, Égalité, Fraternité”.",
+          "vi": "Quốc kỳ là cờ tam tài xanh, trắng, đỏ. Marianne, người phụ nữ đội mũ Phrygien, là biểu tượng của nền Cộng hòa và xuất hiện ở các tòa thị chính. Quốc ca là La Marseillaise, sáng tác năm 1792. Khẩu hiệu là “Liberté, Égalité, Fraternité” (Tự do, Bình đẳng, Bác ái)."
+        }
+      },
+      {
+        "heading": {
+          "en": "Where you see them",
+          "vi": "Nơi bạn thấy chúng"
+        },
+        "body": {
+          "en": "You will see the tricolour on public buildings, and the letters RF (République française) on official documents. The Gallic rooster is also a popular symbol, often used in sport.",
+          "vi": "Bạn sẽ thấy cờ tam tài trên các tòa nhà công và chữ RF (République française) trên giấy tờ chính thức. Gà trống Gaulois cũng là biểu tượng phổ biến, thường dùng trong thể thao."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "The flag is blue, white and red.",
+        "vi": "Quốc kỳ có ba màu xanh, trắng, đỏ."
+      },
+      {
+        "en": "The anthem is the Marseillaise.",
+        "vi": "Quốc ca là La Marseillaise."
+      },
+      {
+        "en": "The motto is Liberté, Égalité, Fraternité.",
+        "vi": "Khẩu hiệu là Liberté, Égalité, Fraternité."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": [
+      "flag",
+      "tricolore",
+      "marianne",
+      "anthem",
+      "marseillaise",
+      "motto",
+      "symbols"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "fireworks",
+    "id": "public-holidays",
+    "categoryId": "culture",
+    "title": {
+      "en": "Public holidays",
+      "vi": "Các ngày nghỉ lễ"
+    },
+    "icon": "calendar",
+    "summary": {
+      "en": "Eleven days when shops and offices are usually closed.",
+      "vi": "Mười một ngày mà cửa hàng và văn phòng thường đóng cửa."
+    },
+    "kind": "culture",
+    "sections": [
+      {
+        "heading": {
+          "en": "The list",
+          "vi": "Danh sách"
+        },
+        "body": {
+          "en": "The public holidays are 1 January, Easter Monday, 1 May, 8 May, Ascension, Whit Monday, 14 July, 15 August, 1 November, 11 November and 25 December. Easter, Ascension and Whit Monday change dates each year.",
+          "vi": "Các ngày nghỉ lễ gồm 1 tháng 1, thứ Hai Phục sinh, 1 tháng 5, 8 tháng 5, lễ Thăng thiên, thứ Hai Hiện xuống, 14 tháng 7, 15 tháng 8, 1 tháng 11, 11 tháng 11 và 25 tháng 12. Ngày Phục sinh, Thăng thiên và Hiện xuống thay đổi mỗi năm."
+        }
+      },
+      {
+        "heading": {
+          "en": "What it means in practice",
+          "vi": "Điều này có nghĩa gì"
+        },
+        "body": {
+          "en": "Most shops, banks, post offices and administrations are closed, and public transport runs on a reduced schedule. When a holiday falls on a Thursday, many people take the Friday off: this is called “faire le pont”.",
+          "vi": "Hầu hết cửa hàng, ngân hàng, bưu điện và cơ quan hành chính đóng cửa, và giao thông công cộng chạy theo lịch giảm. Khi ngày lễ rơi vào thứ Năm, nhiều người nghỉ luôn thứ Sáu: gọi là “faire le pont”."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "There are eleven public holidays.",
+        "vi": "Có mười một ngày nghỉ lễ."
+      },
+      {
+        "en": "Shops and offices are usually closed those days.",
+        "vi": "Cửa hàng và văn phòng thường đóng cửa những ngày đó."
+      },
+      {
+        "en": "Check the date of Easter each year.",
+        "vi": "Kiểm tra ngày Phục sinh mỗi năm."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "Demain, c’est férié.",
+        "meaning": {
+          "en": "Tomorrow is a public holiday.",
+          "vi": "Ngày mai là ngày lễ."
+        }
+      }
+    ],
+    "keywords": [
+      "holiday",
+      "ferie",
+      "closed",
+      "bank holiday",
+      "easter",
+      "14 july"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "mairie",
+    "id": "laicite",
+    "categoryId": "culture",
+    "title": {
+      "en": "Laïcité: the secular state",
+      "vi": "Laïcité: nhà nước thế tục"
+    },
+    "icon": "scale",
+    "summary": {
+      "en": "What the word means, in neutral terms.",
+      "vi": "Từ này có nghĩa gì, theo cách trung lập."
+    },
+    "kind": "culture",
+    "sections": [
+      {
+        "heading": {
+          "en": "The principle",
+          "vi": "Nguyên tắc"
+        },
+        "body": {
+          "en": "Laïcité is the separation of the State and religions, set by the law of 1905. The State is neutral, guarantees the freedom to believe or not to believe, and does not favour any religion.",
+          "vi": "Laïcité là sự tách biệt giữa Nhà nước và tôn giáo, được quy định bởi luật năm 1905. Nhà nước trung lập, bảo đảm tự do tín ngưỡng hoặc không tín ngưỡng, và không ưu ái tôn giáo nào."
+        }
+      },
+      {
+        "heading": {
+          "en": "In daily life",
+          "vi": "Trong đời sống hằng ngày"
+        },
+        "body": {
+          "en": "Specific rules apply in public schools and for public services. In private life you are free to practise your religion. People disagree about how to apply laïcité, and it is a lively subject in public debate. If in doubt, ask or listen before giving an opinion.",
+          "vi": "Có những quy định riêng ở trường công và trong các dịch vụ công. Trong đời sống riêng tư, bạn được tự do thực hành tôn giáo. Mọi người có ý kiến khác nhau về cách áp dụng laïcité, và đây là một chủ đề sôi nổi trong tranh luận công cộng. Nếu chưa chắc, hãy hỏi hoặc lắng nghe trước khi nêu ý kiến."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "The State is neutral and separate from religions.",
+        "vi": "Nhà nước trung lập và tách biệt khỏi tôn giáo."
+      },
+      {
+        "en": "You are free to believe or not to believe.",
+        "vi": "Bạn tự do tín ngưỡng hoặc không."
+      },
+      {
+        "en": "Specific rules apply in public schools and public services.",
+        "vi": "Có quy định riêng ở trường công và dịch vụ công."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": ["laicite", "secular", "religion", "state", "1905"],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "croissant",
+    "id": "food-and-regions",
+    "categoryId": "culture",
+    "title": {
+      "en": "French food and regional dishes",
+      "vi": "Ẩm thực Pháp và món ăn vùng miền"
+    },
+    "icon": "utensils",
+    "summary": {
+      "en": "A shared meal is part of the culture, and every region has its dish.",
+      "vi": "Bữa ăn chung là một phần văn hóa, và mỗi vùng có món riêng."
+    },
+    "kind": "culture",
+    "sections": [
+      {
+        "heading": {
+          "en": "The French meal",
+          "vi": "Bữa ăn kiểu Pháp"
+        },
+        "body": {
+          "en": "A traditional meal has a starter (entrée), a main course (plat) and a dessert, often with cheese. The “gastronomic meal of the French” is recognised by UNESCO as part of world cultural heritage. People like to eat together and take their time.",
+          "vi": "Một bữa ăn truyền thống có món khai vị (entrée), món chính (plat) và tráng miệng, thường kèm phô mai. “Bữa ăn ẩm thực của người Pháp” được UNESCO công nhận là di sản văn hóa thế giới. Mọi người thích ăn cùng nhau và dùng bữa thong thả."
+        }
+      },
+      {
+        "heading": {
+          "en": "Regional dishes",
+          "vi": "Món ăn vùng miền"
+        },
+        "body": {
+          "en": "Brittany is known for crêpes and galettes, Alsace for choucroute, Provence for ratatouille and fish soup (bouillabaisse), Savoie for fondue and raclette, Lyon for its rich cooking, and Normandy for cider and camembert.",
+          "vi": "Bretagne nổi tiếng với crêpe và galette, Alsace với choucroute, Provence với ratatouille và súp cá (bouillabaisse), Savoie với fondue và raclette, Lyon với ẩm thực phong phú, và Normandie với rượu táo và camembert."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "A meal has a starter, a main course and a dessert.",
+        "vi": "Một bữa ăn có khai vị, món chính và tráng miệng."
+      },
+      {
+        "en": "The French meal is on the UNESCO heritage list.",
+        "vi": "Bữa ăn kiểu Pháp nằm trong danh sách di sản UNESCO."
+      },
+      {
+        "en": "Each region has its own specialities.",
+        "vi": "Mỗi vùng có đặc sản riêng."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "Qu’est-ce que vous me conseillez ?",
+        "meaning": {
+          "en": "What do you recommend?",
+          "vi": "Bạn gợi ý món gì?"
+        }
+      },
+      {
+        "fr": "Je suis végétarien(ne).",
+        "meaning": {
+          "en": "I am vegetarian.",
+          "vi": "Tôi ăn chay."
+        }
+      }
+    ],
+    "keywords": [
+      "food",
+      "cuisine",
+      "dishes",
+      "regional",
+      "crepes",
+      "fondue",
+      "meal"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "cheese",
+    "id": "bread-cheese-wine",
+    "categoryId": "culture",
+    "title": {
+      "en": "Bread, cheese and wine",
+      "vi": "Bánh mì, phô mai và rượu vang"
+    },
+    "icon": "utensils",
+    "summary": {
+      "en": "Three pillars of French food culture, in short.",
+      "vi": "Ba trụ cột của văn hóa ẩm thực Pháp, nói gọn."
+    },
+    "kind": "culture",
+    "sections": [
+      {
+        "heading": {
+          "en": "Bread and cheese",
+          "vi": "Bánh mì và phô mai"
+        },
+        "body": {
+          "en": "Bread, especially the baguette, is bought fresh almost every day. France makes hundreds of kinds of cheese, from soft to hard, and cheese is often eaten before dessert. Many cheeses have a protected origin label (AOP).",
+          "vi": "Bánh mì, nhất là baguette, được mua tươi gần như mỗi ngày. Pháp làm hàng trăm loại phô mai, từ mềm đến cứng, và phô mai thường được ăn trước món tráng miệng. Nhiều loại phô mai có nhãn bảo hộ xuất xứ (AOP)."
+        }
+      },
+      {
+        "heading": {
+          "en": "Wine",
+          "vi": "Rượu vang"
+        },
+        "body": {
+          "en": "Famous wine regions include Bordeaux, Burgundy, Champagne, Alsace and the Loire. Wine is part of many meals, but nobody has to drink: say “non merci” politely. Alcohol is only for adults, and drinking and driving is dangerous and illegal.",
+          "vi": "Các vùng rượu vang nổi tiếng gồm Bordeaux, Bourgogne, Champagne, Alsace và Loire. Rượu vang có mặt trong nhiều bữa ăn, nhưng không ai bắt buộc phải uống: hãy lịch sự nói “non merci”. Rượu chỉ dành cho người lớn, và uống rượu lái xe vừa nguy hiểm vừa phạm pháp."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Baguettes are bought fresh, often every day.",
+        "vi": "Baguette được mua tươi, thường mỗi ngày."
+      },
+      {
+        "en": "Cheese is usually eaten before dessert.",
+        "vi": "Phô mai thường được ăn trước tráng miệng."
+      },
+      {
+        "en": "You can always decline wine politely.",
+        "vi": "Bạn luôn có thể từ chối rượu một cách lịch sự."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "Un morceau de fromage, s’il vous plaît.",
+        "meaning": {
+          "en": "A piece of cheese, please.",
+          "vi": "Cho tôi một miếng phô mai."
+        }
+      },
+      {
+        "fr": "Non merci, je ne bois pas d’alcool.",
+        "meaning": {
+          "en": "No thank you, I do not drink alcohol.",
+          "vi": "Không, cảm ơn, tôi không uống rượu."
+        }
+      }
+    ],
+    "keywords": [
+      "bread",
+      "baguette",
+      "cheese",
+      "wine",
+      "champagne",
+      "alcohol",
+      "aop"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "library2",
+    "id": "language-and-francophonie",
+    "categoryId": "culture",
+    "title": {
+      "en": "The French language and la Francophonie",
+      "vi": "Tiếng Pháp và Cộng đồng Pháp ngữ"
+    },
+    "icon": "chat",
+    "summary": {
+      "en": "French in the world, regional languages and slang.",
+      "vi": "Tiếng Pháp trên thế giới, các ngôn ngữ vùng và tiếng lóng."
+    },
+    "kind": "culture",
+    "sections": [
+      {
+        "heading": {
+          "en": "French in the world",
+          "vi": "Tiếng Pháp trên thế giới"
+        },
+        "body": {
+          "en": "French is the official language of France since the 16th century. It is also spoken in many countries, in Europe, Africa, North America and elsewhere, which together form the Francophonie. The Académie française, founded in 1635, watches over the language.",
+          "vi": "Tiếng Pháp là ngôn ngữ chính thức của Pháp từ thế kỷ 16. Tiếng Pháp cũng được nói ở nhiều nước ở châu Âu, châu Phi, Bắc Mỹ và nơi khác, tạo thành Cộng đồng Pháp ngữ (Francophonie). Viện Hàn lâm Pháp, thành lập năm 1635, gìn giữ ngôn ngữ."
+        }
+      },
+      {
+        "heading": {
+          "en": "Regional languages and slang",
+          "vi": "Ngôn ngữ vùng và tiếng lóng"
+        },
+        "body": {
+          "en": "Breton, Alsatian, Corsican, Occitan, Basque and Catalan are still spoken in some regions. Young people use slang and “verlan”, where syllables are reversed, such as “meuf” for “femme”. Accents differ from region to region.",
+          "vi": "Tiếng Breton, Alsace, Corse, Occitan, Basque và Catalan vẫn được nói ở một số vùng. Giới trẻ dùng tiếng lóng và “verlan”, trong đó âm tiết bị đảo ngược, như “meuf” thay cho “femme”. Giọng nói khác nhau theo vùng."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "French is spoken on several continents.",
+        "vi": "Tiếng Pháp được nói ở nhiều châu lục."
+      },
+      {
+        "en": "The Académie française was founded in 1635.",
+        "vi": "Viện Hàn lâm Pháp thành lập năm 1635."
+      },
+      {
+        "en": "Regional languages and slang exist alongside standard French.",
+        "vi": "Ngôn ngữ vùng và tiếng lóng tồn tại cùng tiếng Pháp chuẩn."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "Qu’est-ce que ça veut dire ?",
+        "meaning": {
+          "en": "What does that mean?",
+          "vi": "Điều đó nghĩa là gì?"
+        }
+      }
+    ],
+    "keywords": [
+      "language",
+      "francophonie",
+      "breton",
+      "alsatian",
+      "verlan",
+      "slang",
+      "academie francaise"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "louvre",
+    "id": "museums-and-cinema",
+    "categoryId": "culture",
+    "title": {
+      "en": "Museums, art and cinema",
+      "vi": "Bảo tàng, nghệ thuật và điện ảnh"
+    },
+    "icon": "star",
+    "summary": {
+      "en": "From the Louvre to the first film show, and how to watch a film.",
+      "vi": "Từ Louvre đến buổi chiếu phim đầu tiên, và cách đi xem phim."
+    },
+    "kind": "culture",
+    "sections": [
+      {
+        "heading": {
+          "en": "Museums and art",
+          "vi": "Bảo tàng và nghệ thuật"
+        },
+        "body": {
+          "en": "The Louvre in Paris is one of the largest museums in the world and holds the Mona Lisa. The Musée d’Orsay shows Impressionist painters. Many museums offer reduced prices to young people and students, and some are free on certain days.",
+          "vi": "Bảo tàng Louvre ở Paris là một trong những bảo tàng lớn nhất thế giới và có bức Mona Lisa. Bảo tàng Orsay trưng bày các họa sĩ Ấn tượng. Nhiều bảo tàng giảm giá cho người trẻ và sinh viên, và một số miễn phí vào những ngày nhất định."
+        }
+      },
+      {
+        "heading": {
+          "en": "Cinema",
+          "vi": "Điện ảnh"
+        },
+        "body": {
+          "en": "The Lumière brothers gave the first public film screening in Paris in 1895. The Cannes Film Festival is held every year. In a cinema, “VO” means original version with subtitles, and “VF” means dubbed in French: choose VO to practise listening.",
+          "vi": "Anh em nhà Lumière tổ chức buổi chiếu phim công cộng đầu tiên ở Paris năm 1895. Liên hoan phim Cannes được tổ chức hằng năm. Ở rạp chiếu phim, “VO” nghĩa là bản gốc có phụ đề, còn “VF” là lồng tiếng Pháp: hãy chọn VO để luyện nghe."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "The Louvre holds the Mona Lisa.",
+        "vi": "Louvre có bức Mona Lisa."
+      },
+      {
+        "en": "Ask for student or youth prices at museums.",
+        "vi": "Hỏi giá sinh viên hoặc giá cho người trẻ ở bảo tàng."
+      },
+      {
+        "en": "VO means original version, VF means dubbed in French.",
+        "vi": "VO là bản gốc, VF là lồng tiếng Pháp."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "Une place en VO, s’il vous plaît.",
+        "meaning": {
+          "en": "One ticket in original version, please.",
+          "vi": "Cho tôi một vé bản gốc."
+        }
+      }
+    ],
+    "keywords": [
+      "museum",
+      "louvre",
+      "art",
+      "cinema",
+      "cannes",
+      "vo",
+      "vf",
+      "film"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "France.fr: official tourism website",
+          "vi": "France.fr: trang du lịch chính thức"
+        },
+        "url": "https://www.france.fr/en"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "tourdefrance",
+    "id": "sport-in-france",
+    "categoryId": "culture",
+    "title": {
+      "en": "Sport in France",
+      "vi": "Thể thao ở Pháp"
+    },
+    "icon": "star",
+    "summary": {
+      "en": "Football, rugby, cycling, tennis and more.",
+      "vi": "Bóng đá, bóng bầu dục, đua xe đạp, quần vợt và hơn thế."
+    },
+    "kind": "culture",
+    "sections": [
+      {
+        "heading": {
+          "en": "Popular sports",
+          "vi": "Các môn phổ biến"
+        },
+        "body": {
+          "en": "Football is the most popular sport, and France won the men’s World Cup in 1998 and 2018. Rugby is strong in the south-west. The Tour de France cycling race has run since 1903. The Roland-Garros tennis tournament is played in Paris on clay courts, and Paris hosted the Olympic Games in 2024.",
+          "vi": "Bóng đá là môn phổ biến nhất, và Pháp vô địch World Cup nam năm 1998 và 2018. Bóng bầu dục mạnh ở miền Tây Nam. Giải đua xe đạp Tour de France diễn ra từ năm 1903. Giải quần vợt Roland-Garros diễn ra ở Paris trên sân đất nện, và Paris đăng cai Thế vận hội năm 2024."
+        }
+      },
+      {
+        "heading": {
+          "en": "Playing yourself",
+          "vi": "Tự mình chơi"
+        },
+        "body": {
+          "en": "Local clubs, school and university sports are open to everyone, and pétanque is a friendly game played in squares and parks. Joining a club is another way to make friends.",
+          "vi": "Các câu lạc bộ địa phương, thể thao của trường và đại học mở cho mọi người, và pétanque là trò chơi thân thiện chơi ở quảng trường và công viên. Tham gia câu lạc bộ cũng là cách kết bạn."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Football is the most popular sport.",
+        "vi": "Bóng đá là môn thể thao phổ biến nhất."
+      },
+      {
+        "en": "The Tour de France has run since 1903.",
+        "vi": "Tour de France diễn ra từ năm 1903."
+      },
+      {
+        "en": "Join a club: it is also a way to make friends.",
+        "vi": "Tham gia câu lạc bộ: cũng là cách kết bạn."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "Je voudrais m’inscrire à un club.",
+        "meaning": {
+          "en": "I would like to join a club.",
+          "vi": "Tôi muốn đăng ký vào một câu lạc bộ."
+        }
+      }
+    ],
+    "keywords": [
+      "sport",
+      "football",
+      "rugby",
+      "tour de france",
+      "tennis",
+      "petanque",
+      "olympics"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "musicday",
+    "id": "music-and-festivals",
+    "categoryId": "culture",
+    "title": {
+      "en": "Music and festivals",
+      "vi": "Âm nhạc và lễ hội"
+    },
+    "icon": "star",
+    "summary": {
+      "en": "Fête de la Musique, concerts and local festivals.",
+      "vi": "Fête de la Musique, hòa nhạc và lễ hội địa phương."
+    },
+    "kind": "culture",
+    "sections": [
+      {
+        "heading": {
+          "en": "Fête de la Musique",
+          "vi": "Fête de la Musique"
+        },
+        "body": {
+          "en": "Every year on 21 June, music fills the streets and squares for free. The festival was created in France in 1982 and is now celebrated in many countries.",
+          "vi": "Mỗi năm vào ngày 21 tháng 6, âm nhạc tràn ngập đường phố và quảng trường miễn phí. Lễ hội được tạo ra ở Pháp năm 1982 và nay được tổ chức ở nhiều nước."
+        }
+      },
+      {
+        "heading": {
+          "en": "Concerts and festivals",
+          "vi": "Hòa nhạc và lễ hội"
+        },
+        "body": {
+          "en": "French chanson, rap and electronic music all have a large audience. In summer, festivals take place all over the country. Towns also hold local fairs, markets and celebrations: look for posters and the town hall website.",
+          "vi": "Chanson Pháp, rap và nhạc điện tử đều có lượng khán giả lớn. Mùa hè, các lễ hội diễn ra khắp nước. Các thành phố cũng tổ chức hội chợ, chợ và lễ hội địa phương: hãy tìm áp phích và trang web của tòa thị chính."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Fête de la Musique is on 21 June and is free.",
+        "vi": "Fête de la Musique vào ngày 21 tháng 6 và miễn phí."
+      },
+      {
+        "en": "Summer is festival season.",
+        "vi": "Mùa hè là mùa lễ hội."
+      },
+      {
+        "en": "Check the town hall for local events.",
+        "vi": "Xem ở tòa thị chính để biết sự kiện địa phương."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "À quelle heure commence le concert ?",
+        "meaning": {
+          "en": "What time does the concert start?",
+          "vi": "Mấy giờ buổi hòa nhạc bắt đầu?"
+        }
+      }
+    ],
+    "keywords": [
+      "music",
+      "festival",
+      "concert",
+      "fete de la musique",
+      "rap",
+      "chanson"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "France.fr: official tourism website",
+          "vi": "France.fr: trang du lịch chính thức"
+        },
+        "url": "https://www.france.fr/en"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "cafe2",
+    "id": "holidays-and-rhythm",
+    "categoryId": "culture",
+    "title": {
+      "en": "Holidays and the rhythm of the year",
+      "vi": "Kỳ nghỉ và nhịp sống trong năm"
+    },
+    "icon": "calendar",
+    "summary": {
+      "en": "Summer holidays, la rentrée and Sunday habits.",
+      "vi": "Kỳ nghỉ hè, la rentrée và thói quen ngày Chủ nhật."
+    },
+    "kind": "culture",
+    "sections": [
+      {
+        "heading": {
+          "en": "The year",
+          "vi": "Một năm"
+        },
+        "body": {
+          "en": "Employees in France have several weeks of paid leave. Many people take holidays in July or August, so some small shops and services close for a few weeks in summer. September is “la rentrée”: schools, work and cultural life restart.",
+          "vi": "Người lao động ở Pháp được nghỉ phép có lương nhiều tuần. Nhiều người nghỉ vào tháng 7 hoặc tháng 8, nên một số cửa hàng và dịch vụ nhỏ đóng cửa vài tuần vào mùa hè. Tháng 9 là “la rentrée”: trường học, công việc và đời sống văn hóa bắt đầu lại."
+        }
+      },
+      {
+        "heading": {
+          "en": "The week",
+          "vi": "Một tuần"
+        },
+        "body": {
+          "en": "Sunday is a quiet day: many shops are closed, and families often have a long lunch together. “L’apéro” is a before-dinner drink with snacks, popular with friends.",
+          "vi": "Chủ nhật là ngày yên tĩnh: nhiều cửa hàng đóng cửa, và các gia đình thường ăn trưa lâu cùng nhau. “L’apéro” là buổi uống nhẹ kèm đồ nhắm trước bữa tối, được bạn bè ưa chuộng."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Summer holidays close many small businesses for a while.",
+        "vi": "Kỳ nghỉ hè khiến nhiều cơ sở nhỏ đóng cửa một thời gian."
+      },
+      {
+        "en": "September is la rentrée, the restart of the year.",
+        "vi": "Tháng 9 là la rentrée, sự bắt đầu lại của năm."
+      },
+      {
+        "en": "Sunday is quiet, and the apéro is a social habit.",
+        "vi": "Chủ nhật yên tĩnh, và apéro là một thói quen giao lưu."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "Bonnes vacances !",
+        "meaning": {
+          "en": "Have a nice holiday!",
+          "vi": "Chúc kỳ nghỉ vui vẻ!"
+        }
+      },
+      {
+        "fr": "On fait un apéro ?",
+        "meaning": {
+          "en": "Shall we have an aperitif?",
+          "vi": "Mình làm một buổi apéro nhé?"
+        }
+      }
+    ],
+    "keywords": ["holiday", "vacation", "rentree", "sunday", "apero", "summer"],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  }
+]

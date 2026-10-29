@@ -276,5 +276,189 @@
     ],
     "lastChecked": "2026-10-29",
     "status": "validated"
+  },
+  {
+    "image": "gare",
+    "id": "scams-and-safety",
+    "categoryId": "money",
+    "title": {
+      "en": "Scams and staying safe",
+      "vi": "Lừa đảo và cách giữ an toàn"
+    },
+    "icon": "shield",
+    "summary": {
+      "en": "The most common tricks, and the one rule that protects you.",
+      "vi": "Những chiêu lừa phổ biến, và quy tắc giúp bạn an toàn."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Fake messages",
+          "vi": "Tin nhắn giả mạo"
+        },
+        "body": {
+          "en": "Be careful with SMS, emails or calls claiming to come from your bank, the post office, health insurance or a public office, asking you to click a link or give a code. Real organisations will never ask for your password or your card code.",
+          "vi": "Hãy cẩn thận với SMS, email hoặc cuộc gọi tự xưng là ngân hàng, bưu điện, bảo hiểm y tế hoặc cơ quan nhà nước và yêu cầu bấm vào liên kết hoặc đọc mã. Tổ chức thật sẽ không bao giờ hỏi mật khẩu hay mã thẻ của bạn."
+        }
+      },
+      {
+        "heading": {
+          "en": "In the street",
+          "vi": "Ngoài đường"
+        },
+        "body": {
+          "en": "Pickpockets work in crowded places, tourist areas and public transport. Keep your phone and bag in front of you. If your bank card is lost or stolen, call your bank at once to block it.",
+          "vi": "Kẻ móc túi hoạt động ở nơi đông người, khu du lịch và phương tiện công cộng. Hãy giữ điện thoại và túi ở phía trước. Nếu mất thẻ ngân hàng hoặc bị trộm, hãy gọi ngân hàng ngay để khóa thẻ."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Never give a code or password, even to someone who sounds official.",
+        "vi": "Đừng bao giờ đưa mã hoặc mật khẩu, kể cả cho người nghe có vẻ chính thức."
+      },
+      {
+        "en": "Check the sender and the web address before you click.",
+        "vi": "Kiểm tra người gửi và địa chỉ trang web trước khi bấm."
+      },
+      {
+        "en": "Block a lost card immediately by calling your bank.",
+        "vi": "Khóa thẻ bị mất ngay bằng cách gọi ngân hàng."
+      },
+      {
+        "en": "If a deal is too good to be true, it usually is.",
+        "vi": "Nếu ưu đãi quá tốt thì thường là lừa đảo."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Paying with gift cards or urgent transfers when someone asks you to.",
+        "vi": "Trả bằng thẻ quà tặng hoặc chuyển khoản gấp khi ai đó yêu cầu."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "Je veux bloquer ma carte.",
+        "meaning": {
+          "en": "I want to block my card.",
+          "vi": "Tôi muốn khóa thẻ của tôi."
+        }
+      }
+    ],
+    "keywords": [
+      "scam",
+      "fraud",
+      "phishing",
+      "pickpocket",
+      "theft",
+      "safety",
+      "sms"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Cybermalveillance.gouv.fr: official help against online scams",
+          "vi": "Cybermalveillance.gouv.fr: hỗ trợ chính thức chống lừa đảo trực tuyến"
+        },
+        "url": "https://www.cybermalveillance.gouv.fr/"
+      },
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "cinema",
+    "id": "student-discounts",
+    "categoryId": "money",
+    "title": {
+      "en": "Student discounts and perks",
+      "vi": "Ưu đãi và quyền lợi cho sinh viên"
+    },
+    "icon": "card",
+    "summary": {
+      "en": "Where your student card can save you money.",
+      "vi": "Nơi thẻ sinh viên giúp bạn tiết kiệm."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Where to ask",
+          "vi": "Hỏi ở đâu"
+        },
+        "body": {
+          "en": "Many museums, cinemas, theatres, transport networks and shops offer reduced prices to students or to young people. Ask at the desk, and always carry your student card. Some offers depend on your age or where you live: check each one.",
+          "vi": "Nhiều bảo tàng, rạp chiếu phim, nhà hát, mạng lưới giao thông và cửa hàng giảm giá cho sinh viên hoặc người trẻ. Hãy hỏi ở quầy và luôn mang theo thẻ sinh viên. Một số ưu đãi tùy tuổi hoặc nơi ở của bạn: hãy kiểm tra từng ưu đãi."
+        }
+      },
+      {
+        "heading": {
+          "en": "Student restaurants and more",
+          "vi": "Nhà ăn sinh viên và hơn thế"
+        },
+        "body": {
+          "en": "Student restaurants, cheaper health and sports offers and student associations are other ways to save. Your school or the student services office can tell you what exists locally.",
+          "vi": "Nhà ăn sinh viên, các ưu đãi về y tế và thể thao rẻ hơn, cùng các hội sinh viên là những cách tiết kiệm khác. Trường hoặc văn phòng dịch vụ sinh viên có thể cho bạn biết địa phương có gì."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Always carry your student card.",
+        "vi": "Luôn mang theo thẻ sinh viên."
+      },
+      {
+        "en": "Ask for a student price before you pay.",
+        "vi": "Hỏi giá sinh viên trước khi trả tiền."
+      },
+      {
+        "en": "Some offers depend on age or residence: read the conditions.",
+        "vi": "Một số ưu đãi tùy tuổi hoặc nơi cư trú: hãy đọc điều kiện."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "Il y a un tarif étudiant ?",
+        "meaning": {
+          "en": "Is there a student price?",
+          "vi": "Có giá sinh viên không?"
+        }
+      },
+      {
+        "fr": "Voici ma carte d’étudiant.",
+        "meaning": {
+          "en": "Here is my student card.",
+          "vi": "Đây là thẻ sinh viên của tôi."
+        }
+      }
+    ],
+    "keywords": [
+      "student",
+      "discount",
+      "museum",
+      "cinema",
+      "reduction",
+      "student card"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Mes services étudiants",
+          "vi": "Mes services étudiants"
+        },
+        "url": "https://www.messervices.etudiant.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
   }
 ]

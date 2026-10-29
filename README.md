@@ -14,6 +14,10 @@ Guides live in `content/guides/*.json` (one file per topic), topics in
 English version and, optionally, a Vietnamese one. Procedure guides must have an
 official link (checked by the tests). Only `validated` guides are published.
 
+Photos come from Wikimedia Commons (public domain, CC0, CC BY and CC BY-SA only). Each one is
+credited under the picture, on the in-app credits page, and in `content/images.json`;
+a test checks that every referenced file exists and has an allowed licence.
+
 ## Commands
 
 - `npm run dev` start the dev server

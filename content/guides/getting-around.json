@@ -199,5 +199,142 @@
     ],
     "lastChecked": "2026-10-29",
     "status": "validated"
+  },
+  {
+    "image": "bikelane",
+    "id": "cycling-and-scooters",
+    "categoryId": "getting-around",
+    "title": {
+      "en": "Cycling and scooters",
+      "vi": "Đi xe đạp và xe scooter"
+    },
+    "icon": "bus",
+    "summary": {
+      "en": "Cycle lanes, shared bikes and keeping your bike safe.",
+      "vi": "Làn xe đạp, xe đạp chia sẻ và cách giữ xe an toàn."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Riding in the city",
+          "vi": "Đi xe trong thành phố"
+        },
+        "body": {
+          "en": "Many cities have cycle lanes and shared bikes you can rent by the trip or by subscription. Use the lights at night and respect traffic lights. Rules for electric scooters differ by city: check the local rules.",
+          "vi": "Nhiều thành phố có làn xe đạp và xe đạp dùng chung có thể thuê theo chuyến hoặc theo gói. Hãy bật đèn ban đêm và tuân thủ đèn giao thông. Quy định về xe scooter điện khác nhau theo thành phố: hãy xem quy định địa phương."
+        }
+      },
+      {
+        "heading": {
+          "en": "Theft",
+          "vi": "Trộm xe"
+        },
+        "body": {
+          "en": "Bike theft is common. Use a strong lock, attach the frame and a wheel to something fixed, and avoid leaving the bike outside all night in busy areas.",
+          "vi": "Trộm xe đạp khá phổ biến. Dùng khóa chắc, khóa cả khung và một bánh vào vật cố định, và tránh để xe ngoài trời cả đêm ở khu đông người."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Many cities have cycle lanes and shared bikes.",
+        "vi": "Nhiều thành phố có làn xe đạp và xe đạp dùng chung."
+      },
+      {
+        "en": "Use a strong lock: bike theft is common.",
+        "vi": "Dùng khóa chắc: trộm xe đạp khá phổ biến."
+      },
+      {
+        "en": "Check the local rules for electric scooters.",
+        "vi": "Xem quy định địa phương về xe scooter điện."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "Où puis-je garer mon vélo ?",
+        "meaning": {
+          "en": "Where can I park my bike?",
+          "vi": "Tôi có thể để xe đạp ở đâu?"
+        }
+      }
+    ],
+    "keywords": ["bike", "bicycle", "velo", "scooter", "cycle lane", "theft"],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "airport",
+    "id": "airports-and-coaches",
+    "categoryId": "getting-around",
+    "title": {
+      "en": "Airports, coaches and carpooling",
+      "vi": "Sân bay, xe khách và đi chung xe"
+    },
+    "icon": "train",
+    "summary": {
+      "en": "Cheaper ways to travel and how to reach the airport.",
+      "vi": "Những cách đi lại rẻ hơn và cách ra sân bay."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Coaches and carpooling",
+          "vi": "Xe khách và đi chung xe"
+        },
+        "body": {
+          "en": "Long-distance coaches are often cheaper than the train, but slower. Carpooling (covoiturage) lets you share a car ride with a driver going the same way, booked through an app. Read reviews and meet in a public place.",
+          "vi": "Xe khách đường dài thường rẻ hơn tàu nhưng chậm hơn. Đi chung xe (covoiturage) cho phép bạn đi cùng một tài xế cùng hướng, đặt qua ứng dụng. Hãy đọc đánh giá và gặp nhau ở nơi công cộng."
+        }
+      },
+      {
+        "heading": {
+          "en": "Airports",
+          "vi": "Sân bay"
+        },
+        "body": {
+          "en": "Big airports are linked to the city by train or bus. Check the check-in time and the luggage rules of your airline, and arrive early. Taxis are more expensive than public transport.",
+          "vi": "Các sân bay lớn có tàu hoặc xe buýt nối với thành phố. Hãy xem giờ làm thủ tục và quy định hành lý của hãng bay, và đến sớm. Taxi đắt hơn phương tiện công cộng."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Coaches are cheaper but slower than trains.",
+        "vi": "Xe khách rẻ hơn nhưng chậm hơn tàu."
+      },
+      {
+        "en": "Carpooling is booked through an app: check reviews.",
+        "vi": "Đi chung xe được đặt qua ứng dụng: hãy xem đánh giá."
+      },
+      {
+        "en": "Check luggage rules and arrive early at the airport.",
+        "vi": "Xem quy định hành lý và đến sân bay sớm."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "À quelle heure est l’enregistrement ?",
+        "meaning": {
+          "en": "What time is check-in?",
+          "vi": "Mấy giờ làm thủ tục?"
+        }
+      }
+    ],
+    "keywords": [
+      "coach",
+      "bus",
+      "carpooling",
+      "covoiturage",
+      "airport",
+      "flight"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
   }
 ]

@@ -398,5 +398,166 @@
     ],
     "lastChecked": "2026-10-29",
     "status": "validated"
+  },
+  {
+    "image": "supermarket",
+    "id": "utilities-and-internet",
+    "categoryId": "housing",
+    "title": {
+      "en": "Electricity, gas and internet",
+      "vi": "Điện, gas và internet"
+    },
+    "icon": "key",
+    "summary": {
+      "en": "Setting up the basics in a new home.",
+      "vi": "Thiết lập các dịch vụ cơ bản ở nhà mới."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Energy",
+          "vi": "Năng lượng"
+        },
+        "body": {
+          "en": "Electricity and gas need a contract in your name, unless they are included in your rent. Several companies compete: compare offers and read the conditions. Note the meter reading (relevé de compteur) on the day you arrive, with photos.",
+          "vi": "Điện và gas cần hợp đồng đứng tên bạn, trừ khi đã bao gồm trong tiền thuê. Nhiều công ty cạnh tranh: hãy so sánh và đọc điều kiện. Ghi chỉ số công tơ (relevé de compteur) vào ngày bạn đến, kèm ảnh chụp."
+        }
+      },
+      {
+        "heading": {
+          "en": "Internet",
+          "vi": "Internet"
+        },
+        "body": {
+          "en": "Internet comes with a box (a router) from a provider. Contracts often last a fixed time, so check the length, the price after promotions and how to cancel. In student residences, internet may already be included.",
+          "vi": "Internet đi kèm một thiết bị (box) từ nhà cung cấp. Hợp đồng thường kéo dài một thời gian cố định, nên hãy kiểm tra thời hạn, giá sau khuyến mãi và cách hủy. Ở ký túc xá, internet có thể đã bao gồm."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Ask whether electricity and internet are included in your rent.",
+        "vi": "Hỏi xem điện và internet đã bao gồm trong tiền thuê chưa."
+      },
+      {
+        "en": "Take a photo of the meter on the day you arrive.",
+        "vi": "Chụp ảnh công tơ vào ngày bạn đến."
+      },
+      {
+        "en": "Check the contract length and how to cancel.",
+        "vi": "Kiểm tra thời hạn hợp đồng và cách hủy."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "Je voudrais ouvrir un contrat d’électricité.",
+        "meaning": {
+          "en": "I would like to open an electricity contract.",
+          "vi": "Tôi muốn mở hợp đồng điện."
+        }
+      }
+    ],
+    "keywords": [
+      "electricity",
+      "gas",
+      "internet",
+      "box",
+      "meter",
+      "contract",
+      "utilities"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "postbox",
+    "id": "changing-address",
+    "categoryId": "housing",
+    "title": {
+      "en": "Moving and changing your address",
+      "vi": "Chuyển nhà và đổi địa chỉ"
+    },
+    "icon": "mail",
+    "summary": {
+      "en": "Who to tell when you move, and how to avoid missing letters.",
+      "vi": "Báo cho ai khi chuyển nhà, và cách tránh lỡ thư."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Tell everyone",
+          "vi": "Báo cho mọi nơi"
+        },
+        "body": {
+          "en": "When you move, update your address with your bank, your school, health insurance, the CAF if you receive aid, your phone and internet providers, and your landlord. Many do it online. Official sites list the services that can be told at once.",
+          "vi": "Khi chuyển nhà, hãy cập nhật địa chỉ với ngân hàng, trường, bảo hiểm y tế, CAF nếu bạn nhận trợ cấp, nhà cung cấp điện thoại và internet, và chủ nhà. Nhiều nơi làm được trực tuyến. Các trang chính thức liệt kê những dịch vụ có thể báo cùng lúc."
+        }
+      },
+      {
+        "heading": {
+          "en": "Mail forwarding",
+          "vi": "Chuyển tiếp thư"
+        },
+        "body": {
+          "en": "La Poste offers a mail forwarding service for a limited time. It is useful while you update everyone, but it does not replace updating your address.",
+          "vi": "La Poste có dịch vụ chuyển tiếp thư trong một thời gian giới hạn. Dịch vụ này hữu ích khi bạn đang cập nhật địa chỉ, nhưng không thay thế việc cập nhật địa chỉ."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Update your address with your bank, school and insurance.",
+        "vi": "Cập nhật địa chỉ với ngân hàng, trường và bảo hiểm."
+      },
+      {
+        "en": "Put your name on the new mailbox.",
+        "vi": "Dán tên bạn lên hộp thư mới."
+      },
+      {
+        "en": "Mail forwarding is temporary.",
+        "vi": "Chuyển tiếp thư chỉ là tạm thời."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "J’ai changé d’adresse.",
+        "meaning": {
+          "en": "I have changed address.",
+          "vi": "Tôi đã đổi địa chỉ."
+        }
+      }
+    ],
+    "keywords": ["address", "moving", "change address", "forwarding", "post"],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "La Poste",
+          "vi": "La Poste"
+        },
+        "url": "https://www.laposte.fr/"
+      },
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
   }
 ]

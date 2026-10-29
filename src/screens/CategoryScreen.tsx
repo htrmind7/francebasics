@@ -2,6 +2,7 @@ import type { ScreenProps } from '../app/types.ts'
 import { text } from '../content/loader.ts'
 import { useI18n } from '../i18n/context.tsx'
 import { Icon } from '../ui/Icon.tsx'
+import { Photo } from '../ui/Photo.tsx'
 import { BackLink, IconTile } from '../ui/ui.tsx'
 import { kindLabel } from './kind.ts'
 
@@ -17,10 +18,12 @@ export function CategoryScreen({ content, id }: ScreenProps & { id: string }) {
     )
   }
   const guides = content.guides.filter((guide) => guide.categoryId === id)
+  const banner = content.images.find((image) => image.id === category.image)
 
   return (
     <div className="screen">
       <BackLink href="#/" label={t.category.back} />
+      {banner && <Photo image={banner} language={language} eager caption />}
       <header className="page-head">
         <IconTile icon={category.icon} tone={category.tone} size={60} />
         <h1 className="screen-title">{text(category.title, language)}</h1>

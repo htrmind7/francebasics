@@ -64,8 +64,8 @@ Static JSON, no server, no accounts, no API keys, no personal data.
 
 ## 5. Illustration
 
-Hand-made SVG icons and simple scene illustrations in one consistent style. No
-photos, no third-party artwork, no licensing issues. Colors from CSS tokens.
+Hand-made SVG icons for topics and guides, plus real photos from Wikimedia Commons (public domain,
+CC0, CC BY, CC BY-SA). Every photo is credited and the licence is checked by a test. Colors from CSS tokens.
 
 ## 6. Stack
 
@@ -85,7 +85,7 @@ Pure logic (search, checklist progress, content loading) is tested.
 
 ## 8. Milestones
 
-- Status: M0 to M5 done (23 guides, 2 checklists, EN + VI). M6 is user testing.
+- Status: M0 to M5 done (86 guides in 13 topics, 3 checklists, EN + VI, 52 free-licence photos). M6 is user testing.
 - M0 Setup: repo, Vite/React/TS, lint, tests, CI, Pages deploy.
 - M1 Content schemas, loader, validation test (official link required).
 - M2 Home, category and guide screens, icons.

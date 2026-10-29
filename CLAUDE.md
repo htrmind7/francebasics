@@ -14,6 +14,10 @@ GitHub Pages, public repo, base path `/francebasics/` (vite.config.ts, manifest 
 
 Guides: content/guides/*.json (one file per topic). Texts are `{ en, vi? }`, English is mandatory. Official links are root pages of French government sites (never deep links that may break).
 
+## Photos
+
+Photos live in public/images (800x450 JPEG) and are described in content/images.json (author, licence, source). Only free licences (public domain, CC0, CC BY, CC BY-SA); always credit the author. Never add a photo without its entry.
+
 ## Rules
 
 - Code and identifiers in English; UI texts only in src/i18n/en.json and vi.json (same keys, checked by a test).

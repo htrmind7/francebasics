@@ -1,0 +1,321 @@
+[
+  {
+    "image": "cafe",
+    "id": "student-jobs",
+    "categoryId": "work",
+    "title": {
+      "en": "Working while you study",
+      "vi": "Làm thêm khi đang đi học"
+    },
+    "icon": "briefcase",
+    "summary": {
+      "en": "Student jobs exist, but the rules depend on your permit.",
+      "vi": "Có việc làm thêm cho sinh viên, nhưng quy định tùy giấy phép cư trú của bạn."
+    },
+    "kind": "procedure",
+    "sections": [
+      {
+        "heading": {
+          "en": "Check before you accept",
+          "vi": "Kiểm tra trước khi nhận việc"
+        },
+        "body": {
+          "en": "Many students work part-time, but foreign students may face limits that depend on their visa or residence permit. Check the exact rules on the official site before accepting a job.",
+          "vi": "Nhiều sinh viên làm thêm, nhưng sinh viên nước ngoài có thể bị giới hạn tùy theo visa hoặc giấy phép cư trú. Hãy kiểm tra quy định chính xác trên trang chính thức trước khi nhận việc."
+        }
+      },
+      {
+        "heading": {
+          "en": "A proper contract",
+          "vi": "Hợp đồng đàng hoàng"
+        },
+        "body": {
+          "en": "A legal job comes with a written contract and a payslip. Be careful with offers paid in cash without any contract: they offer no protection.",
+          "vi": "Công việc hợp pháp có hợp đồng bằng văn bản và phiếu lương. Hãy cẩn thận với việc trả tiền mặt không hợp đồng: bạn sẽ không được bảo vệ."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Rules for foreign students depend on the permit: check the official site.",
+        "vi": "Quy định cho sinh viên nước ngoài tùy giấy phép: hãy kiểm tra trang chính thức."
+      },
+      {
+        "en": "A real job has a contract and a payslip.",
+        "vi": "Việc làm thật có hợp đồng và phiếu lương."
+      },
+      {
+        "en": "Your school or student services can help find jobs.",
+        "vi": "Trường hoặc dịch vụ sinh viên có thể giúp tìm việc."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Working without checking whether your permit allows it.",
+        "vi": "Đi làm mà không kiểm tra giấy phép có cho phép không."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "Je cherche un job étudiant.",
+        "meaning": {
+          "en": "I am looking for a student job.",
+          "vi": "Tôi đang tìm việc làm thêm."
+        }
+      }
+    ],
+    "keywords": ["job", "work", "part-time", "student job", "permit", "salary"],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      },
+      {
+        "label": {
+          "en": "Mes services étudiants",
+          "vi": "Mes services étudiants"
+        },
+        "url": "https://www.messervices.etudiant.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "library2",
+    "id": "internships",
+    "categoryId": "work",
+    "title": {
+      "en": "Internships and the agreement",
+      "vi": "Thực tập và thỏa thuận thực tập"
+    },
+    "icon": "briefcase",
+    "summary": {
+      "en": "The paper that must be signed before you start.",
+      "vi": "Giấy tờ phải ký trước khi bắt đầu."
+    },
+    "kind": "procedure",
+    "sections": [
+      {
+        "heading": {
+          "en": "The internship agreement",
+          "vi": "Thỏa thuận thực tập"
+        },
+        "body": {
+          "en": "An internship (stage) needs a written agreement (convention de stage) signed by you, your school and the host organisation before it starts. Ask your school how to get it. Without it, you are not covered.",
+          "vi": "Thực tập (stage) cần một thỏa thuận bằng văn bản (convention de stage) do bạn, trường và cơ quan tiếp nhận ký trước khi bắt đầu. Hãy hỏi trường cách lấy. Nếu không có, bạn không được bảo vệ."
+        }
+      },
+      {
+        "heading": {
+          "en": "Pay and rules",
+          "vi": "Lương và quy định"
+        },
+        "body": {
+          "en": "Some internships are paid and some are not, depending on the length and the rules. Details are set by law: check on the official site or ask your school.",
+          "vi": "Một số kỳ thực tập có lương, một số không, tùy thời gian và quy định. Chi tiết do pháp luật quy định: hãy kiểm tra trên trang chính thức hoặc hỏi trường."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Never start an internship without a signed agreement.",
+        "vi": "Đừng bắt đầu thực tập khi chưa có thỏa thuận đã ký."
+      },
+      {
+        "en": "Your school helps you with the agreement.",
+        "vi": "Trường giúp bạn làm thỏa thuận."
+      },
+      {
+        "en": "Pay and length follow legal rules: check them.",
+        "vi": "Lương và thời gian theo quy định pháp luật: hãy kiểm tra."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "J’ai besoin d’une convention de stage.",
+        "meaning": {
+          "en": "I need an internship agreement.",
+          "vi": "Tôi cần một thỏa thuận thực tập."
+        }
+      }
+    ],
+    "keywords": ["internship", "stage", "convention", "work placement"],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "mairie",
+    "id": "contracts-and-payslips",
+    "categoryId": "work",
+    "title": {
+      "en": "Work contracts and payslips: the words",
+      "vi": "Hợp đồng lao động và phiếu lương: các từ cần biết"
+    },
+    "icon": "file",
+    "summary": {
+      "en": "CDI, CDD, gross and net: what they mean.",
+      "vi": "CDI, CDD, lương gộp và lương thực nhận: ý nghĩa."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Types of contracts",
+          "vi": "Các loại hợp đồng"
+        },
+        "body": {
+          "en": "A CDI is an open-ended contract and a CDD a fixed-term one. Temporary work (intérim) goes through an agency. A trial period (période d’essai) may apply at the start.",
+          "vi": "CDI là hợp đồng không thời hạn còn CDD là hợp đồng có thời hạn. Việc tạm thời (intérim) đi qua công ty trung gian. Có thể áp dụng thời gian thử việc (période d’essai) lúc bắt đầu."
+        }
+      },
+      {
+        "heading": {
+          "en": "Your payslip",
+          "vi": "Phiếu lương"
+        },
+        "body": {
+          "en": "The payslip (fiche de paie) shows gross salary (brut) and net salary (net), what you actually receive. Keep all payslips: they are proof of income for rent, aid and many procedures.",
+          "vi": "Phiếu lương (fiche de paie) cho thấy lương gộp (brut) và lương thực nhận (net). Hãy giữ mọi phiếu lương: đó là bằng chứng thu nhập cho thuê nhà, trợ cấp và nhiều thủ tục."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "CDI is open-ended, CDD is fixed-term.",
+        "vi": "CDI không thời hạn, CDD có thời hạn."
+      },
+      {
+        "en": "“Brut” is before deductions, “net” is what you receive.",
+        "vi": "“Brut” là trước khi trừ, “net” là số bạn nhận."
+      },
+      {
+        "en": "Keep every payslip.",
+        "vi": "Giữ mọi phiếu lương."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "Quel est le salaire net ?",
+        "meaning": {
+          "en": "What is the net salary?",
+          "vi": "Lương thực nhận là bao nhiêu?"
+        }
+      }
+    ],
+    "keywords": [
+      "cdi",
+      "cdd",
+      "contract",
+      "payslip",
+      "fiche de paie",
+      "brut",
+      "net",
+      "salary"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "students2",
+    "id": "cv-and-interviews",
+    "categoryId": "work",
+    "title": {
+      "en": "CV and job interviews in France",
+      "vi": "CV và phỏng vấn ở Pháp"
+    },
+    "icon": "briefcase",
+    "summary": {
+      "en": "What a French CV looks like and how interviews go.",
+      "vi": "CV kiểu Pháp trông thế nào và phỏng vấn diễn ra ra sao."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "The CV and the letter",
+          "vi": "CV và thư xin việc"
+        },
+        "body": {
+          "en": "A French CV is short, usually one page for a student. A cover letter (lettre de motivation) explains why you want this job. Check spelling carefully and adapt each application.",
+          "vi": "CV kiểu Pháp ngắn gọn, thường một trang với sinh viên. Thư xin việc (lettre de motivation) giải thích vì sao bạn muốn công việc này. Hãy kiểm tra chính tả cẩn thận và điều chỉnh cho từng hồ sơ."
+        }
+      },
+      {
+        "heading": {
+          "en": "The interview",
+          "vi": "Buổi phỏng vấn"
+        },
+        "body": {
+          "en": "Be on time, shake hands and use “vous” unless told otherwise. Prepare to explain your course and your experience, and ask a question at the end.",
+          "vi": "Hãy đúng giờ, bắt tay và dùng “vous” trừ khi được bảo khác. Chuẩn bị giải thích ngành học và kinh nghiệm, và đặt một câu hỏi vào cuối buổi."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Keep the CV short and clear.",
+        "vi": "Giữ CV ngắn và rõ ràng."
+      },
+      {
+        "en": "Write a cover letter for each application.",
+        "vi": "Viết thư xin việc cho từng hồ sơ."
+      },
+      {
+        "en": "Use “vous” and be on time at the interview.",
+        "vi": "Dùng “vous” và đúng giờ khi phỏng vấn."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "Je suis très motivé(e) pour ce poste.",
+        "meaning": {
+          "en": "I am very motivated for this position.",
+          "vi": "Tôi rất mong muốn vị trí này."
+        }
+      },
+      {
+        "fr": "Merci de m’avoir reçu(e).",
+        "meaning": {
+          "en": "Thank you for seeing me.",
+          "vi": "Cảm ơn đã tiếp tôi."
+        }
+      }
+    ],
+    "keywords": [
+      "cv",
+      "resume",
+      "cover letter",
+      "interview",
+      "job search",
+      "lettre de motivation"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  }
+]

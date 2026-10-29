@@ -27,12 +27,20 @@
         "guideId": "cvec"
       },
       {
+        "id": "enrolment",
+        "guideId": "enrolment-overview"
+      },
+      {
         "id": "housing-aid",
         "guideId": "housing-aid-apl"
       },
       {
         "id": "insurance",
         "guideId": "home-insurance"
+      },
+      {
+        "id": "utilities",
+        "guideId": "utilities-and-internet"
       },
       {
         "id": "transport",
@@ -56,6 +64,10 @@
         "guideId": "greetings-and-la-bise"
       },
       {
+        "id": "polite",
+        "guideId": "politeness-words"
+      },
+      {
         "id": "tu-vous",
         "guideId": "tu-vs-vous"
       },
@@ -70,6 +82,43 @@
       {
         "id": "neighbours",
         "guideId": "neighbours-and-noise"
+      }
+    ]
+  },
+  {
+    "id": "know-france",
+    "title": {
+      "en": "Getting to know France",
+      "vi": "Tìm hiểu nước Pháp"
+    },
+    "steps": [
+      {
+        "id": "timeline",
+        "guideId": "france-timeline"
+      },
+      {
+        "id": "revolution",
+        "guideId": "revolution-1789"
+      },
+      {
+        "id": "symbols",
+        "guideId": "national-symbols"
+      },
+      {
+        "id": "regions",
+        "guideId": "regions-and-departments"
+      },
+      {
+        "id": "eu",
+        "guideId": "france-in-the-eu"
+      },
+      {
+        "id": "government",
+        "guideId": "how-france-is-governed"
+      },
+      {
+        "id": "elections",
+        "guideId": "elections-in-france"
       }
     ]
   }

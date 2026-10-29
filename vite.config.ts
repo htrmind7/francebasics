@@ -42,7 +42,7 @@ export default defineConfig({
       },
       workbox: {
         // woff2 only: every browser able to install the app supports it
-        globPatterns: ['**/*.{js,css,html,svg,png,woff2}'],
+        globPatterns: ['**/*.{js,css,html,svg,png,jpg,woff2}'],
         navigateFallback: `${BASE}index.html`,
       },
     }),

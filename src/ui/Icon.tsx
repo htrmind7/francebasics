@@ -153,6 +153,42 @@ const PATHS: Record<string, ReactNode> = {
   external: (
     <path d="M14 4h6v6M20 4l-9 9M18 14v5a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V7a1 1 0 0 1 1-1h5" />
   ),
+  map: (
+    <>
+      <path d="M3 6l6-2 6 2 6-2v14l-6 2-6-2-6 2z" />
+      <path d="M9 4v14M15 6v14" />
+    </>
+  ),
+  star: (
+    <path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z" />
+  ),
+  scale: (
+    <>
+      <path d="M12 4v16M7 20h10M4 8h16" />
+      <path d="M4 8l-2 6a3 3 0 0 0 6 0zM20 8l-2 6a3 3 0 0 0 6 0z" />
+    </>
+  ),
+  ballot: (
+    <>
+      <rect x="4" y="11" width="16" height="9" rx="2" />
+      <path d="M8 11V8l4-4 4 4v3M9 15h6" />
+    </>
+  ),
+  briefcase: (
+    <>
+      <rect x="3" y="7" width="18" height="13" rx="2" />
+      <path d="M9 7V5a1 1 0 0 1 1-1h4a1 1 0 0 1 1 1v2M3 13h6m6 0h6M10 13v2h4v-2" />
+    </>
+  ),
+  castle: (
+    <path d="M4 20V8h3v3h2V8h2v3h2V8h2v3h2V8h3v12zM10 20v-5a2 2 0 0 1 4 0v5" />
+  ),
+  globe: (
+    <>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M3 12h18M12 3c3 3 3 15 0 18M12 3c-3 3-3 15 0 18" />
+    </>
+  ),
   back: <path d="M19 12H5M11 6l-6 6 6 6" />,
   chevron: <path d="M9 6l6 6-6 6" />,
   check: <path d="M5 12.5l4.5 4.5L19 7.5" />,

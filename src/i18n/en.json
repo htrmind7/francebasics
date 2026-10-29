@@ -71,7 +71,14 @@
     "importError": "This file cannot be imported: {reason}",
     "reset": "Reset progress",
     "resetConfirm": "Reset all your progress? This cannot be undone.",
+    "credits": "Photo credits",
     "version": "Version {version}"
+  },
+  "credits": {
+    "title": "Photo credits",
+    "intro": "Photos come from Wikimedia Commons and are free to reuse. Tap a line to see the source and the licence.",
+    "author": "Author",
+    "back": "Back to settings"
   },
   "languages": {
     "en": "English",

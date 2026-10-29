@@ -33,11 +33,26 @@ export const tones = [
   'green',
 ] as const
 
+/** Licences accepted for photos: free to reuse, with credit where required. */
+export const allowedLicenses = /^(Public domain|CC0|CC BY(-SA)? [0-9.]+)$/
+
+export const imageSchema = z.object({
+  id: z.string().min(1),
+  file: z.string().regex(/^[\w-]+\.jpg$/, 'expected a .jpg file name'),
+  alt: localizedSchema,
+  title: z.string().min(1),
+  author: z.string().min(1),
+  license: z.string().regex(allowedLicenses, 'licence not allowed'),
+  licenseUrl: z.string().optional(),
+  source: z.url(),
+})
+
 export const categorySchema = z.object({
   id: z.string().min(1),
   title: localizedSchema,
   icon: z.string().min(1),
   tone: z.enum(tones).default('coral'),
+  image: z.string().optional(),
   order: z.number().int(),
 })
 
@@ -49,6 +64,7 @@ export const guideSchema = z
     categoryId: z.string().min(1),
     title: localizedSchema,
     icon: z.string().min(1),
+    image: z.string().optional(),
     summary: localizedSchema,
     kind: z.enum(guideKinds),
     sections: z.array(sectionSchema).min(1).max(5),
@@ -78,6 +94,7 @@ export const checklistSchema = z.object({
 })
 
 export type Localized = z.infer<typeof localizedSchema>
+export type Image = z.infer<typeof imageSchema>
 export type Category = z.infer<typeof categorySchema>
 export type Guide = z.infer<typeof guideSchema>
 export type Checklist = z.infer<typeof checklistSchema>

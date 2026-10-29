@@ -4,6 +4,7 @@ import { speakFrench, isSpeechSupported } from '../audio/speech.ts'
 import { format } from '../i18n/format.ts'
 import { useI18n } from '../i18n/context.tsx'
 import { Icon } from '../ui/Icon.tsx'
+import { Photo } from '../ui/Photo.tsx'
 import { BackLink, Disclaimer, IconTile } from '../ui/ui.tsx'
 import { kindLabel } from './kind.ts'
 
@@ -28,6 +29,7 @@ export function GuideScreen({ content, id }: ScreenProps & { id: string }) {
     (entry) => entry.id === guide.categoryId,
   )
   const tone = category?.tone ?? 'coral'
+  const hero = content.images.find((image) => image.id === guide.image)
 
   return (
     <div className="screen">
@@ -35,6 +37,8 @@ export function GuideScreen({ content, id }: ScreenProps & { id: string }) {
         href={category ? `#/c/${category.id}` : '#/'}
         label={category ? text(category.title, language) : t.guide.back}
       />
+
+      {hero && <Photo image={hero} language={language} eager caption />}
 
       <header className="guide-head">
         <IconTile icon={guide.icon} tone={tone} size={64} />

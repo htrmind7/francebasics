@@ -1,0 +1,524 @@
+[
+  {
+    "image": "elysee2",
+    "id": "how-france-is-governed",
+    "categoryId": "politics",
+    "title": {
+      "en": "How France is governed",
+      "vi": "Nước Pháp được cai quản thế nào"
+    },
+    "icon": "ballot",
+    "summary": {
+      "en": "A republic with a strong president and a parliament.",
+      "vi": "Một nước cộng hòa với tổng thống mạnh và quốc hội."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "A republic",
+          "vi": "Một nước cộng hòa"
+        },
+        "body": {
+          "en": "According to its Constitution, France is an “indivisible, secular, democratic and social Republic”. The current system, the Fifth Republic, dates from 1958. Power is shared between the President, the Government and the Parliament, with independent courts.",
+          "vi": "Theo Hiến pháp, Pháp là một nước Cộng hòa “bất khả phân, thế tục, dân chủ và xã hội”. Hệ thống hiện nay, nền Cộng hòa thứ năm, có từ năm 1958. Quyền lực được chia sẻ giữa Tổng thống, Chính phủ và Quốc hội, với tòa án độc lập."
+        }
+      },
+      {
+        "heading": {
+          "en": "Local and European levels",
+          "vi": "Cấp địa phương và châu Âu"
+        },
+        "body": {
+          "en": "France has a tradition of strong central government, but regions, departments and communes have their own elected councils. The EU also makes laws that apply in France.",
+          "vi": "Pháp có truyền thống chính quyền trung ương mạnh, nhưng các vùng, tỉnh và xã có hội đồng dân cử riêng. EU cũng ban hành luật áp dụng ở Pháp."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "France is a republic, under the Fifth Republic since 1958.",
+        "vi": "Pháp là một nước cộng hòa, thuộc nền Cộng hòa thứ năm từ 1958."
+      },
+      {
+        "en": "Power is shared between the President, the Government and Parliament.",
+        "vi": "Quyền lực được chia sẻ giữa Tổng thống, Chính phủ và Quốc hội."
+      },
+      {
+        "en": "Regions, departments and communes have elected councils.",
+        "vi": "Vùng, tỉnh và xã có hội đồng dân cử."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": [
+      "government",
+      "republic",
+      "constitution",
+      "fifth republic",
+      "institutions"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Élysée: the presidency",
+          "vi": "Élysée: Phủ tổng thống"
+        },
+        "url": "https://www.elysee.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "elysee2",
+    "id": "president-and-government",
+    "categoryId": "politics",
+    "title": {
+      "en": "The President and the Government",
+      "vi": "Tổng thống và Chính phủ"
+    },
+    "icon": "ballot",
+    "summary": {
+      "en": "Who decides what, in plain words.",
+      "vi": "Ai quyết định điều gì, nói đơn giản."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "The President",
+          "vi": "Tổng thống"
+        },
+        "body": {
+          "en": "The President of the Republic is head of state, elected directly by the voters for five years. The President can be re-elected, but not for more than two consecutive terms. The official residence is the Élysée Palace in Paris.",
+          "vi": "Tổng thống nước Cộng hòa là nguyên thủ quốc gia, do cử tri trực tiếp bầu với nhiệm kỳ năm năm. Tổng thống có thể tái cử, nhưng không quá hai nhiệm kỳ liên tiếp. Nơi làm việc chính thức là điện Élysée ở Paris."
+        }
+      },
+      {
+        "heading": {
+          "en": "The Prime Minister",
+          "vi": "Thủ tướng"
+        },
+        "body": {
+          "en": "The President appoints a Prime Minister, who leads the Government and the ministers. The Government runs the country day by day, and answers to the National Assembly, which can force it to resign.",
+          "vi": "Tổng thống bổ nhiệm một Thủ tướng, người đứng đầu Chính phủ và các bộ trưởng. Chính phủ điều hành đất nước hằng ngày và chịu trách nhiệm trước Quốc hội, cơ quan có thể buộc Chính phủ từ chức."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "The President is elected directly for five years.",
+        "vi": "Tổng thống được bầu trực tiếp với nhiệm kỳ năm năm."
+      },
+      {
+        "en": "The Prime Minister leads the Government.",
+        "vi": "Thủ tướng đứng đầu Chính phủ."
+      },
+      {
+        "en": "The National Assembly can force the Government to resign.",
+        "vi": "Quốc hội có thể buộc Chính phủ từ chức."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": [
+      "president",
+      "prime minister",
+      "elysee",
+      "government",
+      "matignon"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Élysée: the presidency",
+          "vi": "Élysée: Phủ tổng thống"
+        },
+        "url": "https://www.elysee.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "assemblee",
+    "id": "parliament",
+    "categoryId": "politics",
+    "title": {
+      "en": "Parliament: Assemblée nationale and Sénat",
+      "vi": "Quốc hội: Assemblée nationale và Sénat"
+    },
+    "icon": "ballot",
+    "summary": {
+      "en": "Two chambers that vote laws.",
+      "vi": "Hai viện biểu quyết các đạo luật."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Two chambers",
+          "vi": "Hai viện"
+        },
+        "body": {
+          "en": "The Parliament has two chambers. The National Assembly, in the Palais Bourbon, has 577 deputies elected directly by the voters. The Senate, in the Luxembourg Palace, has 348 senators elected by local elected officials.",
+          "vi": "Quốc hội có hai viện. Hạ viện Assemblée nationale, ở cung Bourbon, có 577 nghị sĩ do cử tri trực tiếp bầu. Thượng viện Sénat, ở cung Luxembourg, có 348 thượng nghị sĩ do các quan chức dân cử địa phương bầu."
+        }
+      },
+      {
+        "heading": {
+          "en": "What they do",
+          "vi": "Họ làm gì"
+        },
+        "body": {
+          "en": "Parliament discusses and votes laws, and controls the Government. When the two chambers disagree, the National Assembly usually has the last word. Debates are public and can be watched online.",
+          "vi": "Quốc hội thảo luận và biểu quyết các đạo luật, và giám sát Chính phủ. Khi hai viện bất đồng, Hạ viện thường có tiếng nói sau cùng. Các cuộc tranh luận công khai và có thể xem trực tuyến."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "The National Assembly has 577 deputies.",
+        "vi": "Hạ viện có 577 nghị sĩ."
+      },
+      {
+        "en": "The Senate has 348 senators.",
+        "vi": "Thượng viện có 348 thượng nghị sĩ."
+      },
+      {
+        "en": "Debates are public and can be watched online.",
+        "vi": "Các cuộc tranh luận công khai và có thể xem trực tuyến."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": [
+      "parliament",
+      "assemblee nationale",
+      "senat",
+      "deputies",
+      "senators",
+      "laws"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Assemblée nationale",
+          "vi": "Assemblée nationale"
+        },
+        "url": "https://www.assemblee-nationale.fr/"
+      },
+      {
+        "label": {
+          "en": "Sénat",
+          "vi": "Sénat"
+        },
+        "url": "https://www.senat.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "vote",
+    "id": "elections-in-france",
+    "categoryId": "politics",
+    "title": {
+      "en": "Elections in France",
+      "vi": "Bầu cử ở Pháp"
+    },
+    "icon": "ballot",
+    "summary": {
+      "en": "The main elections, how voting works and who can vote.",
+      "vi": "Các cuộc bầu cử chính, cách bỏ phiếu và ai được bỏ phiếu."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "The main elections",
+          "vi": "Các cuộc bầu cử chính"
+        },
+        "body": {
+          "en": "There are presidential, legislative (for deputies), municipal (for mayors and town councils), departmental, regional and European elections. Many are held in two rounds: if nobody wins a majority in the first round, the best candidates go to a second round. Elections are held on Sundays.",
+          "vi": "Có bầu cử tổng thống, bầu cử quốc hội (nghị sĩ), bầu cử địa phương (thị trưởng và hội đồng xã), bầu cử tỉnh, vùng và bầu cử châu Âu. Nhiều cuộc diễn ra hai vòng: nếu không ai đạt đa số ở vòng một, những ứng viên đứng đầu bước vào vòng hai. Bầu cử tổ chức vào Chủ nhật."
+        }
+      },
+      {
+        "heading": {
+          "en": "Who can vote",
+          "vi": "Ai được bỏ phiếu"
+        },
+        "body": {
+          "en": "Voting is not compulsory. In general, you must be a French citizen, adult, and registered on the electoral list, to vote in national elections. Citizens of other EU countries who live in France can usually vote in municipal and European elections. Foreign residents from outside the EU cannot vote in these elections. Check the exact rules on the official site.",
+          "vi": "Bỏ phiếu không bắt buộc. Nhìn chung, bạn phải là công dân Pháp, đã trưởng thành và đăng ký trong danh sách cử tri để bỏ phiếu ở các cuộc bầu cử quốc gia. Công dân các nước EU khác sống ở Pháp thường được bỏ phiếu ở bầu cử địa phương và bầu cử châu Âu. Người nước ngoài từ ngoài EU không được bỏ phiếu ở các cuộc bầu cử này. Hãy kiểm tra quy định chính xác trên trang chính thức."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "The President is elected in two rounds.",
+        "vi": "Tổng thống được bầu qua hai vòng."
+      },
+      {
+        "en": "Elections are on Sundays and voting is not compulsory.",
+        "vi": "Bầu cử vào Chủ nhật và bỏ phiếu không bắt buộc."
+      },
+      {
+        "en": "Rules for who can vote depend on nationality: check the official site.",
+        "vi": "Quy định ai được bỏ phiếu tùy quốc tịch: hãy kiểm tra trang chính thức."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": [
+      "elections",
+      "vote",
+      "voting",
+      "president",
+      "municipal",
+      "two rounds",
+      "electoral list"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "senat",
+    "id": "left-right-and-parties",
+    "categoryId": "politics",
+    "title": {
+      "en": "Left, right and political parties",
+      "vi": "Tả, hữu và các đảng chính trị"
+    },
+    "icon": "ballot",
+    "summary": {
+      "en": "The vocabulary you will hear in the news.",
+      "vi": "Từ vựng bạn sẽ nghe trên tin tức."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Left and right",
+          "vi": "Tả và hữu"
+        },
+        "body": {
+          "en": "The terms “left” and “right” come from the seating in the Assembly in 1789: the supporters of the king sat on the right. Today “the left” generally refers to parties more focused on equality and public services, and “the right” to those more focused on order, tradition or the market. The categories are debated.",
+          "vi": "Các thuật ngữ “tả” và “hữu” bắt nguồn từ chỗ ngồi trong Quốc hội năm 1789: những người ủng hộ nhà vua ngồi bên phải. Ngày nay “phe tả” thường chỉ các đảng tập trung hơn vào bình đẳng và dịch vụ công, còn “phe hữu” chỉ các đảng tập trung hơn vào trật tự, truyền thống hoặc thị trường. Những phân loại này còn được tranh luận."
+        }
+      },
+      {
+        "heading": {
+          "en": "Parties change",
+          "vi": "Các đảng thay đổi"
+        },
+        "body": {
+          "en": "French parties often change names, merge and split. Rather than learning a list, follow a reliable news source. Trade unions and associations also play a role, and street demonstrations are a common way to express opinions.",
+          "vi": "Các đảng Pháp thường đổi tên, sáp nhập và tách ra. Thay vì học thuộc một danh sách, hãy theo dõi một nguồn tin đáng tin cậy. Công đoàn và các hội cũng đóng vai trò, và biểu tình trên đường phố là một cách phổ biến để bày tỏ ý kiến."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Left and right come from seating in 1789.",
+        "vi": "Tả và hữu bắt nguồn từ chỗ ngồi năm 1789."
+      },
+      {
+        "en": "Parties often change names, so follow reliable news.",
+        "vi": "Các đảng thường đổi tên, nên hãy theo dõi tin tức đáng tin."
+      },
+      {
+        "en": "Demonstrations and strikes are common ways to be heard.",
+        "vi": "Biểu tình và đình công là những cách phổ biến để được lắng nghe."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "Qu’est-ce qui se passe aux informations ?",
+        "meaning": {
+          "en": "What is happening in the news?",
+          "vi": "Có chuyện gì trong bản tin vậy?"
+        }
+      }
+    ],
+    "keywords": [
+      "left",
+      "right",
+      "parties",
+      "politics",
+      "unions",
+      "demonstration",
+      "strike"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "mairie",
+    "id": "local-government",
+    "categoryId": "politics",
+    "title": {
+      "en": "Your town hall and local government",
+      "vi": "Tòa thị chính và chính quyền địa phương"
+    },
+    "icon": "ballot",
+    "summary": {
+      "en": "What the mairie does, and who the mayor is.",
+      "vi": "Mairie làm gì, và ai là thị trưởng."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "The mairie",
+          "vi": "Mairie"
+        },
+        "body": {
+          "en": "Each commune has a town hall (mairie) led by a mayor elected by the municipal council. The mairie handles civil registration, marriages and some documents. It also runs schools, libraries, local roads and rubbish collection.",
+          "vi": "Mỗi xã có một tòa thị chính (mairie) do thị trưởng đứng đầu, được hội đồng xã bầu. Mairie lo hộ tịch, hôn nhân và một số giấy tờ. Mairie cũng quản lý trường học, thư viện, đường địa phương và thu gom rác."
+        }
+      },
+      {
+        "heading": {
+          "en": "Departments and regions",
+          "vi": "Tỉnh và vùng"
+        },
+        "body": {
+          "en": "The department deals with social action and some roads. The region handles transport, high schools and economic development. In Paris, Lyon and Marseille, the city is divided into arrondissements, each with its own town hall.",
+          "vi": "Tỉnh phụ trách hoạt động xã hội và một số con đường. Vùng phụ trách giao thông, trường trung học và phát triển kinh tế. Ở Paris, Lyon và Marseille, thành phố được chia thành các quận, mỗi quận có tòa thị chính riêng."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "The mairie handles local civil matters.",
+        "vi": "Mairie lo các việc dân sự địa phương."
+      },
+      {
+        "en": "The mayor is elected by the municipal council.",
+        "vi": "Thị trưởng do hội đồng xã bầu."
+      },
+      {
+        "en": "Departments and regions have their own roles.",
+        "vi": "Tỉnh và vùng có vai trò riêng."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "Où se trouve la mairie ?",
+        "meaning": {
+          "en": "Where is the town hall?",
+          "vi": "Tòa thị chính ở đâu?"
+        }
+      }
+    ],
+    "keywords": [
+      "mairie",
+      "town hall",
+      "mayor",
+      "commune",
+      "local government",
+      "departement",
+      "region"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "library2",
+    "id": "media-and-news",
+    "categoryId": "politics",
+    "title": {
+      "en": "Following the news in France",
+      "vi": "Theo dõi tin tức ở Pháp"
+    },
+    "icon": "chat",
+    "summary": {
+      "en": "Newspapers, TV, radio and how to read them with care.",
+      "vi": "Báo chí, truyền hình, radio và cách đọc cẩn trọng."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Where to look",
+          "vi": "Tìm ở đâu"
+        },
+        "body": {
+          "en": "National newspapers include Le Monde, Le Figaro and Libération, and each region has its own daily paper. Public broadcasters include France Télévisions and Radio France with its news station franceinfo. France 24 and RFI broadcast international news, including in other languages.",
+          "vi": "Các tờ báo quốc gia gồm Le Monde, Le Figaro và Libération, và mỗi vùng có nhật báo riêng. Các đài công gồm France Télévisions và Radio France với kênh tin tức franceinfo. France 24 và RFI phát tin quốc tế, kể cả bằng các ngôn ngữ khác."
+        }
+      },
+      {
+        "heading": {
+          "en": "Read with care",
+          "vi": "Đọc cẩn trọng"
+        },
+        "body": {
+          "en": "Media have different editorial lines, so compare sources. Be careful with unverified messages on social networks: check who wrote them and when.",
+          "vi": "Các cơ quan báo chí có đường lối biên tập khác nhau, nên hãy so sánh các nguồn. Hãy cẩn thận với các tin nhắn chưa kiểm chứng trên mạng xã hội: kiểm tra ai viết và viết khi nào."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Each region has its own daily newspaper.",
+        "vi": "Mỗi vùng có nhật báo riêng."
+      },
+      {
+        "en": "France 24 and RFI offer news for an international audience.",
+        "vi": "France 24 và RFI đưa tin cho khán giả quốc tế."
+      },
+      {
+        "en": "Compare several sources and check social media posts.",
+        "vi": "So sánh nhiều nguồn và kiểm tra bài đăng mạng xã hội."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "Qu’est-ce que vous lisez ?",
+        "meaning": {
+          "en": "What do you read?",
+          "vi": "Bạn đọc gì?"
+        }
+      }
+    ],
+    "keywords": [
+      "news",
+      "media",
+      "newspaper",
+      "tv",
+      "radio",
+      "le monde",
+      "france 24",
+      "rfi"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  }
+]

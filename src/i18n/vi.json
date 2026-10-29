@@ -71,7 +71,14 @@
     "importError": "Không thể nhập tệp này: {reason}",
     "reset": "Xóa tiến độ",
     "resetConfirm": "Xóa toàn bộ tiến độ? Không thể hoàn tác.",
+    "credits": "Nguồn ảnh",
     "version": "Phiên bản {version}"
+  },
+  "credits": {
+    "title": "Nguồn ảnh",
+    "intro": "Ảnh lấy từ Wikimedia Commons và được phép sử dụng tự do. Chạm vào từng dòng để xem nguồn và giấy phép.",
+    "author": "Tác giả",
+    "back": "Quay lại cài đặt"
   },
   "languages": {
     "en": "English",

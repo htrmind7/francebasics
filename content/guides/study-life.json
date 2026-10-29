@@ -191,5 +191,409 @@
     ],
     "lastChecked": "2026-10-29",
     "status": "validated"
+  },
+  {
+    "image": "students2",
+    "id": "enrolment-overview",
+    "categoryId": "study-life",
+    "title": {
+      "en": "Enrolling at your school: the overview",
+      "vi": "Đăng ký nhập học: tổng quan"
+    },
+    "icon": "idcard",
+    "summary": {
+      "en": "The steps, in plain words, and where the official details are.",
+      "vi": "Các bước, nói đơn giản, và nơi có thông tin chính thức."
+    },
+    "kind": "procedure",
+    "sections": [
+      {
+        "heading": {
+          "en": "Two kinds of registration",
+          "vi": "Hai loại đăng ký"
+        },
+        "body": {
+          "en": "There is usually an administrative enrolment (inscription administrative), where you register as a student and pay fees, and a course registration (inscription pédagogique), where you choose classes. Your school sends the instructions and the deadlines.",
+          "vi": "Thường có đăng ký hành chính (inscription administrative), khi bạn đăng ký làm sinh viên và nộp học phí, và đăng ký môn học (inscription pédagogique), khi bạn chọn lớp. Trường sẽ gửi hướng dẫn và thời hạn."
+        }
+      },
+      {
+        "heading": {
+          "en": "Documents you receive",
+          "vi": "Giấy tờ bạn nhận được"
+        },
+        "body": {
+          "en": "After enrolment you get a student card and a certificate of enrolment (certificat de scolarité). The certificate is often asked for by the CAF, transport networks and student offers: keep several copies.",
+          "vi": "Sau khi đăng ký, bạn nhận thẻ sinh viên và giấy xác nhận đang học (certificat de scolarité). CAF, mạng lưới giao thông và các ưu đãi sinh viên thường yêu cầu giấy này: hãy giữ nhiều bản."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Follow the instructions and deadlines sent by your school.",
+        "vi": "Làm theo hướng dẫn và thời hạn mà trường gửi."
+      },
+      {
+        "en": "Keep your certificate of enrolment: it is often needed.",
+        "vi": "Giữ giấy xác nhận đang học: thường được yêu cầu."
+      },
+      {
+        "en": "The CVEC certificate is often required before enrolling.",
+        "vi": "Giấy chứng nhận CVEC thường được yêu cầu trước khi đăng ký."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Missing a deadline because an email went to your spam folder.",
+        "vi": "Lỡ thời hạn vì email vào thư rác."
+      }
+    ],
+    "phrases": [
+      {
+        "fr": "J’ai besoin d’un certificat de scolarité.",
+        "meaning": {
+          "en": "I need a certificate of enrolment.",
+          "vi": "Tôi cần giấy xác nhận đang học."
+        }
+      }
+    ],
+    "keywords": [
+      "enrolment",
+      "inscription",
+      "student card",
+      "certificat de scolarite",
+      "registration"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Mes services étudiants",
+          "vi": "Mes services étudiants"
+        },
+        "url": "https://www.messervices.etudiant.gouv.fr/"
+      },
+      {
+        "label": {
+          "en": "Campus France",
+          "vi": "Campus France"
+        },
+        "url": "https://www.campusfrance.org/en"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "crous",
+    "id": "student-restaurants",
+    "categoryId": "study-life",
+    "title": {
+      "en": "Eating well on a student budget",
+      "vi": "Ăn uống đủ đầy với ngân sách sinh viên"
+    },
+    "icon": "utensils",
+    "summary": {
+      "en": "Student restaurants, supermarkets and markets.",
+      "vi": "Nhà ăn sinh viên, siêu thị và chợ."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Student restaurants",
+          "vi": "Nhà ăn sinh viên"
+        },
+        "body": {
+          "en": "Student restaurants run by the student services (Crous) serve full meals at a low, fixed student price. You usually pay with your student card or an app. Opening hours are limited, so check them.",
+          "vi": "Các nhà ăn sinh viên do dịch vụ sinh viên (Crous) điều hành phục vụ bữa ăn đầy đủ với giá thấp cố định dành cho sinh viên. Bạn thường trả bằng thẻ sinh viên hoặc ứng dụng. Giờ mở cửa có hạn nên hãy kiểm tra."
+        }
+      },
+      {
+        "heading": {
+          "en": "Shopping and cooking",
+          "vi": "Mua sắm và nấu ăn"
+        },
+        "body": {
+          "en": "Markets are good for fresh vegetables and fruit, and supermarkets have cheap own-brand products. Cooking in bigger quantities and freezing portions saves time and money.",
+          "vi": "Chợ phù hợp để mua rau quả tươi, còn siêu thị có sản phẩm nhãn riêng giá rẻ. Nấu nhiều và cấp đông từng phần giúp tiết kiệm thời gian và tiền bạc."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Student restaurants offer full meals at a low student price.",
+        "vi": "Nhà ăn sinh viên phục vụ bữa đầy đủ với giá sinh viên thấp."
+      },
+      {
+        "en": "Markets and own-brand products help save money.",
+        "vi": "Chợ và sản phẩm nhãn riêng giúp tiết kiệm."
+      },
+      {
+        "en": "Cook in bigger quantities and freeze portions.",
+        "vi": "Nấu nhiều và cấp đông từng phần."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "Un menu étudiant, s’il vous plaît.",
+        "meaning": {
+          "en": "A student meal, please.",
+          "vi": "Cho tôi một suất ăn sinh viên."
+        }
+      }
+    ],
+    "keywords": [
+      "crous",
+      "restaurant universitaire",
+      "food",
+      "cheap meals",
+      "cooking",
+      "budget"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Mes services étudiants",
+          "vi": "Mes services étudiants"
+        },
+        "url": "https://www.messervices.etudiant.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "library2",
+    "id": "essay-style",
+    "categoryId": "study-life",
+    "title": {
+      "en": "How French teachers like essays",
+      "vi": "Giảng viên Pháp muốn bài luận thế nào"
+    },
+    "icon": "book",
+    "summary": {
+      "en": "Structure, arguments and citing your sources.",
+      "vi": "Cấu trúc, lập luận và dẫn nguồn."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "A clear structure",
+          "vi": "Cấu trúc rõ ràng"
+        },
+        "body": {
+          "en": "Written work often follows an introduction, a development in two or three parts, and a conclusion. Each part makes an argument and supports it with examples. The classic “thesis, antithesis, synthesis” shows the habit of weighing both sides.",
+          "vi": "Bài viết thường theo bố cục mở bài, phần phát triển gồm hai hoặc ba phần, và kết luận. Mỗi phần nêu một lập luận và minh họa bằng ví dụ. Mô hình “chính đề, phản đề, hợp đề” thể hiện thói quen cân nhắc cả hai phía."
+        }
+      },
+      {
+        "heading": {
+          "en": "Sources and oral work",
+          "vi": "Nguồn và thuyết trình"
+        },
+        "body": {
+          "en": "Cite your sources: copying without quoting is treated as plagiarism. In oral work, you are expected to speak with notes rather than read, and to answer questions.",
+          "vi": "Hãy dẫn nguồn: sao chép mà không trích dẫn bị coi là đạo văn. Khi thuyết trình, bạn được mong đợi nói theo ghi chú thay vì đọc, và trả lời câu hỏi."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Essays follow an introduction, a development and a conclusion.",
+        "vi": "Bài luận gồm mở bài, phát triển và kết luận."
+      },
+      {
+        "en": "Support every argument with examples.",
+        "vi": "Hỗ trợ mỗi lập luận bằng ví dụ."
+      },
+      {
+        "en": "Always cite your sources.",
+        "vi": "Luôn dẫn nguồn."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "Pouvez-vous relire mon plan ?",
+        "meaning": {
+          "en": "Can you read my outline?",
+          "vi": "Thầy/cô có thể xem dàn ý của em không?"
+        }
+      }
+    ],
+    "keywords": [
+      "essay",
+      "dissertation",
+      "plan",
+      "plagiarism",
+      "sources",
+      "writing",
+      "exam"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "musicday",
+    "id": "student-associations",
+    "categoryId": "study-life",
+    "title": {
+      "en": "Student clubs and associations",
+      "vi": "Câu lạc bộ và hội sinh viên"
+    },
+    "icon": "hand",
+    "summary": {
+      "en": "A great way to meet people and practise French.",
+      "vi": "Cách tuyệt vời để gặp gỡ và luyện tiếng Pháp."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "What exists",
+          "vi": "Có những gì"
+        },
+        "body": {
+          "en": "Most schools have a student union (BDE), sports clubs, music, theatre, humanitarian and cultural associations. You can join, or even create one. Many present themselves at the start of the school year.",
+          "vi": "Hầu hết các trường có hội sinh viên (BDE), câu lạc bộ thể thao, âm nhạc, sân khấu, nhân đạo và văn hóa. Bạn có thể tham gia, hoặc thậm chí lập hội mới. Nhiều hội giới thiệu mình vào đầu năm học."
+        }
+      },
+      {
+        "heading": {
+          "en": "Integration events",
+          "vi": "Sự kiện chào đón"
+        },
+        "body": {
+          "en": "Welcome weekends and parties are common. You are free to decline anything that makes you uncomfortable, and no one should pressure you to drink.",
+          "vi": "Các cuối tuần chào đón và tiệc rất phổ biến. Bạn được tự do từ chối bất cứ điều gì khiến bạn không thoải mái, và không ai được ép bạn uống rượu."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Most schools have a BDE, sports clubs and associations.",
+        "vi": "Hầu hết các trường có BDE, câu lạc bộ thể thao và các hội."
+      },
+      {
+        "en": "Joining one is a good way to practise French.",
+        "vi": "Tham gia là cách tốt để luyện tiếng Pháp."
+      },
+      {
+        "en": "You can say no to anything that makes you uncomfortable.",
+        "vi": "Bạn có thể từ chối mọi điều khiến mình không thoải mái."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "Comment rejoindre l’association ?",
+        "meaning": {
+          "en": "How do I join the association?",
+          "vi": "Làm sao để tham gia hội?"
+        }
+      }
+    ],
+    "keywords": [
+      "bde",
+      "association",
+      "club",
+      "sport",
+      "student life",
+      "integration"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "cafe2",
+    "id": "learning-french",
+    "categoryId": "study-life",
+    "title": {
+      "en": "Learning French while you live here",
+      "vi": "Học tiếng Pháp khi đang sống ở đây"
+    },
+    "icon": "chat",
+    "summary": {
+      "en": "Habits that make you progress faster.",
+      "vi": "Những thói quen giúp bạn tiến bộ nhanh hơn."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Use the language every day",
+          "vi": "Dùng tiếng Pháp mỗi ngày"
+        },
+        "body": {
+          "en": "Speak even with mistakes: people appreciate the effort. Listen to the radio, watch films with French subtitles, and read signs and menus. Practise with classmates and neighbours.",
+          "vi": "Hãy nói dù mắc lỗi: mọi người đánh giá cao nỗ lực của bạn. Nghe radio, xem phim có phụ đề tiếng Pháp, và đọc biển hiệu, thực đơn. Luyện tập với bạn học và hàng xóm."
+        }
+      },
+      {
+        "heading": {
+          "en": "Courses and certificates",
+          "vi": "Khóa học và chứng chỉ"
+        },
+        "body": {
+          "en": "Many schools, towns and associations offer French classes. Official tests such as the DELF and TCF certify your level and are often asked for by schools and administrations.",
+          "vi": "Nhiều trường, thành phố và hội có lớp tiếng Pháp. Các kỳ thi chính thức như DELF và TCF chứng nhận trình độ của bạn và thường được trường và cơ quan hành chính yêu cầu."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Speak every day, even with mistakes.",
+        "vi": "Nói mỗi ngày, dù mắc lỗi."
+      },
+      {
+        "en": "Use subtitles, radio and everyday signs.",
+        "vi": "Dùng phụ đề, radio và biển hiệu hằng ngày."
+      },
+      {
+        "en": "DELF and TCF certify your level.",
+        "vi": "DELF và TCF chứng nhận trình độ của bạn."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "Pouvez-vous parler plus lentement ?",
+        "meaning": {
+          "en": "Can you speak more slowly?",
+          "vi": "Bạn có thể nói chậm hơn không?"
+        }
+      },
+      {
+        "fr": "Comment dit-on… en français ?",
+        "meaning": {
+          "en": "How do you say… in French?",
+          "vi": "… nói tiếng Pháp thế nào?"
+        }
+      }
+    ],
+    "keywords": [
+      "french",
+      "learn",
+      "delf",
+      "tcf",
+      "course",
+      "level",
+      "language"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "France Éducation international (DELF/TCF)",
+          "vi": "France Éducation international (DELF/TCF)"
+        },
+        "url": "https://www.france-education-international.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
   }
 ]

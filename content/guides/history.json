@@ -1,0 +1,535 @@
+[
+  {
+    "image": "lascaux",
+    "id": "france-timeline",
+    "categoryId": "history",
+    "title": {
+      "en": "French history in one page",
+      "vi": "Lịch sử nước Pháp trong một trang"
+    },
+    "icon": "castle",
+    "summary": {
+      "en": "The big dates, from the first paintings to today.",
+      "vi": "Những mốc lớn, từ những bức tranh đầu tiên đến ngày nay."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "From prehistory to the Middle Ages",
+          "vi": "Từ thời tiền sử đến thời trung cổ"
+        },
+        "body": {
+          "en": "People painted the walls of the Lascaux cave about 17,000 years ago. The Gauls lived in the territory when Julius Caesar conquered it (58 to 50 BC). After the Roman Empire fell, the Franks, who gave France its name, built a kingdom. Charlemagne was crowned emperor in the year 800.",
+          "vi": "Người ta đã vẽ lên vách hang Lascaux khoảng 17.000 năm trước. Người Gaulois sống trên vùng đất này khi Julius Caesar chinh phục nó (58 đến 50 trước Công nguyên). Sau khi đế quốc La Mã sụp đổ, người Frank, những người đặt tên cho nước Pháp, lập nên một vương quốc. Charlemagne lên ngôi hoàng đế năm 800."
+        }
+      },
+      {
+        "heading": {
+          "en": "From the monarchy to the republic",
+          "vi": "Từ quân chủ đến cộng hòa"
+        },
+        "body": {
+          "en": "Kings ruled for centuries, up to Louis XIV and Versailles. The Revolution of 1789 ended the old regime. Napoleon built an empire, then the country alternated between kingdoms, empires and republics. The Third Republic began in 1870.",
+          "vi": "Các vị vua cai trị qua nhiều thế kỷ, đến Louis XIV và điện Versailles. Cách mạng 1789 chấm dứt chế độ cũ. Napoléon xây dựng một đế quốc, rồi đất nước luân phiên giữa các vương triều, đế chế và cộng hòa. Nền Cộng hòa thứ ba bắt đầu năm 1870."
+        }
+      },
+      {
+        "heading": {
+          "en": "The 20th century and today",
+          "vi": "Thế kỷ 20 và ngày nay"
+        },
+        "body": {
+          "en": "France fought in the two World Wars (1914 to 1918 and 1939 to 1945). The Fifth Republic, still in force, began in 1958. France is a founding member of the European Union.",
+          "vi": "Pháp tham chiến trong hai cuộc Thế chiến (1914 đến 1918 và 1939 đến 1945). Nền Cộng hòa thứ năm, vẫn còn hiệu lực, bắt đầu năm 1958. Pháp là thành viên sáng lập của Liên minh châu Âu."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Lascaux paintings are about 17,000 years old.",
+        "vi": "Tranh ở Lascaux khoảng 17.000 năm tuổi."
+      },
+      {
+        "en": "The Revolution of 1789 ended the old regime.",
+        "vi": "Cách mạng 1789 chấm dứt chế độ cũ."
+      },
+      {
+        "en": "The Fifth Republic began in 1958 and still exists.",
+        "vi": "Nền Cộng hòa thứ năm bắt đầu năm 1958 và vẫn còn."
+      },
+      {
+        "en": "France is a founding member of the EU.",
+        "vi": "Pháp là thành viên sáng lập của EU."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": ["history", "timeline", "dates", "revolution", "napoleon"],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "pontdugard",
+    "id": "gauls-romans-franks",
+    "categoryId": "history",
+    "title": {
+      "en": "Gauls, Romans and Franks",
+      "vi": "Người Gaulois, La Mã và Frank"
+    },
+    "icon": "castle",
+    "summary": {
+      "en": "The three peoples who shaped the first centuries of France.",
+      "vi": "Ba dân tộc định hình những thế kỷ đầu của nước Pháp."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "The Gauls and the Romans",
+          "vi": "Người Gaulois và người La Mã"
+        },
+        "body": {
+          "en": "The Gauls were Celtic peoples living in what is now France. Julius Caesar conquered Gaul, and the Gaulish chief Vercingétorix surrendered at Alésia in 52 BC. The Romans left roads, cities and monuments such as the Pont du Gard.",
+          "vi": "Người Gaulois là các dân tộc Celt sống trên vùng đất nay là nước Pháp. Julius Caesar chinh phục xứ Gaule, và thủ lĩnh Vercingétorix đầu hàng ở Alésia năm 52 trước Công nguyên. Người La Mã để lại đường sá, thành phố và các công trình như Pont du Gard."
+        }
+      },
+      {
+        "heading": {
+          "en": "The Franks",
+          "vi": "Người Frank"
+        },
+        "body": {
+          "en": "After Rome weakened, the Franks took control. Their king Clovis converted to Christianity around the year 500, and the word “France” comes from “Franks”. Latin evolved over time into French.",
+          "vi": "Sau khi La Mã suy yếu, người Frank nắm quyền. Vua Clovis của họ cải sang Kitô giáo khoảng năm 500, và từ “France” bắt nguồn từ “Franks”. Tiếng Latinh dần biến đổi thành tiếng Pháp."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Julius Caesar conquered Gaul, ending in 52 BC.",
+        "vi": "Julius Caesar chinh phục xứ Gaule, kết thúc năm 52 trước Công nguyên."
+      },
+      {
+        "en": "Roman monuments still stand, like the Pont du Gard.",
+        "vi": "Các công trình La Mã vẫn còn, như Pont du Gard."
+      },
+      {
+        "en": "The name France comes from the Franks.",
+        "vi": "Tên France bắt nguồn từ người Frank."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": [
+      "gauls",
+      "romans",
+      "franks",
+      "clovis",
+      "vercingetorix",
+      "caesar"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "chartres",
+    "id": "middle-ages-cathedrals",
+    "categoryId": "history",
+    "title": {
+      "en": "The Middle Ages and the great cathedrals",
+      "vi": "Thời trung cổ và các nhà thờ lớn"
+    },
+    "icon": "castle",
+    "summary": {
+      "en": "Knights, kings, Joan of Arc and the Gothic cathedrals.",
+      "vi": "Hiệp sĩ, vua chúa, Jeanne d’Arc và các nhà thờ kiểu Gothic."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Cathedrals and coronations",
+          "vi": "Nhà thờ lớn và lễ đăng quang"
+        },
+        "body": {
+          "en": "Gothic cathedrals, such as Notre-Dame de Paris, Chartres and Reims, were built from the 12th century. Many French kings were crowned in Reims Cathedral.",
+          "vi": "Các nhà thờ kiểu Gothic, như Notre-Dame de Paris, Chartres và Reims, được xây từ thế kỷ 12. Nhiều vị vua Pháp được tôn vương tại nhà thờ lớn Reims."
+        }
+      },
+      {
+        "heading": {
+          "en": "War and Joan of Arc",
+          "vi": "Chiến tranh và Jeanne d’Arc"
+        },
+        "body": {
+          "en": "France and England fought the Hundred Years’ War (1337 to 1453). Joan of Arc, a young peasant, helped to lift the siege of Orléans in 1429 and brought the future Charles VII to be crowned in Reims. She is a national symbol.",
+          "vi": "Pháp và Anh đánh nhau trong Chiến tranh Trăm năm (1337 đến 1453). Jeanne d’Arc, một thiếu nữ nông dân, góp phần giải vây Orléans năm 1429 và đưa vua Charles VII tương lai đến Reims để đăng quang. Bà là một biểu tượng quốc gia."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Gothic cathedrals date from the 12th century onwards.",
+        "vi": "Các nhà thờ Gothic có từ thế kỷ 12 trở đi."
+      },
+      {
+        "en": "Reims Cathedral is where many kings were crowned.",
+        "vi": "Nhà thờ lớn Reims là nơi nhiều vị vua được đăng quang."
+      },
+      {
+        "en": "Joan of Arc is a national symbol of the Hundred Years’ War.",
+        "vi": "Jeanne d’Arc là biểu tượng quốc gia của Chiến tranh Trăm năm."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": [
+      "middle ages",
+      "cathedral",
+      "joan of arc",
+      "reims",
+      "hundred years war",
+      "gothic"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "versailles",
+    "id": "kings-and-versailles",
+    "categoryId": "history",
+    "title": {
+      "en": "Kings, the Renaissance and Versailles",
+      "vi": "Các vị vua, thời Phục hưng và Versailles"
+    },
+    "icon": "castle",
+    "summary": {
+      "en": "Louis XIV, the Sun King, and the châteaux that still impress.",
+      "vi": "Louis XIV, Vua Mặt Trời, và những lâu đài vẫn gây ấn tượng."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "The Renaissance",
+          "vi": "Thời Phục hưng"
+        },
+        "body": {
+          "en": "In the 16th century, King Francis I brought Italian art to France. The châteaux of the Loire Valley date from this time. The painter Leonardo da Vinci spent his last years in Amboise, in the Loire Valley.",
+          "vi": "Vào thế kỷ 16, vua François I đưa nghệ thuật Ý vào Pháp. Các lâu đài ở thung lũng Loire có từ thời này. Họa sĩ Leonardo da Vinci đã sống những năm cuối đời ở Amboise, trong thung lũng Loire."
+        }
+      },
+      {
+        "heading": {
+          "en": "Louis XIV and Versailles",
+          "vi": "Louis XIV và Versailles"
+        },
+        "body": {
+          "en": "Louis XIV, called the Sun King, reigned for 72 years (1643 to 1715). He moved the court to the Palace of Versailles, near Paris, with its famous Hall of Mirrors. His absolute power later became a symbol of the old regime.",
+          "vi": "Louis XIV, được gọi là Vua Mặt Trời, trị vì 72 năm (1643 đến 1715). Ông dời triều đình đến cung điện Versailles gần Paris, với Phòng Gương nổi tiếng. Quyền lực tuyệt đối của ông sau này trở thành biểu tượng của chế độ cũ."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "The Loire châteaux come from the Renaissance.",
+        "vi": "Các lâu đài Loire có từ thời Phục hưng."
+      },
+      {
+        "en": "Louis XIV reigned from 1643 to 1715.",
+        "vi": "Louis XIV trị vì từ 1643 đến 1715."
+      },
+      {
+        "en": "Versailles was the centre of royal power.",
+        "vi": "Versailles là trung tâm quyền lực hoàng gia."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": [
+      "kings",
+      "louis xiv",
+      "versailles",
+      "renaissance",
+      "chateau",
+      "sun king"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "France.fr: official tourism website",
+          "vi": "France.fr: trang du lịch chính thức"
+        },
+        "url": "https://www.france.fr/en"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "bastille",
+    "id": "revolution-1789",
+    "categoryId": "history",
+    "title": {
+      "en": "The French Revolution (1789)",
+      "vi": "Cách mạng Pháp (1789)"
+    },
+    "icon": "castle",
+    "summary": {
+      "en": "Why 14 July matters and what changed.",
+      "vi": "Vì sao ngày 14 tháng 7 quan trọng và điều gì đã thay đổi."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "What happened",
+          "vi": "Điều gì đã xảy ra"
+        },
+        "body": {
+          "en": "In 1789, people rose against a king with absolute power and a society of privileges. On 14 July, a crowd took the Bastille, a royal prison in Paris. In August, the Declaration of the Rights of Man and of the Citizen proclaimed that men are born free and equal in rights.",
+          "vi": "Năm 1789, người dân nổi dậy chống lại một vị vua có quyền lực tuyệt đối và một xã hội đặc quyền. Ngày 14 tháng 7, đám đông chiếm ngục Bastille, một nhà tù hoàng gia ở Paris. Tháng 8, Tuyên ngôn Nhân quyền và Dân quyền tuyên bố con người sinh ra tự do và bình đẳng về quyền."
+        }
+      },
+      {
+        "heading": {
+          "en": "A violent change",
+          "vi": "Một biến động bạo lực"
+        },
+        "body": {
+          "en": "The monarchy was abolished in 1792 and King Louis XVI was executed in 1793. The Revolution also brought violence during the period called the Terror. Its ideas of liberty, equality and fraternity became the national motto.",
+          "vi": "Chế độ quân chủ bị bãi bỏ năm 1792 và vua Louis XVI bị xử tử năm 1793. Cách mạng cũng gây bạo lực trong giai đoạn gọi là Khủng bố. Các ý tưởng tự do, bình đẳng, bác ái trở thành khẩu hiệu quốc gia."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "The Bastille was taken on 14 July 1789, now the national day.",
+        "vi": "Ngục Bastille bị chiếm ngày 14 tháng 7 năm 1789, nay là quốc khánh."
+      },
+      {
+        "en": "The 1789 Declaration of Rights is a founding text.",
+        "vi": "Tuyên ngôn Nhân quyền 1789 là văn bản nền tảng."
+      },
+      {
+        "en": "Liberty, equality, fraternity became the motto.",
+        "vi": "Tự do, bình đẳng, bác ái trở thành khẩu hiệu."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": [
+      "revolution",
+      "1789",
+      "bastille",
+      "14 july",
+      "rights of man",
+      "liberty"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "napoleon",
+    "id": "napoleon-and-empire",
+    "categoryId": "history",
+    "title": {
+      "en": "Napoleon and the Empire",
+      "vi": "Napoléon và Đế chế"
+    },
+    "icon": "castle",
+    "summary": {
+      "en": "A general who became emperor and left lasting laws.",
+      "vi": "Một vị tướng trở thành hoàng đế và để lại những bộ luật bền vững."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "From general to emperor",
+          "vi": "Từ tướng lĩnh đến hoàng đế"
+        },
+        "body": {
+          "en": "Napoleon Bonaparte, born in Corsica in 1769, took power in 1799 and crowned himself emperor in 1804. His armies conquered much of Europe, until his defeat at Waterloo in 1815. He died in exile on the island of Saint Helena in 1821.",
+          "vi": "Napoléon Bonaparte, sinh ở Corse năm 1769, nắm quyền năm 1799 và tự đăng quang hoàng đế năm 1804. Quân đội của ông chinh phục phần lớn châu Âu, cho đến thất bại ở Waterloo năm 1815. Ông qua đời trong cảnh lưu đày trên đảo Saint Helena năm 1821."
+        }
+      },
+      {
+        "heading": {
+          "en": "What remains",
+          "vi": "Điều còn lại"
+        },
+        "body": {
+          "en": "The Civil Code of 1804, known as the Napoleonic Code, still influences French law and many other countries. Prefects, high schools (lycées) and the Arc de Triomphe also date from this era.",
+          "vi": "Bộ luật Dân sự 1804, gọi là Bộ luật Napoléon, vẫn ảnh hưởng đến luật pháp Pháp và nhiều nước khác. Tỉnh trưởng (préfet), trường trung học phổ thông (lycée) và Khải Hoàn Môn cũng có từ thời này."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Napoleon was emperor from 1804 to 1814 and briefly in 1815.",
+        "vi": "Napoléon là hoàng đế từ 1804 đến 1814 và một thời gian ngắn năm 1815."
+      },
+      {
+        "en": "The Civil Code of 1804 still shapes French law.",
+        "vi": "Bộ luật Dân sự 1804 vẫn định hình luật pháp Pháp."
+      },
+      {
+        "en": "He was defeated at Waterloo in 1815.",
+        "vi": "Ông bị đánh bại ở Waterloo năm 1815."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": ["napoleon", "empire", "civil code", "waterloo", "bonaparte"],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "verdun",
+    "id": "republics-and-wars",
+    "categoryId": "history",
+    "title": {
+      "en": "Republics and the two World Wars",
+      "vi": "Các nền cộng hòa và hai cuộc Thế chiến"
+    },
+    "icon": "castle",
+    "summary": {
+      "en": "How France got to the Fifth Republic.",
+      "vi": "Pháp đã đến nền Cộng hòa thứ năm bằng cách nào."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "The Third Republic and the first war",
+          "vi": "Cộng hòa thứ ba và cuộc chiến thứ nhất"
+        },
+        "body": {
+          "en": "The Third Republic began in 1870 and lasted until 1940. During the First World War (1914 to 1918), France suffered huge losses, notably at Verdun in 1916. The war ended on 11 November 1918, still a public holiday.",
+          "vi": "Nền Cộng hòa thứ ba bắt đầu năm 1870 và kéo dài đến 1940. Trong Thế chiến thứ nhất (1914 đến 1918), Pháp chịu tổn thất khổng lồ, nhất là ở Verdun năm 1916. Chiến tranh kết thúc ngày 11 tháng 11 năm 1918, vẫn là ngày nghỉ lễ."
+        }
+      },
+      {
+        "heading": {
+          "en": "The Second World War",
+          "vi": "Thế chiến thứ hai"
+        },
+        "body": {
+          "en": "In 1940, France was defeated and occupied. Many people joined the Resistance. The Allied landings in Normandy on 6 June 1944 started the liberation. The Fourth Republic followed in 1946, then the Fifth in 1958 under General de Gaulle.",
+          "vi": "Năm 1940, Pháp bị đánh bại và chiếm đóng. Nhiều người tham gia kháng chiến. Cuộc đổ bộ của quân Đồng minh ở Normandie ngày 6 tháng 6 năm 1944 mở đầu cho cuộc giải phóng. Nền Cộng hòa thứ tư tiếp theo năm 1946, rồi nền Cộng hòa thứ năm năm 1958 dưới thời tướng de Gaulle."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "The Third Republic lasted from 1870 to 1940.",
+        "vi": "Nền Cộng hòa thứ ba kéo dài từ 1870 đến 1940."
+      },
+      {
+        "en": "11 November 1918 is still commemorated.",
+        "vi": "Ngày 11 tháng 11 năm 1918 vẫn được tưởng niệm."
+      },
+      {
+        "en": "The Fifth Republic dates from 1958.",
+        "vi": "Nền Cộng hòa thứ năm có từ năm 1958."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": [
+      "wwi",
+      "wwii",
+      "world war",
+      "verdun",
+      "resistance",
+      "de gaulle",
+      "republic",
+      "d-day"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "saigon",
+    "id": "empire-and-immigration",
+    "categoryId": "history",
+    "title": {
+      "en": "The colonial past and immigration",
+      "vi": "Quá khứ thuộc địa và nhập cư"
+    },
+    "icon": "castle",
+    "summary": {
+      "en": "How history explains a diverse France, including its link with Vietnam.",
+      "vi": "Lịch sử giải thích nước Pháp đa dạng thế nào, kể cả mối liên hệ với Việt Nam."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "The empire",
+          "vi": "Đế quốc thuộc địa"
+        },
+        "body": {
+          "en": "From the 19th century, France built a colonial empire, notably in North and West Africa, Indochina (including Vietnam) and the Pacific. Vietnam was under French rule until 1954, when the Geneva Accords followed the battle of Dien Bien Phu. Algeria became independent in 1962 after a long war.",
+          "vi": "Từ thế kỷ 19, Pháp xây dựng một đế quốc thuộc địa, nhất là ở Bắc và Tây Phi, Đông Dương (gồm Việt Nam) và Thái Bình Dương. Việt Nam chịu sự cai trị của Pháp đến năm 1954, khi Hiệp định Genève diễn ra sau trận Điện Biên Phủ. Algérie giành độc lập năm 1962 sau một cuộc chiến dài."
+        }
+      },
+      {
+        "heading": {
+          "en": "A country shaped by migration",
+          "vi": "Một đất nước được định hình bởi nhập cư"
+        },
+        "body": {
+          "en": "France has long received people from Italy, Poland, Spain, Portugal and, after decolonisation, from North and West Africa and Southeast Asia. After 1975, many Vietnamese, Lao and Cambodian refugees settled in France. Today, French society is diverse, and the memory of the colonial period is still discussed.",
+          "vi": "Pháp từ lâu đón người từ Ý, Ba Lan, Tây Ban Nha, Bồ Đào Nha và, sau khi giải thực, từ Bắc và Tây Phi và Đông Nam Á. Sau năm 1975, nhiều người tị nạn Việt Nam, Lào và Campuchia định cư ở Pháp. Ngày nay xã hội Pháp đa dạng, và ký ức về thời thuộc địa vẫn còn được bàn luận."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "France ruled Vietnam until 1954.",
+        "vi": "Pháp cai trị Việt Nam đến năm 1954."
+      },
+      {
+        "en": "Algeria became independent in 1962.",
+        "vi": "Algérie giành độc lập năm 1962."
+      },
+      {
+        "en": "Waves of immigration shaped modern France.",
+        "vi": "Các làn sóng nhập cư định hình nước Pháp hiện đại."
+      },
+      {
+        "en": "The colonial past is still debated today.",
+        "vi": "Quá khứ thuộc địa vẫn còn được tranh luận."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Assuming everyone shares the same view of this history: it is a sensitive subject.",
+        "vi": "Cho rằng ai cũng có cùng quan điểm về lịch sử này: đây là một chủ đề nhạy cảm."
+      }
+    ],
+    "phrases": [],
+    "keywords": [
+      "colonial",
+      "empire",
+      "vietnam",
+      "indochina",
+      "algeria",
+      "immigration",
+      "decolonisation",
+      "refugees"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  }
+]

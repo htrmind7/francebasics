@@ -422,5 +422,321 @@
     "officialLinks": [],
     "lastChecked": "2026-10-29",
     "status": "validated"
+  },
+  {
+    "image": "cafe2",
+    "id": "politeness-words",
+    "categoryId": "social-codes",
+    "title": {
+      "en": "The small words that matter",
+      "vi": "Những từ nhỏ nhưng quan trọng"
+    },
+    "icon": "chat",
+    "summary": {
+      "en": "Please, thank you, excuse me: how to be polite every day.",
+      "vi": "Làm ơn, cảm ơn, xin lỗi: cách lịch sự mỗi ngày."
+    },
+    "kind": "culture",
+    "sections": [
+      {
+        "heading": {
+          "en": "Always add the polite words",
+          "vi": "Luôn thêm từ lịch sự"
+        },
+        "body": {
+          "en": "Say “s’il vous plaît” when you ask, “merci” when you receive, and “excusez-moi” or “pardon” when you pass someone or interrupt. Use “Madame” and “Monsieur” to address a stranger politely.",
+          "vi": "Hãy nói “s’il vous plaît” khi nhờ, “merci” khi nhận, và “excusez-moi” hoặc “pardon” khi đi ngang qua hoặc ngắt lời ai đó. Dùng “Madame” và “Monsieur” để xưng hô lịch sự với người lạ."
+        }
+      },
+      {
+        "heading": {
+          "en": "Hold the door",
+          "vi": "Giữ cửa"
+        },
+        "body": {
+          "en": "It is common to hold a door for the person behind you and to say thank you. A small smile goes a long way.",
+          "vi": "Giữ cửa cho người đi sau và nói cảm ơn là điều bình thường. Một nụ cười nhỏ rất có ích."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "“S’il vous plaît” and “merci” are expected in every request.",
+        "vi": "“S’il vous plaît” và “merci” được mong đợi trong mọi lời nhờ."
+      },
+      {
+        "en": "“Excusez-moi” is useful to get attention or pass by.",
+        "vi": "“Excusez-moi” hữu ích để thu hút sự chú ý hoặc đi ngang qua."
+      },
+      {
+        "en": "Use Madame or Monsieur with strangers.",
+        "vi": "Dùng Madame hoặc Monsieur với người lạ."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "S’il vous plaît.",
+        "meaning": {
+          "en": "Please.",
+          "vi": "Làm ơn."
+        }
+      },
+      {
+        "fr": "Merci beaucoup.",
+        "meaning": {
+          "en": "Thank you very much.",
+          "vi": "Cảm ơn rất nhiều."
+        }
+      },
+      {
+        "fr": "Excusez-moi.",
+        "meaning": {
+          "en": "Excuse me.",
+          "vi": "Xin lỗi (để nhờ hoặc đi qua)."
+        }
+      },
+      {
+        "fr": "Je vous en prie.",
+        "meaning": {
+          "en": "You are welcome.",
+          "vi": "Không có gì."
+        }
+      }
+    ],
+    "keywords": [
+      "polite",
+      "please",
+      "thank you",
+      "merci",
+      "excuse me",
+      "pardon"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "cafe",
+    "id": "debate-and-opinions",
+    "categoryId": "social-codes",
+    "title": {
+      "en": "Debate, opinions and private topics",
+      "vi": "Tranh luận, ý kiến và chủ đề riêng tư"
+    },
+    "icon": "chat",
+    "summary": {
+      "en": "French people enjoy discussion: what is normal, and what is private.",
+      "vi": "Người Pháp thích thảo luận: điều gì bình thường, điều gì riêng tư."
+    },
+    "kind": "culture",
+    "sections": [
+      {
+        "heading": {
+          "en": "A taste for discussion",
+          "vi": "Thích thảo luận"
+        },
+        "body": {
+          "en": "Debating, even about politics, is a common social habit. Disagreeing openly is not seen as rude, as long as you stay respectful. Do not be afraid to give your opinion, and ask questions.",
+          "vi": "Tranh luận, kể cả về chính trị, là thói quen xã hội phổ biến. Bất đồng công khai không bị coi là thô lỗ, miễn là bạn vẫn tôn trọng. Đừng ngại nêu ý kiến và đặt câu hỏi."
+        }
+      },
+      {
+        "heading": {
+          "en": "Private topics",
+          "vi": "Chủ đề riêng tư"
+        },
+        "body": {
+          "en": "Asking about someone’s salary, religion or vote is usually seen as too personal. Let the other person bring it up first.",
+          "vi": "Hỏi về lương, tôn giáo hoặc lá phiếu của ai đó thường bị coi là quá riêng tư. Hãy để người kia nói trước."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Open debate is normal and not a sign of conflict.",
+        "vi": "Tranh luận cởi mở là bình thường và không phải dấu hiệu xung đột."
+      },
+      {
+        "en": "Stay respectful even when you disagree.",
+        "vi": "Vẫn tôn trọng ngay cả khi bất đồng."
+      },
+      {
+        "en": "Avoid questions about salary, religion or vote.",
+        "vi": "Tránh hỏi về lương, tôn giáo hoặc lá phiếu."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "Je ne suis pas d’accord, mais je comprends.",
+        "meaning": {
+          "en": "I do not agree, but I understand.",
+          "vi": "Tôi không đồng ý, nhưng tôi hiểu."
+        }
+      },
+      {
+        "fr": "Qu’est-ce que vous en pensez ?",
+        "meaning": {
+          "en": "What do you think about it?",
+          "vi": "Bạn nghĩ gì về điều đó?"
+        }
+      }
+    ],
+    "keywords": [
+      "debate",
+      "opinion",
+      "politics",
+      "private",
+      "salary",
+      "religion"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "students2",
+    "id": "making-friends",
+    "categoryId": "social-codes",
+    "title": {
+      "en": "Making friends as a newcomer",
+      "vi": "Kết bạn khi mới đến"
+    },
+    "icon": "hand",
+    "summary": {
+      "en": "Where to meet people, and why friendships can feel slow.",
+      "vi": "Gặp gỡ mọi người ở đâu, và vì sao tình bạn có thể hình thành chậm."
+    },
+    "kind": "culture",
+    "sections": [
+      {
+        "heading": {
+          "en": "Where to meet people",
+          "vi": "Gặp gỡ ở đâu"
+        },
+        "body": {
+          "en": "Student clubs and associations, sports, volunteering, language exchanges and school events are good places to meet people. Say yes to invitations, even simple ones like a coffee.",
+          "vi": "Câu lạc bộ và hội sinh viên, thể thao, tình nguyện, trao đổi ngôn ngữ và sự kiện của trường là những nơi tốt để gặp gỡ. Hãy nhận lời mời, kể cả những lời mời đơn giản như đi uống cà phê."
+        }
+      },
+      {
+        "heading": {
+          "en": "Be patient",
+          "vi": "Hãy kiên nhẫn"
+        },
+        "body": {
+          "en": "Friendships can take time to form, but they are often solid once they do. Keep showing up and keep in touch.",
+          "vi": "Tình bạn có thể mất thời gian để hình thành, nhưng thường bền chắc khi đã có. Hãy tiếp tục tham gia và giữ liên lạc."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Join a club, sport or association to meet people.",
+        "vi": "Tham gia câu lạc bộ, thể thao hoặc hội để gặp gỡ."
+      },
+      {
+        "en": "Accept invitations, even simple ones.",
+        "vi": "Nhận lời mời, kể cả những lời mời đơn giản."
+      },
+      {
+        "en": "Friendships can be slow to start but last.",
+        "vi": "Tình bạn có thể chậm bắt đầu nhưng bền lâu."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "On prend un café ?",
+        "meaning": {
+          "en": "Shall we have a coffee?",
+          "vi": "Mình đi uống cà phê nhé?"
+        }
+      },
+      {
+        "fr": "Tu veux venir avec nous ?",
+        "meaning": {
+          "en": "Do you want to come with us?",
+          "vi": "Bạn muốn đi cùng chúng mình không?"
+        }
+      }
+    ],
+    "keywords": ["friends", "associations", "clubs", "social", "lonely"],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "gare",
+    "id": "punctuality-and-time",
+    "categoryId": "social-codes",
+    "title": {
+      "en": "Time, appointments and being on time",
+      "vi": "Thời gian, lịch hẹn và đúng giờ"
+    },
+    "icon": "calendar",
+    "summary": {
+      "en": "When to be exact and when a few minutes are fine.",
+      "vi": "Khi nào cần chính xác và khi nào trễ vài phút cũng được."
+    },
+    "kind": "culture",
+    "sections": [
+      {
+        "heading": {
+          "en": "Be on time for official matters",
+          "vi": "Đúng giờ với việc chính thức"
+        },
+        "body": {
+          "en": "Be on time for appointments with a doctor, a bank, a school or an administration. If you will be late, phone or write to warn them. Some places will cancel a late appointment.",
+          "vi": "Hãy đúng giờ với lịch hẹn ở bác sĩ, ngân hàng, trường hoặc cơ quan hành chính. Nếu sẽ trễ, hãy gọi hoặc nhắn để báo. Một số nơi sẽ hủy lịch hẹn nếu bạn đến muộn."
+        }
+      },
+      {
+        "heading": {
+          "en": "More relaxed with friends",
+          "vi": "Thoải mái hơn với bạn bè"
+        },
+        "body": {
+          "en": "For a party or a dinner at someone’s home, arriving a few minutes later than the time is normal. For a movie, a class or a train, be on time.",
+          "vi": "Với tiệc hoặc bữa tối ở nhà ai đó, đến muộn vài phút là bình thường. Với phim, tiết học hoặc tàu, hãy đúng giờ."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Be on time for appointments with institutions.",
+        "vi": "Đúng giờ với các lịch hẹn ở cơ quan."
+      },
+      {
+        "en": "Warn people if you will be late.",
+        "vi": "Báo trước nếu bạn sẽ trễ."
+      },
+      {
+        "en": "A few minutes late is normal for a private dinner.",
+        "vi": "Trễ vài phút là bình thường với bữa tối riêng tư."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [
+      {
+        "fr": "Je suis en retard, désolé(e).",
+        "meaning": {
+          "en": "I am late, sorry.",
+          "vi": "Tôi đến muộn, xin lỗi."
+        }
+      },
+      {
+        "fr": "J’arrive dans dix minutes.",
+        "meaning": {
+          "en": "I will be there in ten minutes.",
+          "vi": "Mười phút nữa tôi đến."
+        }
+      }
+    ],
+    "keywords": ["time", "punctual", "late", "appointment", "retard"],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
   }
 ]

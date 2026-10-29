@@ -1,0 +1,672 @@
+[
+  {
+    "id": "airport",
+    "file": "airport.jpg",
+    "alt": {
+      "en": "An aircraft at an airport gate",
+      "vi": "Máy bay tại cổng sân bay"
+    },
+    "title": "Paris-Charles de Gaulle Airport Boeing 747.jpg",
+    "author": "Wilfredor",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris-Charles_de_Gaulle_Airport_Boeing_747.jpg"
+  },
+  {
+    "id": "alps",
+    "file": "alps.jpg",
+    "alt": {
+      "en": "The Mont Blanc massif in the Alps",
+      "vi": "Dãy Mont Blanc trên dãy Alps"
+    },
+    "title": "Mont Blanc du Tacul depuis l'Aiguille du Midi.jpg",
+    "author": "Alexandre Buisse (Nattfodd)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mont_Blanc_du_Tacul_depuis_l%27Aiguille_du_Midi.jpg"
+  },
+  {
+    "id": "alsace",
+    "file": "alsace.jpg",
+    "alt": {
+      "en": "Half-timbered houses along a canal in Strasbourg",
+      "vi": "Những ngôi nhà khung gỗ bên kênh ở Strasbourg"
+    },
+    "title": "Straßburg (Frankreich), Petite France -- 2011 -- 1759.jpg",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Stra%C3%9Fburg_(Frankreich),_Petite_France_--_2011_--_1759.jpg"
+  },
+  {
+    "id": "assemblee",
+    "file": "assemblee.jpg",
+    "alt": {
+      "en": "The Palais Bourbon, seat of the National Assembly",
+      "vi": "Cung Bourbon, trụ sở Quốc hội Pháp"
+    },
+    "title": "Palais Bourbon, Paris 7e, NW View 140402 1.jpg",
+    "author": "DXR",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Palais_Bourbon,_Paris_7e,_NW_View_140402_1.jpg"
+  },
+  {
+    "id": "bakery",
+    "file": "bakery.jpg",
+    "alt": {
+      "en": "A baker shaping bread dough",
+      "vi": "Người thợ làm bánh đang nhào bột bánh mì"
+    },
+    "title": "Boulangerie(fabric.baguette bio) Cl J Weber01.jpg",
+    "author": "inra.dist",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Boulangerie(fabric.baguette_bio)_Cl_J_Weber01.jpg"
+  },
+  {
+    "id": "bastille",
+    "file": "bastille.jpg",
+    "alt": {
+      "en": "The storming of the Bastille, 1789, painting",
+      "vi": "Tranh vẽ cảnh tấn công ngục Bastille năm 1789"
+    },
+    "title": "Prise de la Bastille clean.jpg",
+    "author": "Jean-Pierre Houël",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Prise_de_la_Bastille_clean.jpg"
+  },
+  {
+    "id": "bikelane",
+    "file": "bikelane.jpg",
+    "alt": {
+      "en": "A bike lane painted on a Paris street",
+      "vi": "Làn xe đạp kẻ trên đường phố Paris"
+    },
+    "title": "Piste cyclable -- double sens vélo - Paris 75013.jpg",
+    "author": "EHFXC",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Piste_cyclable_--_double_sens_v%C3%A9lo_-_Paris_75013.jpg"
+  },
+  {
+    "id": "brussels",
+    "file": "brussels.jpg",
+    "alt": {
+      "en": "The Grand-Place in Brussels",
+      "vi": "Quảng trường Grand-Place ở Brussels"
+    },
+    "title": "Edificios en la Grand-Place, Bruselas, Bélgica, 2021-12-15, DD 184-186 HDR.jpg",
+    "author": "Diego Delso",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Edificios_en_la_Grand-Place,_Bruselas,_B%C3%A9lgica,_2021-12-15,_DD_184-186_HDR.jpg"
+  },
+  {
+    "id": "cafe",
+    "file": "cafe.jpg",
+    "alt": {
+      "en": "A café terrace in Paris",
+      "vi": "Một quán cà phê ngoài trời ở Paris"
+    },
+    "title": "Terrasse de café-restaurant, Paris. PH19058.jpg",
+    "author": "Anonyme, photographe amateur",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Terrasse_de_caf%C3%A9-restaurant,_Paris._PH19058.jpg"
+  },
+  {
+    "id": "cafe2",
+    "file": "cafe2.jpg",
+    "alt": {
+      "en": "Breakfast with coffee and croissants, a tram behind",
+      "vi": "Bữa sáng với cà phê và bánh sừng bò, phía sau là tàu điện"
+    },
+    "title": "Grand Cafe de Lyon - Nice - panoramio (2).jpg",
+    "author": "kajikawa",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Grand_Cafe_de_Lyon_-_Nice_-_panoramio_(2).jpg"
+  },
+  {
+    "id": "channel",
+    "file": "channel.jpg",
+    "alt": {
+      "en": "A Eurostar train near the Channel Tunnel entrance",
+      "vi": "Tàu Eurostar gần cửa hầm eo biển Manche"
+    },
+    "title": "TGV TMST 3011-2 - Sortie Tunnel sous la Manche à Coquelles.jpg",
+    "author": "Billy69150",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:TGV_TMST_3011-2_-_Sortie_Tunnel_sous_la_Manche_%C3%A0_Coquelles.jpg"
+  },
+  {
+    "id": "chartres",
+    "file": "chartres.jpg",
+    "alt": {
+      "en": "Chartres Cathedral",
+      "vi": "Nhà thờ lớn Chartres"
+    },
+    "title": "Cathédrale Notre-Dame (Chartres) (2).jpg",
+    "author": "Gzen92",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Cath%C3%A9drale_Notre-Dame_(Chartres)_(2).jpg"
+  },
+  {
+    "id": "cheese",
+    "file": "cheese.jpg",
+    "alt": {
+      "en": "A tray of cheese from Savoie",
+      "vi": "Khay phô mai vùng Savoie"
+    },
+    "title": "Plateau de fromages de Savoie et cloche de Tarine (Chambéry 2017).JPG",
+    "author": "Florian Pépellin",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Plateau_de_fromages_de_Savoie_et_cloche_de_Tarine_(Chamb%C3%A9ry_2017).JPG"
+  },
+  {
+    "id": "cinema",
+    "file": "cinema.jpg",
+    "alt": {
+      "en": "A small old cinema in France",
+      "vi": "Một rạp chiếu phim nhỏ cũ ở Pháp"
+    },
+    "title": "Marseille Panier Movie Theater.jpg",
+    "author": "Benh LIEU SONG",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Marseille_Panier_Movie_Theater.jpg"
+  },
+  {
+    "id": "corsica",
+    "file": "corsica.jpg",
+    "alt": {
+      "en": "Rocks and sea on the coast of Corsica",
+      "vi": "Đá và biển ở bờ biển Corse"
+    },
+    "title": "Corsica - Roccapina - rocks in the sea - panoramio.jpg",
+    "author": "jeffwarder",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Corsica_-_Roccapina_-_rocks_in_the_sea_-_panoramio.jpg"
+  },
+  {
+    "id": "croissant",
+    "file": "croissant.jpg",
+    "alt": {
+      "en": "A croissant",
+      "vi": "Một chiếc bánh sừng bò"
+    },
+    "title": "Croissant, whole.jpg",
+    "author": "SKopp",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Croissant,_whole.jpg"
+  },
+  {
+    "id": "crous",
+    "file": "crous.jpg",
+    "alt": {
+      "en": "A university restaurant building in Dijon",
+      "vi": "Tòa nhà nhà ăn sinh viên ở Dijon"
+    },
+    "title": "Restaurant universitaire Montmuzard, Dijon.jpg",
+    "author": "Anon4952",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Restaurant_universitaire_Montmuzard,_Dijon.jpg"
+  },
+  {
+    "id": "eiffel",
+    "file": "eiffel.jpg",
+    "alt": {
+      "en": "The Eiffel Tower among spring trees",
+      "vi": "Tháp Eiffel giữa hàng cây mùa xuân"
+    },
+    "title": "Paris - The Eiffel Tower in spring - 2307.jpg",
+    "author": "Jorge Royan",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Paris_-_The_Eiffel_Tower_in_spring_-_2307.jpg"
+  },
+  {
+    "id": "elysee-treaty",
+    "file": "elysee-treaty.jpg",
+    "alt": {
+      "en": "A plaque showing de Gaulle and Adenauer shaking hands",
+      "vi": "Tấm biển khắc de Gaulle và Adenauer bắt tay nhau"
+    },
+    "title": "Denkmal Adenauer De Gaulle 2.jpg",
+    "author": "Manfred Brueckels",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Denkmal_Adenauer_De_Gaulle_2.jpg"
+  },
+  {
+    "id": "elysee2",
+    "file": "elysee2.jpg",
+    "alt": {
+      "en": "The Élysée Palace, residence of the French president",
+      "vi": "Điện Élysée, nơi làm việc của tổng thống Pháp"
+    },
+    "title": "Facade coté jardin du palais de l'Élysée.jpg",
+    "author": "Tangopaso",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Facade_cot%C3%A9_jardin_du_palais_de_l%27%C3%89lys%C3%A9e.jpg"
+  },
+  {
+    "id": "etretat",
+    "file": "etretat.jpg",
+    "alt": {
+      "en": "The chalk cliffs of Étretat",
+      "vi": "Vách đá vôi Étretat"
+    },
+    "title": "Falaise d Aval in Etretat.jpg",
+    "author": "Olaf Meister",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Falaise_d_Aval_in_Etretat.jpg"
+  },
+  {
+    "id": "eu-flag",
+    "file": "eu-flag.jpg",
+    "alt": {
+      "en": "European Union flags in front of the Commission building",
+      "vi": "Cờ Liên minh châu Âu trước tòa nhà Ủy ban châu Âu"
+    },
+    "title": "European Union Flags 2.jpg",
+    "author": "Thijs ter Haar",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:European_Union_Flags_2.jpg"
+  },
+  {
+    "id": "eu-parliament",
+    "file": "eu-parliament.jpg",
+    "alt": {
+      "en": "The European Parliament chamber in Strasbourg",
+      "vi": "Nghị trường Nghị viện châu Âu ở Strasbourg"
+    },
+    "title": "European Parliament Strasbourg Hemicycle - Diliff.jpg",
+    "author": "Diliff",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:European_Parliament_Strasbourg_Hemicycle_-_Diliff.jpg"
+  },
+  {
+    "id": "euro",
+    "file": "euro.jpg",
+    "alt": {
+      "en": "Euro coins and banknotes",
+      "vi": "Tiền xu và tiền giấy euro"
+    },
+    "title": "Euro coins and banknotes (cropped).jpg",
+    "author": "Avij (talk · contribs)",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Euro_coins_and_banknotes_(cropped).jpg"
+  },
+  {
+    "id": "fireworks",
+    "file": "fireworks.jpg",
+    "alt": {
+      "en": "Fireworks over the Eiffel Tower",
+      "vi": "Pháo hoa trên tháp Eiffel"
+    },
+    "title": "2012 Fireworks on Eiffel Tower 07.jpg",
+    "author": "Yann Caradec from Paris, France",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2012_Fireworks_on_Eiffel_Tower_07.jpg"
+  },
+  {
+    "id": "flag",
+    "file": "flag.jpg",
+    "alt": {
+      "en": "French tricolour flags on a town hall",
+      "vi": "Cờ tam tài Pháp trên một tòa thị chính"
+    },
+    "title": "RF emblem with French flags, Palais des Ducs, Dijon, 2026.jpg",
+    "author": "DimiTalen",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:RF_emblem_with_French_flags,_Palais_des_Ducs,_Dijon,_2026.jpg"
+  },
+  {
+    "id": "gare",
+    "file": "gare.jpg",
+    "alt": {
+      "en": "The clock tower of the Gare de Lyon in Paris",
+      "vi": "Tháp đồng hồ ga Lyon ở Paris"
+    },
+    "title": "P1210896 Paris XII gare de Lyon rwk.jpg",
+    "author": "Mbzt",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:P1210896_Paris_XII_gare_de_Lyon_rwk.jpg"
+  },
+  {
+    "id": "haussmann",
+    "file": "haussmann.jpg",
+    "alt": {
+      "en": "A Haussmann-style apartment building in Paris",
+      "vi": "Tòa nhà chung cư kiểu Haussmann ở Paris"
+    },
+    "title": "2 Boulevard Haussmann, Paris (01).jpg",
+    "author": "Neoclassicism Enthusiast",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:2_Boulevard_Haussmann,_Paris_(01).jpg"
+  },
+  {
+    "id": "lascaux",
+    "file": "lascaux.jpg",
+    "alt": {
+      "en": "Prehistoric paintings of animals at Lascaux",
+      "vi": "Tranh vẽ động vật thời tiền sử ở Lascaux"
+    },
+    "title": "Lascaux, replica 03.JPG",
+    "author": "HTO",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Lascaux,_replica_03.JPG"
+  },
+  {
+    "id": "lavender",
+    "file": "lavender.jpg",
+    "alt": {
+      "en": "A lavender field in Provence",
+      "vi": "Cánh đồng oải hương ở Provence"
+    },
+    "title": "France Provence lavender fields.jpg",
+    "author": "Dmytro Ivashchenko",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:France_Provence_lavender_fields.jpg"
+  },
+  {
+    "id": "library2",
+    "file": "library2.jpg",
+    "alt": {
+      "en": "The reading room of the Sainte-Geneviève library",
+      "vi": "Phòng đọc của thư viện Sainte-Geneviève"
+    },
+    "title": "Reading room of the Bibliothèque Sainte-Geneviève in 2016.jpg",
+    "author": "JOHN TOWNER heytowner",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Reading_room_of_the_Biblioth%C3%A8que_Sainte-Genevi%C3%A8ve_in_2016.jpg"
+  },
+  {
+    "id": "loire",
+    "file": "loire.jpg",
+    "alt": {
+      "en": "The Château de Chambord in the Loire Valley",
+      "vi": "Lâu đài Chambord ở thung lũng Loire"
+    },
+    "title": "Chambord Castle Northwest facade.jpg",
+    "author": "Benh LIEU SONG",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chambord_Castle_Northwest_facade.jpg"
+  },
+  {
+    "id": "louvre",
+    "file": "louvre.jpg",
+    "alt": {
+      "en": "The Louvre and its glass pyramid",
+      "vi": "Bảo tàng Louvre và kim tự tháp kính"
+    },
+    "title": "Louvre Courtyard, Looking West.jpg",
+    "author": "Benh LIEU SONG (Flickr)",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Louvre_Courtyard,_Looking_West.jpg"
+  },
+  {
+    "id": "mairie",
+    "file": "mairie.jpg",
+    "alt": {
+      "en": "A town hall (mairie) with French flags",
+      "vi": "Một tòa thị chính (mairie) với cờ Pháp"
+    },
+    "title": "Town hall of Gondecourt en 2025.jpg",
+    "author": "Pierre André Leclercq",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Town_hall_of_Gondecourt_en_2025.jpg"
+  },
+  {
+    "id": "musicday",
+    "file": "musicday.jpg",
+    "alt": {
+      "en": "An orchestra playing to a large audience",
+      "vi": "Một dàn nhạc biểu diễn trước đông đảo khán giả"
+    },
+    "title": "Fête de la musique 2016 à la Maison de la Radio, Paris.jpg",
+    "author": "Jean-Pierre Dalbéra",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:F%C3%AAte_de_la_musique_2016_%C3%A0_la_Maison_de_la_Radio,_Paris.jpg"
+  },
+  {
+    "id": "napoleon",
+    "file": "napoleon.jpg",
+    "alt": {
+      "en": "The Coronation of Napoleon, painting by David",
+      "vi": "Lễ đăng quang của Napoléon, tranh của David"
+    },
+    "title": "Jacques-Louis David - The Coronation of Napoleon (1805-1807).jpg",
+    "author": "Jacques-Louis David / Georges Rouget",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Jacques-Louis_David_-_The_Coronation_of_Napoleon_(1805-1807).jpg"
+  },
+  {
+    "id": "pharmacy",
+    "file": "pharmacy.jpg",
+    "alt": {
+      "en": "A pharmacy with its green cross sign",
+      "vi": "Hiệu thuốc với biển chữ thập xanh"
+    },
+    "title": "La Francheville-FR-08-pharmacie-02.jpg",
+    "author": "François GOGLINS",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:La_Francheville-FR-08-pharmacie-02.jpg"
+  },
+  {
+    "id": "pontdugard",
+    "file": "pontdugard.jpg",
+    "alt": {
+      "en": "The Pont du Gard, a Roman aqueduct",
+      "vi": "Pont du Gard, cầu máng dẫn nước La Mã"
+    },
+    "title": "Pont du Gard BLS.jpg",
+    "author": "Benh LIEU SONG (Flickr)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Pont_du_Gard_BLS.jpg"
+  },
+  {
+    "id": "postbox",
+    "file": "postbox.jpg",
+    "alt": {
+      "en": "A yellow La Poste mailbox",
+      "vi": "Hòm thư vàng của La Poste"
+    },
+    "title": "Boîte aux lettres La Poste à Coublanc, Saône-et-Loire (août 2020).jpg",
+    "author": "Sebleouf",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Bo%C3%AEte_aux_lettres_La_Poste_%C3%A0_Coublanc,_Sa%C3%B4ne-et-Loire_(ao%C3%BBt_2020).jpg"
+  },
+  {
+    "id": "reims",
+    "file": "reims.jpg",
+    "alt": {
+      "en": "Reims Cathedral and its garden",
+      "vi": "Nhà thờ lớn Reims và khu vườn"
+    },
+    "title": "Palais du Tau and Cathédrale Notre-Dame de Reims, East View 20140306.jpg",
+    "author": "DXR",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palais_du_Tau_and_Cath%C3%A9drale_Notre-Dame_de_Reims,_East_View_20140306.jpg"
+  },
+  {
+    "id": "saigon",
+    "file": "saigon.jpg",
+    "alt": {
+      "en": "Notre-Dame Basilica in Ho Chi Minh City, built in the French colonial period",
+      "vi": "Nhà thờ Đức Bà ở Thành phố Hồ Chí Minh, xây dưới thời Pháp thuộc"
+    },
+    "title": "Saigon Notre-Dame Basilica (14531839959).jpg",
+    "author": "rjabalosIII",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Saigon_Notre-Dame_Basilica_(14531839959).jpg"
+  },
+  {
+    "id": "seine",
+    "file": "seine.jpg",
+    "alt": {
+      "en": "The Seine in Paris seen from the Pont d’Iéna",
+      "vi": "Sông Seine ở Paris nhìn từ cầu Iéna"
+    },
+    "title": "View up the Seine from Pont d'Iéna, Paris, 2016.jpg",
+    "author": "DimiTalen",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:View_up_the_Seine_from_Pont_d%27I%C3%A9na,_Paris,_2016.jpg"
+  },
+  {
+    "id": "senat",
+    "file": "senat.jpg",
+    "alt": {
+      "en": "The Luxembourg Palace, seat of the Senate",
+      "vi": "Cung Luxembourg, trụ sở Thượng viện Pháp"
+    },
+    "title": "Palais du Luxembourg, South View 140116 1.jpg",
+    "author": "DXR",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Palais_du_Luxembourg,_South_View_140116_1.jpg"
+  },
+  {
+    "id": "students2",
+    "file": "students2.jpg",
+    "alt": {
+      "en": "A university campus in France",
+      "vi": "Một khuôn viên đại học ở Pháp"
+    },
+    "title": "Campus de l'Ecole polytechnique (35420401136).jpg",
+    "author": "Ecole polytechnique Université Paris-Saclay",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Campus_de_l%27Ecole_polytechnique_(35420401136).jpg"
+  },
+  {
+    "id": "supermarket",
+    "file": "supermarket.jpg",
+    "alt": {
+      "en": "A supermarket aisle",
+      "vi": "Một dãy kệ trong siêu thị"
+    },
+    "title": "Rayon pâtes sèches d'un supermarché à Rome, en Italie.png",
+    "author": "Thomas Housieaux",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Rayon_p%C3%A2tes_s%C3%A8ches_d%27un_supermarch%C3%A9_%C3%A0_Rome,_en_Italie.png"
+  },
+  {
+    "id": "tgvtrain",
+    "file": "tgvtrain.jpg",
+    "alt": {
+      "en": "A high-speed train on a viaduct",
+      "vi": "Tàu cao tốc trên cầu cạn"
+    },
+    "title": "SNCF TGV Duplex Viaduc de Cize - Bolozon.jpg",
+    "author": "Kabelleger / David Gubler (http://www.bahnbilder.ch)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:SNCF_TGV_Duplex_Viaduc_de_Cize_-_Bolozon.jpg"
+  },
+  {
+    "id": "toulouse",
+    "file": "toulouse.jpg",
+    "alt": {
+      "en": "The Capitole de Toulouse at night",
+      "vi": "Tòa Capitole ở Toulouse về đêm"
+    },
+    "title": "Toulouse Capitole Night Wikimedia Commons.jpg",
+    "author": "Benh LIEU SONG",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Toulouse_Capitole_Night_Wikimedia_Commons.jpg"
+  },
+  {
+    "id": "tourdefrance",
+    "file": "tourdefrance.jpg",
+    "alt": {
+      "en": "Cyclists in the Tour de France",
+      "vi": "Các tay đua trong giải Tour de France"
+    },
+    "title": "Tour de France, peloton - geograph.org.uk - 4624719.jpg",
+    "author": "Stephen Craven",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Tour_de_France,_peloton_-_geograph.org.uk_-_4624719.jpg"
+  },
+  {
+    "id": "university",
+    "file": "university.jpg",
+    "alt": {
+      "en": "The Sorbonne chapel and the Latin Quarter, Paris",
+      "vi": "Nhà nguyện Sorbonne và khu Latin, Paris"
+    },
+    "title": "Sorbonne University @ Paris (23899763722).jpg",
+    "author": "Guilhem Vellut from Paris, France",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sorbonne_University_@_Paris_(23899763722).jpg"
+  },
+  {
+    "id": "verdun",
+    "file": "verdun.jpg",
+    "alt": {
+      "en": "Graves in front of the Douaumont ossuary near Verdun",
+      "vi": "Những ngôi mộ trước đài tưởng niệm Douaumont gần Verdun"
+    },
+    "title": "Verdun - Cimetière de Douaumont (1).jpg",
+    "author": "Jean-Pol GRANDMONT",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Verdun_-_Cimeti%C3%A8re_de_Douaumont_(1).jpg"
+  },
+  {
+    "id": "versailles",
+    "file": "versailles.jpg",
+    "alt": {
+      "en": "The Hall of Mirrors at Versailles",
+      "vi": "Phòng Gương ở điện Versailles"
+    },
+    "title": "Chateau Versailles Galerie des Glaces.jpg",
+    "author": "Myrabella",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chateau_Versailles_Galerie_des_Glaces.jpg"
+  },
+  {
+    "id": "vote",
+    "file": "vote.jpg",
+    "alt": {
+      "en": "A ballot box marked “Urne”",
+      "vi": "Thùng phiếu ghi chữ “Urne”"
+    },
+    "title": "Urne de vote en Côte d'Ivoire 2025.jpg",
+    "author": "Blessingedi76",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Urne_de_vote_en_C%C3%B4te_d%27Ivoire_2025.jpg"
+  }
+]

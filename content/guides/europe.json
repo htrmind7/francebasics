@@ -1,0 +1,408 @@
+[
+  {
+    "image": "eu-flag",
+    "id": "france-in-the-eu",
+    "categoryId": "europe",
+    "title": {
+      "en": "France in the European Union",
+      "vi": "Pháp trong Liên minh châu Âu"
+    },
+    "icon": "globe",
+    "summary": {
+      "en": "A founding member, the single market and Erasmus.",
+      "vi": "Thành viên sáng lập, thị trường chung và Erasmus."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "A founding member",
+          "vi": "Một thành viên sáng lập"
+        },
+        "body": {
+          "en": "France was one of the six founding countries of the European Economic Community, created by the Treaty of Rome in 1957, which became the European Union. The EU today has 27 member states, and France is one of its main economies.",
+          "vi": "Pháp là một trong sáu nước sáng lập Cộng đồng Kinh tế châu Âu, thành lập theo Hiệp ước Roma năm 1957, sau này trở thành Liên minh châu Âu. EU ngày nay có 27 quốc gia thành viên, và Pháp là một trong những nền kinh tế chính."
+        }
+      },
+      {
+        "heading": {
+          "en": "What it means for you",
+          "vi": "Điều này có ý nghĩa gì với bạn"
+        },
+        "body": {
+          "en": "The EU single market allows goods, services and people to move more easily between member states. The Erasmus programme, started in 1987, helps students to study in another European country.",
+          "vi": "Thị trường chung của EU cho phép hàng hóa, dịch vụ và con người di chuyển dễ dàng hơn giữa các nước thành viên. Chương trình Erasmus, bắt đầu năm 1987, giúp sinh viên học ở một nước châu Âu khác."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "France founded the EEC in 1957 with five other countries.",
+        "vi": "Pháp cùng năm nước khác sáng lập EEC năm 1957."
+      },
+      {
+        "en": "The EU has 27 member states.",
+        "vi": "EU có 27 quốc gia thành viên."
+      },
+      {
+        "en": "Erasmus helps students study in other European countries.",
+        "vi": "Erasmus giúp sinh viên học ở các nước châu Âu khác."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": [
+      "eu",
+      "european union",
+      "erasmus",
+      "single market",
+      "treaty of rome"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "European Union: official website",
+          "vi": "Liên minh châu Âu: trang chính thức"
+        },
+        "url": "https://european-union.europa.eu/index_en"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "euro",
+    "id": "euro-and-schengen",
+    "categoryId": "europe",
+    "title": {
+      "en": "The euro and Schengen",
+      "vi": "Đồng euro và Schengen"
+    },
+    "icon": "euro",
+    "summary": {
+      "en": "The money and the borders you will cross.",
+      "vi": "Đồng tiền và những biên giới bạn sẽ đi qua."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "The euro",
+          "vi": "Đồng euro"
+        },
+        "body": {
+          "en": "France uses the euro, which replaced the franc as cash in 2002. The euro is used by most, but not all, EU countries, so check before you travel.",
+          "vi": "Pháp dùng đồng euro, thay thế đồng franc dạng tiền mặt từ năm 2002. Đa số, nhưng không phải tất cả, các nước EU dùng euro, nên hãy kiểm tra trước khi đi."
+        }
+      },
+      {
+        "heading": {
+          "en": "Schengen",
+          "vi": "Schengen"
+        },
+        "body": {
+          "en": "Most EU countries are part of the Schengen area, where there are normally no border checks between them. But you still need valid documents: your visa or residence permit says where you can travel, so check the rules for your own situation, and carry your passport.",
+          "vi": "Phần lớn các nước EU thuộc khu vực Schengen, nơi thường không có kiểm soát biên giới giữa các nước. Nhưng bạn vẫn cần giấy tờ hợp lệ: visa hoặc giấy phép cư trú cho biết bạn được đi đâu, nên hãy kiểm tra quy định cho trường hợp của bạn, và mang theo hộ chiếu."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "France uses the euro.",
+        "vi": "Pháp dùng đồng euro."
+      },
+      {
+        "en": "Schengen means no routine border checks between member countries.",
+        "vi": "Schengen nghĩa là không có kiểm soát biên giới thường xuyên giữa các nước thành viên."
+      },
+      {
+        "en": "Your permit decides where you may travel: check it.",
+        "vi": "Giấy phép của bạn quyết định nơi bạn được đi: hãy kiểm tra."
+      }
+    ],
+    "commonMistakes": [
+      {
+        "en": "Travelling to another country without checking what your visa allows.",
+        "vi": "Đi sang nước khác mà không kiểm tra visa cho phép những gì."
+      }
+    ],
+    "phrases": [],
+    "keywords": ["euro", "schengen", "border", "currency", "travel"],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "elysee-treaty",
+    "id": "franco-german-friendship",
+    "categoryId": "europe",
+    "title": {
+      "en": "The Franco-German friendship",
+      "vi": "Tình hữu nghị Pháp-Đức"
+    },
+    "icon": "globe",
+    "summary": {
+      "en": "From enemies to the engine of Europe.",
+      "vi": "Từ kẻ thù đến động lực của châu Âu."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Reconciliation",
+          "vi": "Hòa giải"
+        },
+        "body": {
+          "en": "France and Germany fought three wars between 1870 and 1945. After the Second World War, their leaders chose reconciliation. The Élysée Treaty, signed in 1963 by Charles de Gaulle and Konrad Adenauer, set up regular cooperation.",
+          "vi": "Pháp và Đức đã đánh nhau ba cuộc chiến từ 1870 đến 1945. Sau Thế chiến thứ hai, các nhà lãnh đạo hai nước chọn hòa giải. Hiệp ước Élysée, ký năm 1963 bởi Charles de Gaulle và Konrad Adenauer, thiết lập sự hợp tác thường xuyên."
+        }
+      },
+      {
+        "heading": {
+          "en": "Today",
+          "vi": "Ngày nay"
+        },
+        "body": {
+          "en": "The two countries are close partners in the EU. Exchanges of young people and students are supported by the Franco-German Youth Office. Between Strasbourg and the German city of Kehl, a bridge over the Rhine crosses the border daily.",
+          "vi": "Hai nước là đối tác thân thiết trong EU. Việc trao đổi thanh niên và sinh viên được Văn phòng Thanh niên Pháp-Đức hỗ trợ. Giữa Strasbourg và thành phố Kehl của Đức, một cây cầu bắc qua sông Rhin vượt biên giới mỗi ngày."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "The Élysée Treaty was signed in 1963.",
+        "vi": "Hiệp ước Élysée được ký năm 1963."
+      },
+      {
+        "en": "France and Germany are central partners in the EU.",
+        "vi": "Pháp và Đức là đối tác trung tâm trong EU."
+      },
+      {
+        "en": "Youth exchanges between the two countries are supported.",
+        "vi": "Các trao đổi thanh niên giữa hai nước được hỗ trợ."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": [
+      "germany",
+      "de gaulle",
+      "adenauer",
+      "elysee treaty",
+      "friendship"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "brussels",
+    "id": "neighbours-overview",
+    "categoryId": "europe",
+    "title": {
+      "en": "France and its neighbours",
+      "vi": "Nước Pháp và các nước láng giềng"
+    },
+    "icon": "globe",
+    "summary": {
+      "en": "Who shares a border with France, and how easy it is to visit.",
+      "vi": "Nước nào có chung biên giới với Pháp, và việc đến thăm dễ thế nào."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "On the map",
+          "vi": "Trên bản đồ"
+        },
+        "body": {
+          "en": "Mainland France borders Belgium, Luxembourg, Germany, Switzerland, Italy, Monaco, Spain and Andorra. The United Kingdom lies across the Channel. Several overseas territories also have borders, for example French Guiana with Brazil.",
+          "vi": "Nước Pháp lục địa giáp Bỉ, Luxembourg, Đức, Thụy Sĩ, Ý, Monaco, Tây Ban Nha và Andorra. Vương quốc Anh nằm bên kia eo biển Manche. Một số lãnh thổ hải ngoại cũng có biên giới, ví dụ Guyane thuộc Pháp giáp Brazil."
+        }
+      },
+      {
+        "heading": {
+          "en": "Easy trips",
+          "vi": "Những chuyến đi dễ dàng"
+        },
+        "body": {
+          "en": "From many French cities, Brussels, Geneva, Strasbourg and Kehl, Barcelona or Turin are only a few hours away by train or bus. Check what your visa allows before you go, and keep your documents with you.",
+          "vi": "Từ nhiều thành phố Pháp, Bruxelles, Genève, Strasbourg và Kehl, Barcelona hay Turin chỉ cách vài giờ đi tàu hoặc xe buýt. Hãy kiểm tra visa của bạn cho phép những gì trước khi đi, và mang giấy tờ theo người."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "Eight countries border mainland France.",
+        "vi": "Tám nước giáp nước Pháp lục địa."
+      },
+      {
+        "en": "Many neighbouring cities are a few hours away.",
+        "vi": "Nhiều thành phố láng giềng chỉ cách vài giờ."
+      },
+      {
+        "en": "Check what your visa allows before travelling.",
+        "vi": "Kiểm tra visa cho phép gì trước khi đi."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": [
+      "neighbours",
+      "belgium",
+      "germany",
+      "spain",
+      "italy",
+      "switzerland",
+      "borders"
+    ],
+    "officialLinks": [],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "channel",
+    "id": "uk-and-the-channel",
+    "categoryId": "europe",
+    "title": {
+      "en": "The United Kingdom and the Channel",
+      "vi": "Vương quốc Anh và eo biển Manche"
+    },
+    "icon": "globe",
+    "summary": {
+      "en": "A close and complicated neighbour.",
+      "vi": "Một nước láng giềng gần gũi và phức tạp."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "A long relationship",
+          "vi": "Mối quan hệ lâu dài"
+        },
+        "body": {
+          "en": "France and England share a long history, with many conflicts, such as the Hundred Years’ War, and many alliances. The “Entente Cordiale” of 1904 started a friendship. Many words in English come from French.",
+          "vi": "Pháp và Anh chia sẻ một lịch sử dài, với nhiều xung đột như Chiến tranh Trăm năm và nhiều liên minh. “Entente Cordiale” năm 1904 mở đầu một tình hữu nghị. Nhiều từ tiếng Anh bắt nguồn từ tiếng Pháp."
+        }
+      },
+      {
+        "heading": {
+          "en": "The Channel Tunnel",
+          "vi": "Đường hầm eo biển Manche"
+        },
+        "body": {
+          "en": "The Channel Tunnel, opened in 1994, links Calais to the UK by train. Since the UK left the EU in 2020, entry rules between the UK and the EU have changed: check the official rules before you travel.",
+          "vi": "Đường hầm eo biển Manche, mở năm 1994, nối Calais với Anh bằng tàu. Từ khi Anh rời EU năm 2020, quy định nhập cảnh giữa Anh và EU đã thay đổi: hãy kiểm tra quy định chính thức trước khi đi."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "The Channel Tunnel opened in 1994.",
+        "vi": "Đường hầm eo biển Manche mở năm 1994."
+      },
+      {
+        "en": "The UK left the EU in 2020.",
+        "vi": "Anh rời EU năm 2020."
+      },
+      {
+        "en": "Check entry rules before travelling to the UK.",
+        "vi": "Kiểm tra quy định nhập cảnh trước khi đến Anh."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": ["uk", "england", "channel", "brexit", "eurostar", "calais"],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "Service-Public (French government)",
+          "vi": "Service-Public (chính phủ Pháp)"
+        },
+        "url": "https://www.service-public.gouv.fr/"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  },
+  {
+    "image": "eu-parliament",
+    "id": "eu-institutions",
+    "categoryId": "europe",
+    "title": {
+      "en": "The EU institutions in simple words",
+      "vi": "Các thể chế EU nói đơn giản"
+    },
+    "icon": "globe",
+    "summary": {
+      "en": "Who does what, and where Strasbourg fits in.",
+      "vi": "Ai làm gì, và Strasbourg đóng vai trò nào."
+    },
+    "kind": "explainer",
+    "sections": [
+      {
+        "heading": {
+          "en": "Who does what",
+          "vi": "Ai làm gì"
+        },
+        "body": {
+          "en": "The European Parliament, elected by citizens, votes laws with the Council of the EU, which brings together the governments. The European Commission proposes laws and applies them. The Court of Justice, in Luxembourg, makes sure EU law is respected.",
+          "vi": "Nghị viện châu Âu, do công dân bầu, thông qua luật cùng Hội đồng EU, nơi tập hợp các chính phủ. Ủy ban châu Âu đề xuất và thực thi luật. Tòa án Công lý, ở Luxembourg, bảo đảm luật EU được tôn trọng."
+        }
+      },
+      {
+        "heading": {
+          "en": "Strasbourg and Brussels",
+          "vi": "Strasbourg và Bruxelles"
+        },
+        "body": {
+          "en": "The European Parliament has its official seat in Strasbourg, where it holds its main sessions, but also works in Brussels. The Council of Europe, also in Strasbourg, is a different organisation: it is not part of the EU.",
+          "vi": "Nghị viện châu Âu có trụ sở chính thức ở Strasbourg, nơi tổ chức các phiên họp chính, nhưng cũng làm việc ở Bruxelles. Hội đồng châu Âu (Council of Europe), cũng ở Strasbourg, là một tổ chức khác: không thuộc EU."
+        }
+      }
+    ],
+    "keyPoints": [
+      {
+        "en": "The Parliament is elected by citizens.",
+        "vi": "Nghị viện do công dân bầu."
+      },
+      {
+        "en": "The Commission proposes laws.",
+        "vi": "Ủy ban đề xuất luật."
+      },
+      {
+        "en": "Strasbourg hosts the Parliament’s main sessions.",
+        "vi": "Strasbourg tổ chức các phiên họp chính của Nghị viện."
+      }
+    ],
+    "commonMistakes": [],
+    "phrases": [],
+    "keywords": [
+      "eu parliament",
+      "commission",
+      "council",
+      "strasbourg",
+      "brussels",
+      "court"
+    ],
+    "officialLinks": [
+      {
+        "label": {
+          "en": "European Union: official website",
+          "vi": "Liên minh châu Âu: trang chính thức"
+        },
+        "url": "https://european-union.europa.eu/index_en"
+      }
+    ],
+    "lastChecked": "2026-10-29",
+    "status": "validated"
+  }
+]

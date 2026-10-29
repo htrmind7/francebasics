@@ -4,9 +4,11 @@ import {
   categorySchema,
   checklistSchema,
   guideSchema,
+  imageSchema,
   type Category,
   type Checklist,
   type Guide,
+  type Image,
   type Localized,
 } from './schemas.ts'
 
@@ -14,6 +16,7 @@ export type Content = {
   categories: Category[]
   guides: Guide[]
   checklists: Checklist[]
+  images: Image[]
 }
 
 export class ContentError extends Error {
@@ -32,24 +35,27 @@ export function parseContent(raw: {
   categories: unknown
   guides: unknown
   checklists: unknown
+  images: unknown
 }): Content {
   const parsed = z
     .object({
       categories: z.array(categorySchema),
       guides: z.array(guideSchema),
       checklists: z.array(checklistSchema),
+      images: z.array(imageSchema),
     })
     .safeParse(raw)
   if (!parsed.success) {
     throw new ContentError(z.prettifyError(parsed.error))
   }
-  const { categories, guides, checklists } = parsed.data
+  const { categories, guides, checklists, images } = parsed.data
 
   const problems: string[] = []
   for (const [name, items] of [
     ['category', categories],
     ['guide', guides],
     ['checklist', checklists],
+    ['image', images],
   ] as const) {
     for (const id of duplicates(items.map((item) => item.id))) {
       problems.push(`duplicate ${name} id "${id}"`)
@@ -57,11 +63,17 @@ export function parseContent(raw: {
   }
   const categoryIds = new Set(categories.map((category) => category.id))
   const guideIds = new Set(guides.map((guide) => guide.id))
+  const imageIds = new Set(images.map((image) => image.id))
   for (const guide of guides) {
     if (!categoryIds.has(guide.categoryId)) {
       problems.push(
         `guide "${guide.id}" has unknown category "${guide.categoryId}"`,
       )
+    }
+  }
+  for (const item of [...categories, ...guides]) {
+    if (item.image && !imageIds.has(item.image)) {
+      problems.push(`"${item.id}" has unknown image "${item.image}"`)
     }
   }
   for (const checklist of checklists) {
@@ -91,7 +103,7 @@ export function publishedContent(content: Content): Content {
   const categories = content.categories
     .filter((category) => used.has(category.id))
     .sort((a, b) => a.order - b.order)
-  return { categories, guides, checklists }
+  return { categories, guides, checklists, images: content.images }
 }
 
 export function text(value: Localized, language: Language): string {
